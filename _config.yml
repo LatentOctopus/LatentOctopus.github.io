@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: ""
 url: "https://latentoctopus.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 domain: latentoctopus.github.io
-github_username:  "LatentOctopus"
+# github_username:  "LatentOctopus"
 
 # Build settings
 theme: minima
