@@ -5,6 +5,8 @@
 layout: home
 ---
 
+### Welcome!
+
 Welcome to Spirit Island Guides! Here you 
 can find guides containing my thoughts 
 about general concepts and openings 
@@ -12,7 +14,7 @@ for a variety of Spirits, as well as links
  to similar resources that I like on other 
 websites.
 
-## Why should you listen to me?
+### Why should you listen to me?
 
 No reason in particular! I am a level 6 
 (difficulty 8-11) solo player like many 
@@ -31,7 +33,7 @@ experience with the Spirit -- you never
 stop learning! Hopefully you'll find at 
 least some of them useful :)
 
-## Who are these guides for?
+### Who are these guides for?
 
 As I said above, this website is more similar
 to sharing my notes than to explicitly teach
