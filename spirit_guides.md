@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Spirit guides
+title: Guides
 permalink: /guides/
 ---
 
