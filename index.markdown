@@ -5,8 +5,6 @@
 layout: home
 ---
 
-# Welcome
-
 Welcome to Spirit Island Guides! Here you 
 can find guides containing my thoughts 
 about general concepts and openings 
