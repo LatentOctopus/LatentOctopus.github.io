@@ -1,7 +1,7 @@
 toc:
-  - title: Fangs
-    subfolderitems:
-      - page: General Concepts
-        url: /concepts.md
-      - page: Opening 1
-        url: /opening1.md
+  - spirit: Fangs
+    pages:
+      - title: General Concepts
+        filename: concepts.md
+      - title: Opening 1
+        filename: opening1.md
