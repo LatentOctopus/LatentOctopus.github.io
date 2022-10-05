@@ -8,7 +8,7 @@ permalink: /guides/
   <h3>{{ item.spirit }}</h3>
     <ul>
       {% for entry in item.pages %}
-        <li><a href="/guides/{{ item.spirit }}/{{ entry.filename }}">{{ entry.title }}</a></li>
+        <li><a href="/guides/{{ item.spirit | downcase }}/{{ entry.filename }}">{{ entry.title }}</a></li>
       {% endfor %}
     </ul>
 {% endfor %}
