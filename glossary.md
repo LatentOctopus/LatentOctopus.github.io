@@ -6,8 +6,9 @@ permalink: /glossary/
 
 ### Abbreviations
 
-* **CP**: card plays.
-* **G**`<number>`: one of the growth options, starting from 1 going left to right. For Green, the "Always" growth is called G0.
+*  **G**`n`:  the `n`th growth options, starting from 1 going left to right. For Green, the "Always" growth is called G0.
+* `n`**E**: `n` energy/turn.
+* `n`**CP**: `n` card plays.
 * **X/Y**: X Energy/turn and Y card plays.
 
 ### Opening names
