@@ -2,6 +2,6 @@ toc:
   - title: Fangs
     subfolderitems:
       - page: General Concepts
-        url: /concepts.html
+        url: /concepts.md
       - page: Opening 1
-        url: /opening1.html
+        url: /opening1.md
