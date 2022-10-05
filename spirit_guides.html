@@ -5,10 +5,10 @@ permalink: /guides/
 ---
 
 {% for item in site.data.spirit_pages.toc %}
-  <h3>{{ item.title }}</h3>
+  <h3>{{ item.spirit }}</h3>
     <ul>
-      {% for entry in item.subfolderitems %}
-        <li><a href="{{ entry.url }}">{{ entry.page }}</a></li>
+      {% for entry in item.pages %}
+        <li><a href="/guides/{{ item.spirit }}/{{ entry.filename }}">{{ entry.title }}</a></li>
       {% endfor %}
     </ul>
 {% endfor %}
