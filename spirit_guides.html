@@ -4,6 +4,17 @@ title: Guides
 permalink: /guides/
 ---
 
+{% for tag in site.tags | sort %}
+  <h3>{{ tag[0] }}</h3>
+  <ul>
+  {% for post in site.posts %}
+    {% if post.categories contains "guide" and post.categories contains tag[0] %}
+      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endif %}
+  {% endfor %}
+  </ul>
+{% endfor %}
+
 {% for item in site.data.spirit_pages.toc %}
   <h3>{{ item.spirit }}</h3>
     <ul>
