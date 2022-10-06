@@ -36,8 +36,8 @@ The columns of these table are:
 * **Turn**: the turn the row refers to.
 * **Growth(s)**: the growth option that is typically selected.
 * **Owned cards**: the total number of cards owned by the player, including the discard, _after_ all cards gained during growth.
-* **Cards in hand**: the number cards available to play, _after_ gaining and reclaiming. Note that, unless otherwise specified in the opening, this assumes that all card plays are used.
-* **Cumulative energy**: the total amount of energy gained so far in the game _via growth_ (i.e. escluding Power Card gains, unless otherwise specified.
+* **Cards in hand**: the number cards available to play, _after_ gaining and reclaiming. Note that, unless otherwise specified in the opening, this assumes that all card plays are used on the previous turn.
+* **Cumulative energy**: the total amount of energy gained so far in the game _via growth_, i.e. escluding Power Card gains, unless otherwise specified.
     * _Why do you not report the energy available on that turn?_ Because that depends on card gains, thus being too variable to strategise on.
 
 Other Spirit-specific columns may be added, but these will be present most of the time.
