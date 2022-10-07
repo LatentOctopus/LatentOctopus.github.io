@@ -1,6 +1,6 @@
 ---
 
-layout: post
+layout: resources
 
 title: "External Resources"
 
@@ -9,7 +9,3 @@ category: guide
 tags: Vengeance
 
 ---
-
-## Other guides
-
-Nothing yet! Please leave a comment with a link to the guide if you have any suggestion :)
