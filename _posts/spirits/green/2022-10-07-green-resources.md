@@ -7,4 +7,10 @@ tags: Green
 
 ## Other guides
 
-Nothing yet! Please leave a comment with a link to the guide if you have any suggestion :)
+{% for entry in site.data.resources | sort %}
+  <ul>
+    {% if page.tags contains entry.spirit %}
+      <li><a href="{{ entry.link }}">{{ entry.author }}'s guide on {{ entry.site }}</a></li>
+    {% endif %}
+  </ul>
+{% endfor %}
