@@ -12,4 +12,4 @@ tags: Bringer
 
 ## Other guides
 
-Nothing yet! Please leave a comment with a link to the guide if you have any suggestion :)
+- [Jeremy Lennert's guide on BGG](https://boardgamegeek.com/thread/1971193/openings-bringer-dreams-and-nightmares)
