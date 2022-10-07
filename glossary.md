@@ -10,6 +10,7 @@ permalink: /glossary/
 * n**E** (e.g. 2E): n energy/turn.
 * n**CP** (e.g. 3CP): n card plays.
 * **x/y** (e.g. 2/4): x energy/turn and y card plays.
+* **CE**: Cumulative Energy. See [Stats](#Stats) below for its meaning.
 
 ### Opening names
 
@@ -41,3 +42,11 @@ The columns of these table are:
     * _Why do you not report the energy available on that turn?_ Because that depends on card gains, thus being too variable to strategise on.
 
 Other Spirit-specific columns may be added, but these will be present most of the time.
+
+
+### Credits
+
+Many other people post guides online, and there may be overlaps with mine. In this case I'll credit the other guide in one of two ways:
+
+- **Adapted from X** means that I've read X and tried it before writing my notes. X was instrumental for my guide, which may even be largely the same as X, or a simplified version!
+- **Same as X** / **Similar to X** means that my guide was developed independently from X. It just happened that someone else uses a similar or identical strategy and posted it online. Even it X was online before I uploaded the guide, I had not read it at the time of writing it.
