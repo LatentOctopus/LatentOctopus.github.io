@@ -12,4 +12,4 @@ tags: Downpour
 
 ## Other guides
 
-Nothing yet! Please leave a comment with a link to the guide if you have any suggestion :)
+- [Jonah Yonker's guide on BGG](https://boardgamegeek.com/thread/2496834/openings-dowpour-drenches-world)
