@@ -49,4 +49,4 @@ Other Spirit-specific columns may be added, but these will be present most of th
 Many other people post guides online, and there may be overlaps with mine. In this case I'll credit the other guide in one of two ways:
 
 - **Adapted from X** means that I've read X and tried it before writing my notes. X was instrumental for my guide, which may even be largely the same as X, or a simplified version!
-- **Same as X** / **Similar to X** means that my guide was developed independently from X. It just happened that someone else uses a similar or identical strategy and posted it online. Even it X was online before I uploaded the guide, I had not read it at the time of writing it.
+- **Same as X** / **Similar to X** means that my guide was developed independently from X. It just happened that someone else uses a similar or identical strategy and posted it online. Even it X was online before I uploaded the guide, I had not read it when I came up with it.
