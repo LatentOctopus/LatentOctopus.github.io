@@ -5,6 +5,6 @@ category: guide
 tags: Mist
 ---
 
-## External Resources
+## Other guides
 
 - [Rei's guide on BGG](https://boardgamegeek.com/thread/2722115/advanced-guide-shroud-silent-mist)
