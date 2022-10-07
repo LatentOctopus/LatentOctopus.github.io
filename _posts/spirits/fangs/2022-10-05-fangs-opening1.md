@@ -84,7 +84,7 @@ Cons:
 
 Recommended against: England.
 
-The idea is to apply the [(G3>G3) -› (G4>G1) growth swap]({% post_url 2022-10-05-concepts %}) to reclaim [[Prey on the builders]] often, which helps contain England's heavy building.
+The idea is to apply the [(G3>G3) -› (G4>G1) growth swap]({% post_url 2022-10-05-fangs-concepts %}) to reclaim [[Prey on the builders]] often, which helps contain England's heavy building.
 
 ### Growth 
 
