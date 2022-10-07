@@ -7,7 +7,7 @@ tags: Mist
 
 ## Opening: Bottom track (Minors)
 
-**Adapted from [Rei's guide on BGG]({% post_url 2022-10-07-resources %}).**
+**Adapted from [Rei's guide on BGG]({% post_url 2022-10-07-mist-resources %}).**
 
 ### Unique Powers reminder
 
