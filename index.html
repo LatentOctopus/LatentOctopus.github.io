@@ -9,12 +9,43 @@ can find guides containing my thoughts
 about general concepts and openings for a 
 variety of Spirits, as well as links to 
 similar resources that I like on other 
-websites.<br/>
+websites.<br/><br/>
 
 If you would like to know more about this 
 site, have a question, or want to leave a
  comment, please head to the
- <a href="q_and_a">Q&A</a> page!<br/>
+ <a href="q_and_a">Q&A</a> page!<br/><br/>
 
-Hope you'll enjoy your stay :D <br/>
+Hope you'll enjoy your stay :D <br/><br/>
 
+
+
+<!-- This loops through the paginated posts -->
+{% for post in paginator.posts %}
+  <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
+  <p class="author">
+    <span class="date">{{ post.date }}</span>
+  </p>
+  <div class="content">
+    {{ post.content }}
+  </div>
+{% endfor %}
+
+<!-- Pagination links -->
+<div class="pagination">
+  {% if paginator.previous_page %}
+    <a href="{{ paginator.previous_page_path }}" class="previous">
+      Previous
+    </a>
+  {% else %}
+    <span class="previous">Previous</span>
+  {% endif %}
+  <span class="page_number ">
+    Page: {{ paginator.page }} of {{ paginator.total_pages }}
+  </span>
+  {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path }}" class="next">Next</a>
+  {% else %}
+    <span class="next ">Next</span>
+  {% endif %}
+</div>
