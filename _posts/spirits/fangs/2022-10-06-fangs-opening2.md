@@ -7,7 +7,7 @@ tags: Fangs
 
 ## Opening: Full bottom track (Minors)
 
-Unique Powers reminder:
+### Unique Powers reminder
 
 <img src="/assets/images/Prey on the builders.jpg" width="200"/> <img src="/assets/images/Terrifying chase.jpg" width="200"/> <img src="/assets/images/Teeth gleam.jpg" width="200"/> <img src="/assets/images/Too near the jungle.jpg" width="200"/>
 
@@ -68,12 +68,14 @@ Play 5.
 
 From turn 7 on, growth is G4 + any other, according to needs (G2 should only be selected if placing presence is necessary).
 
+#### Remarks
+
 Optionally, on turn 4-6 G2 can be taken from top until 2 Energy to unlock extra elements and more Energy/turn (**Bottom track hybrid**), but this is generally not recommended because extra elements can be gained with more card plays by playing 0-cost Powers, and extra Energy can be gained by selecting G4 (and possibly G3 on top of that). 
 
 
 ### Stats
 
-Turn | Growths | Owned cards | Cards in hand | Cumulative Energy
+Turn | Growths | Owned cards | Cards in hand | CE
 :--: | :--: | :--: | :--: | :--: 
 1 | 2, 3 |   5   | 5 | 2
 2 | 2, 4 |   5   | 3 | 6
