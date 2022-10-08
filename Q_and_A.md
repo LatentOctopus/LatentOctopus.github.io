@@ -57,4 +57,5 @@ are more likely to receive a guide, but... you never know :D
 
 Great! Please go ahead and ask it in the comment section below :D
 
+<br/>
 {%- include comments.html -%}
