@@ -57,12 +57,4 @@ are more likely to receive a guide, but... you never know :D
 
 Great! Please go ahead and ask it in the comment section below :D
 
-<h2 class="post-content">Comments</h2>
-  <div id="replybox"></div>
-  <script>
-    window.replybox = {
-      site: 'POBODvJRVa', 
-    };
-  </script>
-  <script src="https://cdn.getreplybox.com/js/embed.js" defer></script>
-
+{%- include comments.html -%}
