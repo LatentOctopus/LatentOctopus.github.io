@@ -19,7 +19,7 @@ Unique Powers reminder:
 
 G2 top; G3 Minor.
 
-Play [[Prey on the builders]] and [[Terrifying chase]], optionally swapping one of them for the new Minor. [[Ranging hunt]] movement only.
+Play 2 among [[Prey on the builders]], [[Terrifying chase]],and the new Minor; be sure to include the Minor if it does _not_ have Animal. [[Ranging hunt]] movement only.
 
 #### Turn 2
 
@@ -33,15 +33,17 @@ Play 1 Plant+Animal and 1 Animal. [[Ranging hunt]] damage.
 
 ![](/assets/images/Fangs%203-0.png)
 
-G2 top; G3 Major (cost 2-5 is preferred) forgetting from discard, or Minor. 
+G2 top; G3 Major (cost 2-5 is preferred) forgetting from discard. 
 
 Play 1 Plant+Animal and 1 Animal. [[Ranging hunt]] damage.
+
+Alternatively, play the Major and another card.
 
 #### Turn 4
 
 ![](/assets/images/Fangs%203-1.png)
 
-Reclaim gaining Major if Major is bad or if previously gained Minor, otherwise gain Minor; G2 bottom. 
+Reclaim gaining Major if the Major picked on the previous turn is bad, otherwise gain Minor; G2 bottom. 
 
 Play 2.
 
@@ -49,17 +51,15 @@ Play 2.
 
 ![](/assets/images/Fangs%203-2.png)
 
-From turn 5 on, growth is G2 bottom (unlocking 3 CP on turn 5) + any other, according to needs (taking G4 on turn 5 is recommended). Keep playing 1 Plant+Animal and 1 Animal every turn to activate [[Ranging hunt]], except Major turns if the Major is off-element.  
-It may be worth to stop/delay putting presence down after unlocking 3CP or Reclaim1, and instead take multiple G1+G4 to keep playing a Major with threshold.
+From turn 5 on, growth is G2 bottom (unlocking 3 CP on turn 5) + any other, according to needs (taking G4 on turn 5 is recommended). Keep playing 1 Plant+Animal and 1 Animal every turn to activate [[Ranging hunt]], except Major turns if the Major is off-element. It may be worth to stop/delay putting presence down after unlocking 3CP or Reclaim1, and instead take multiple G1+G4 to keep playing a Major with threshold.
+
+#### Remarks
 
 Optionally, presence can be taken from the top track until turn 5 to unlock 3 Energy (**"Full" top track**). This is generally not recommended, as it delays 3 CP until very late and the second Animal is not too useful; extra Energy can be gained using G4, if needed.
 
-When drafting Minors, Animal is less of a priority the closer 3CP is (typically turn 5), as the 3rd card play doesn't need to have either. In general, 2 extra Animal (including 1 Plant+Animal if found) is enough.
-
-
 ### Stats
 
-Turn | Growths | Owned cards | Cards in hand | Cumulative Energy
+Turn | Growths | Owned cards | Cards in hand | CE
 :--: | :--: | :--: | :--: | :--: 
 1 | 2, 3 |   5   | 5 | 2
 2 | 2, 3 |   6   | 3 | 4
@@ -101,7 +101,7 @@ Note that [[Prey on the builders]] can be played either in turn 2 or in 3, not b
 
 ### Stats
 
-Turn | Growths | Owned cards | Cards in hand | Cumulative Energy
+Turn | Growths | Owned cards | Cards in hand | CE
 :--: | :--: | :--: | :--: | :--: 
 1 | 2, 4 |   4   | 4 | 4
 2 | 1, 2 |   5   | 5 | 4
