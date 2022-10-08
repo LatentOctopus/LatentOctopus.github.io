@@ -25,6 +25,6 @@ Presence should be converted as much as possible into Beasts, perhaps every othe
 
 ### Minors selection
 
-If not unlocking the Animal and the Plant on your presence track, prioritise Plant+Animal > Animal > other, to have extra cards that reliably activate [[Ranging hunt]]. After one Plant+Animal and one Animal have been found, elements cease being as much of a priority.
+If not unlocking the Animal and the Plant on your presence track, prioritise Plant+Animal > Animal > other, to have extra cards that reliably activate [[Ranging hunt]]. After one Plant+Animal and one Animal have been found, elements cease being as much of a priority. If unlocking Animal and Plant, only 1 Animal is needed.
 
 Blight handling is excellent on Fangs, and it might be worth prioritising it over better Elements.
