@@ -7,7 +7,7 @@ tags: Fangs
 
 ## Opening: Top track hybrid (Mixed)
 
-Unique Powers reminder:
+### Unique Powers reminder
 
 <img src="/assets/images/Prey on the builders.jpg" width="200"/> <img src="/assets/images/Terrifying chase.jpg" width="200"/> <img src="/assets/images/Teeth gleam.jpg" width="200"/> <img src="/assets/images/Too near the jungle.jpg" width="200"/>
 
