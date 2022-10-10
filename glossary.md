@@ -44,7 +44,7 @@ The columns of these table are:
 
 * **Turn**: the turn the row refers to.
 * **Growth(s)**: the growth option that is typically selected.
-* **Owned cards**: the total number of cards owned by the player, including the discard, _after_ all cards gained during growth.
+* **Owned cards**: the total number of cards owned by the player, including the discard, _after_ all cards gained during growth. A number in **bold** denotes a Major gain.
 * **Cards in hand**: the number cards available to play, _after_ gaining and reclaiming. Note that, unless otherwise specified in the opening, this assumes that all card plays are used on the previous turn.
 * **CE (Cumulative energy)**: the total amount of energy gained so far in the game _via growth_, i.e. escluding gains from other sources like Powers, unless otherwise specified.
     * _Why do you not report the energy available on that turn?_ Because that depends on gained cards cost and order of play, thus being too variable to reliably report.
