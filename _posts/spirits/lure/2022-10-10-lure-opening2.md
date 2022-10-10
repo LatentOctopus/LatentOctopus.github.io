@@ -21,7 +21,7 @@ General idea: gain an early Major and alternate playing it with playing [[Softly
 
 G2 bottom; G3 Plant. 
 
-Play [[Gift of the untamed wild]] and [[Perils of the deepest island]]. Unlock left innate level 2. And right Innate level 1+2.
+Play [[Gift of the untamed wild]] and [[Perils of the deepest island]]. Unlock left innate level 2 and right Innate level 1+2.
     
 #### Turn 2
 
