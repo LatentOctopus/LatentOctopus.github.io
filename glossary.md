@@ -12,6 +12,14 @@ permalink: /glossary/
 * **x/y** (e.g. 2/4): x energy/turn and y card plays.
 * **CE**: Cumulative Energy. See [Stats](#Stats) below for its meaning.
 
+### Terminology
+
+* **Reclaim cycle**: the turns between a Reclaim (included) and the following Reclaim (excluded). For example, an opening that goes `G2, G3, Reclaim, G2, Reclaim, G3, Reclaim, G3, Reclaim` has a reclaim cycle of 2 turns: turn 3+4 is the first reclaim cycle, 4+5 the second, 6+7 the third.
+  * _Why is this important?_ Because you want to:
+      1. Have enough Energy to be able to play to your maximum card plays in every reclaim cycle.
+      2. If you're unlocking more card plays, gain enough cards to fuel the next cycle.
+* **Reclaim loop**: A reclaim cycle of 1 turn (that is, reclaiming every turn).
+
 ### Opening names
 
 Referring to presence placement:
