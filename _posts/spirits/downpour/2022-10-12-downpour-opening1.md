@@ -44,7 +44,7 @@ Play 2.
 
 ![](/assets/images/Downpour2-3.png)
 
-G3 top.
+G2 top.
 
 Play 2.
 
