@@ -1,11 +1,11 @@
 ---  
 layout: post  
-title: "Bottom track"  
+title: "Bottom track hybrid"  
 category: guide  
 tags: Downpour
 ---
 
-## Bottom track (Minors)
+## Bottom track hybrid (Minors)
 
 The idea is to unlock 2 CP as soon as possible and then going top track while taking frequent G2s to have as much Energy and Water as possible to repeat your Powers.
 
