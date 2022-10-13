@@ -88,8 +88,9 @@ Turn | Growth | Owned cards | Cards in hand | CE
 6 | 1 |   8   |  8  | 19
 7 | 2 |   8   |  6  | 21
 
-Earliest potential 4 Air: turn 5
-Earliest potential 4 Sun: turn 7
+Earliest potential 4 Air: turn 5.
+
+Earliest potential 4 Sun: turn 7.
 
 ### Pro and cons
 
