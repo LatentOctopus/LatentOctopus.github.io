@@ -7,6 +7,8 @@ tags: Thunderspeaker
 
 ## Hybrid (Minors)
 
+Recommended against: BP.
+
 
 ### Unique Powers reminder
 
