@@ -10,7 +10,7 @@ tags: Thunderspeaker
 
 ### Unique Powers reminder
 
-<img src="/assets/images/Sudden ambush.jpg" width="200"/> <img src="/assets/images/Words of warning.jpg" width="200"/> <img src="/assets/images/Voice of thunder.jpg"/> <img src="/assets/images/Manifestation of power and glory.jpg" width="200"/>
+<img src="/assets/images/Sudden ambush.jpg" width="200"/> <img src="/assets/images/Words of warning.jpg" width="200"/> <img src="/assets/images/Voice of thunder.jpg" width="200"/> <img src="/assets/images/Manifestation of power and glory.jpg" width="200"/>
 
 ### Growth
 
