@@ -20,7 +20,7 @@ tags: Thunderspeaker
 
 G3 bottom. 
 
-Play [[Sudden ambush]] and either [[Voice of thunder]](recommended) or [[Manifestation]].
+Play [[Sudden ambush]] and either [[Voice of thunder]] (recommended) or [[Manifestation]].
 
 #### Turn 2
 
