@@ -108,6 +108,8 @@ Cons:
 
 ## Variant: Slow start hybrid (Minors)
 
+Recommended against: England.
+
 
 #### Turn 1
 
