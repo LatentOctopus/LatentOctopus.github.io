@@ -1,6 +1,6 @@
 ---  
 layout: post  
-title: "Hybrid"  
+title: "Top track"  
 category: guide  
 tags: Thunderspeaker
 ---
