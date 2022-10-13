@@ -190,12 +190,15 @@ Turn | Growth | Owned cards | Cards in hand | CE
 7 | 3 |   8   |  6  | 22
 8 | 2 |   8   |  4  | 24
 
+Earliest potential 4 Air: turn 4.
+Earliest potential 4 Sun: turn 5.
+
 ### Pros and cons
 
 Pros:
 - Good Energy while still placing double presence often.
 - Highest CP.
-- 4 Air unlock on turn 5.
+- 4 Air unlock on turn 4.
 - 4 Air unlock on turn 5.
 
 Cons:
