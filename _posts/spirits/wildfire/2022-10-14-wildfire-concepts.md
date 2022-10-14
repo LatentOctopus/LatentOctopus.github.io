@@ -2,7 +2,7 @@
 layout: post
 title: "General concepts"
 category: guide
-tags: wildfire
+tags: Wildfire
 ---
 
 ### Growth
