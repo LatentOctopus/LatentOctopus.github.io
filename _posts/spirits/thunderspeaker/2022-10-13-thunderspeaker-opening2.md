@@ -5,11 +5,19 @@ category: guide
 tags: Thunderspeaker
 ---
 
-{% site.data.icons.air %}
+a
+
+{ site.data.icons.air %}
+
+b
 
 {% assign a = site.data.icons.air %}
 
+c
+
 {% a %}
+
+d
 
 {%a%}
 
