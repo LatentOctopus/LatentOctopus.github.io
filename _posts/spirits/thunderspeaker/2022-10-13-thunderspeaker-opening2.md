@@ -7,8 +7,6 @@ tags: Thunderspeaker
 
 {% assign a = site.data.icons.air %}
 
-{{a}}
-
 
 ## Unique Powers reminder
 
