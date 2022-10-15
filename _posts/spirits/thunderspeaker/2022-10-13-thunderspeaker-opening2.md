@@ -7,7 +7,7 @@ tags: Thunderspeaker
 
 ## Hybrid (Minors)
 
-Recommended against: BP.
+Well-rounded opening. Recommended especially against BP.
 
 
 ### Unique Powers reminder
@@ -22,7 +22,10 @@ Recommended against: BP.
 
 G3 bottom. 
 
-Play [[Sudden ambush]] and [[Manifestation]].
+Play 2. 
+- [[Sudden ambush]] and [[Manifestation]] is often good against BP as you'll still have a target for next turn's [[Words of warning]].
+- [[Manifestation]] and [[Voice of thunder]] is another option if [[Sudden ambush]] doesn't solve a land, and will unlock level 2 of [[Lead the furious assault]]]. 
+- [[Voice of thunder]] and [[Sudden ambush]] is generally worse, but it is an option if there is no good target for [[Manifestation]] due to awkward Dahan starting locations, and allows to unlock level 2 of the right Innate in the next turn.
 
 #### Turn 2
 
@@ -30,7 +33,7 @@ Play [[Sudden ambush]] and [[Manifestation]].
 
 G2 top.
 
-Play [[Words of Warning]] and [[Voice of thunder]].
+Play [[Words of Warning]] and the remaining card.
 
 #### Turn 3
 
