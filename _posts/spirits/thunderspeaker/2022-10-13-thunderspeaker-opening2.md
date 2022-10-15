@@ -5,18 +5,9 @@ category: guide
 tags: Thunderspeaker
 ---
 
-a
-
-{{ site.data.icons.air }}
-
-b
-
 {% assign a = site.data.icons.air %}
 
-
-d
-
-{{ a }}
+{{a}}
 
 
 ## Unique Powers reminder
