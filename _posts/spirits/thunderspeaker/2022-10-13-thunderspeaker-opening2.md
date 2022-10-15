@@ -5,13 +5,14 @@ category: guide
 tags: Thunderspeaker
 ---
 
+{{ site.data.icons.air }}
+
 {{ assign a = site.data.icons.air }}
 
 {{ a }}
 
 {{a}}
 
-<img src='/assets/images/element-sun.png' width=10/>
 
 ## Unique Powers reminder
 
