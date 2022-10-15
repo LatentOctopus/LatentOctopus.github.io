@@ -7,7 +7,7 @@ tags: Thunderspeaker
 
 a
 
-{ site.data.icons.air %}
+{{ site.data.icons.air }}
 
 b
 
