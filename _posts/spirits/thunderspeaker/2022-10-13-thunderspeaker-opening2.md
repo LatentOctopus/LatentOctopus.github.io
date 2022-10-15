@@ -13,9 +13,6 @@ b
 
 {% assign a = site.data.icons.air %}
 
-c
-
-{% a %}
 
 d
 
