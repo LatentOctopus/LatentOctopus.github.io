@@ -19,7 +19,7 @@ c
 
 d
 
-{%a%}
+{{ a }}
 
 
 ## Unique Powers reminder
