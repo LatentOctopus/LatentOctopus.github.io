@@ -1,6 +1,6 @@
 ---  
 layout: post  
-title: "Slow start openings"  
+title: "Slow openings"  
 category: guide  
 tags: Thunderspeaker
 ---
