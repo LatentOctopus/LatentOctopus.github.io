@@ -11,6 +11,7 @@ tags: Thunderspeaker
 
 {{a}}
 
+<img src='/assets/images/element-sun.png' width=10/>
 
 ## Unique Powers reminder
 
