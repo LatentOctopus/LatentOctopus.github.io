@@ -5,12 +5,6 @@ category: guide
 tags: Thunderspeaker
 ---
 
-{% assign a = site.data.icons.air %}
-
-{% assign f = site.data.icons.fire %}
-
-{% assign s = site.data.icons.sun %}
-
 
 ## Unique Powers reminder
 
