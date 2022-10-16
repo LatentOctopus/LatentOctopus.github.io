@@ -91,20 +91,17 @@ The 3rd Energy can be unlocked on turn 3 by selecting G2 top+bottom. This will g
 ### Stats
 
 
-Turn | Growth | Owned cards | Cards in hand | CE
-:--: | :--: | :--: | :--: | :--:
-1 | 2 |   4   |  4  |  2
-2 | 2 |   4   |  3  |  4
-3 | 3 |   4   |  2  | 10
-4 | 1 |   6   |  6  | 12
-5 | 2 |   6   |  4  | 14
-6 | 1 |   8   |  8  | 16
-7 | 3 |   8   |  6  | 22
-8 | 2 |   8   |  4  | 24
+Turn | Growth | Owned cards | Cards in hand | CE | Track elements and CP
+:--: | :--: | :--: | :--: | :--: | :--:
+1 | 2 |   4   |  4  |  2 | {{a}}1
+2 | 2 |   4   |  3  |  4 | {{a}}{{f}}{{s}}1
+3 | 3 |   4   |  2  | 10 | {{a}}{{f}}{{s}}2
+4 | 1 |   6   |  6  | 12 | {{a}}{{f}}{{s}}2
+5 | 2 |   6   |  4  | 14 | {{a}}{{f}}{{s}}3
+6 | 1 |   8   |  8  | 16 | {{a}}{{f}}{{s}}3
+7 | 3 |   8   |  6  | 22 | {{a}}{{f}}{{s}}3
+8 | 2 |   8   |  4  | 24 | {{a}}{{f}}{{s}}4
 
-Earliest potential 4 Air: turn 5.
-
-Earliest potential 4 Sun: turn 5.
 
 ### Pro and cons
 
@@ -196,26 +193,23 @@ Reclaim 1 can be unlocked on turn 5, if you want to unlock 4 CP on turn 7. This 
 
 ### Stats
 
-Turn | Growth | Owned cards | Cards in hand | CE
-:--: | :--: | :--: | :--: | :--:
-1 | 2 |   4   |  4  |  2
-2 | 3 |   4   |  3  |  8
-3 | 2 |   4   |  2  | 10
-4 | 1 |   6   |  6  | 12
-5 | 2 |   6   |  3  | 14
-6 | 1 |   8   |  8  | 16
-7 | 3 |   8   |  6  | 22
-8 | 2 |   8   |  4  | 24
+Turn | Growth | Owned cards | Cards in hand | CE | Track elements and CP
+:--: | :--: | :--: | :--: | :--: | :--:
+1 | 2 |   4   |  4  |  2 | {{a}}1
+2 | 3 |   4   |  3  |  8 | {{a}}2
+3 | 2 |   4   |  2  | 10 | {{a}}3
+4 | 1 |   6   |  6  | 12 | {{a}}3
+5 | 2 |   6   |  3  | 14 | {{a}}{{f}}{{s}}3
+6 | 1 |   8   |  8  | 16 | {{a}}{{f}}{{s}}3
+7 | 3 |   8   |  6  | 22 | {{a}}{{f}}{{s}}3
+8 | 2 |   8   |  4  | 24 | {{a}}{{f}}{{s}}4
 
-Earliest potential 4 Air: turn 4.
-
-Earliest potential 4 Sun: turn 5.
 
 ### Pros and cons
 
 Pros:
 - Good Energy while still placing double presence often.
-- Highest CP.
+- Earliest 3 CP.
 - 4 Air unlock on turn 4.
 - 4 Air unlock on turn 5.
 
