@@ -177,8 +177,8 @@ Play 4.
 ### Stats
 
 
-Turn | Growth | Owned cards | Cards in hand | CE
-:--: | :--: | :--: | :--: | :--:
+Turn | Growth | Owned cards | Cards in hand | CE | Track elements and CP
+:--: | :--: | :--: | :--: | :--: | :--:
 1 | 3 |   4   |  4  |  5 | 2
 2 | 3 |   4   |  2  | 10 | 2
 3 | 1 |   6   |  6  | 11 | 2
