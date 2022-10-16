@@ -215,7 +215,7 @@ Pros:
 - Good Energy while still placing double presence often.
 - Earliest 3 CP.
 - 4 Air unlock on turn 4.
-- 4 Air unlock on turn 5.
+- 4 Sun unlock on turn 5.
 
 Cons:
 - Weakest turn 1 and 2.
