@@ -7,6 +7,10 @@ tags: Thunderspeaker
 
 {% assign a = site.data.icons.air %}
 
+{% assign f = site.data.icons.fire %}
+
+{% assign s = site.data.icons.sun %}
+
 
 ## Unique Powers reminder
 
@@ -83,19 +87,16 @@ Play 3.
 ### Stats
 
 
-Turn | Growth | Owned cards | Cards in hand | CE
-:--: | :--: | :--: | :--: | :--:
-1 | 3 |   4   |  4  |  5
-2 | 2 |   4   |  2  |  7
-3 | 1 |   6   |  6  |  9
-4 | 3 |   6   |  4  | 15
-5 | 2 |   6   |  3  | 17
-6 | 1 |   8   |  8  | 19
-7 | 2 |   8   |  6  | 21
+Turn | Growth | Owned cards | Cards in hand | CE | Track elements and CP
+:--: | :--: | :--: | :--: | :--: | :--:
+1 | 3 |   4   |  4  |  5 | 2
+2 | 2 |   4   |  2  |  7 | {{a}}2
+3 | 1 |   6   |  6  |  9 | {{a}}2
+4 | 3 |   6   |  4  | 15 | {{a}}2
+5 | 2 |   6   |  3  | 17 | {{a}}3
+6 | 1 |   8   |  8  | 19 | {{a}}3
+7 | 2 |   8   |  6  | 21 | {{a}}{{f}}{{s}}3
 
-Earliest potential 4 Air: turn 5.
-
-Earliest potential 4 Sun: turn 7.
 
 ### Pro and cons
 
@@ -178,17 +179,13 @@ Play 4.
 
 Turn | Growth | Owned cards | Cards in hand | CE
 :--: | :--: | :--: | :--: | :--:
-1 | 3 |   4   |  4  |  5
-2 | 3 |   4   |  2  | 10
-3 | 1 |   6   |  6  | 11
-4 | 2 |   6   |  5  | 12
-5 | 3 |   6   |  3  | 17
-6 | 1 |   8   |  8  | 18
-7 | 3 |   8   |  6  | 23
-
-Earliest potential 4 Air: turn 8.
-
-Earliest potential 4 Sun: turn 8.
+1 | 3 |   4   |  4  |  5 | 2
+2 | 3 |   4   |  2  | 10 | 2
+3 | 1 |   6   |  6  | 11 | 2
+4 | 2 |   6   |  5  | 12 | 3
+5 | 3 |   6   |  3  | 17 | 3
+6 | 1 |   8   |  8  | 18 | 3
+7 | 3 |   8   |  6  | 23 | 4
 
 ### Pro and cons
 
