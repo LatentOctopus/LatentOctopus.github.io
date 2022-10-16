@@ -5,6 +5,10 @@ category: guide
 tags: Thunderspeaker
 ---
 
+{% assign s = site.data.icons.sun %}
+{% assign f = site.data.icons.fire %}
+{% assign a = site.data.icons.air %}
+
 These openings trade early game power for better scaling. This is typically useful against slower Adversaries, most notably England.
 
 ## Unique Powers reminder
