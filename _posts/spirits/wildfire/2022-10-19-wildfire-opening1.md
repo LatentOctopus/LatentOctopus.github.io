@@ -16,7 +16,7 @@ As I mentioned in {% post_url 2022-10-14-wildfire-concepts %}, Wildfire's openin
 
 ## Unique Powers reminder
 
-<img src="/assets/images/Sudden ambush.jpg" width="200"/> <img src="/assets/images/Words of warning.jpg" width="200"/> <img src="/assets/images/Voice of thunder.jpg" width="200"/> <img src="/assets/images/Manifestation of power and glory.jpg" width="200"/>
+<img src="/assets/images/Flame's fury.jpg" width="200"/> <img src="/assets/images/Threatening flames.jpg" width="200"/> <img src="/assets/images/Asphyxiating smoke.jpg" width="200"/> <img src="/assets/images/Flash fires.jpg" width="200"/>
 
 
 ## Bottom track (Minors/Mixed)
