@@ -5,11 +5,12 @@ category: guide
 tags: Fangs  
 ---
 
-## Opening: Top track hybrid (Mixed)
-
-### Unique Powers reminder
+## Unique Powers reminder
 
 <img src="/assets/images/Prey on the builders.jpg" width="200"/> <img src="/assets/images/Terrifying chase.jpg" width="200"/> <img src="/assets/images/Teeth gleam.jpg" width="200"/> <img src="/assets/images/Too near the jungle.jpg" width="200"/>
+
+
+## Opening: Top track hybrid (Mixed)
 
 ### Growth
 
@@ -19,7 +20,7 @@ tags: Fangs
 
 G2 top; G3 Minor.
 
-Play 2 among [[Prey on the builders]], [[Terrifying chase]],and the new Minor; be sure to include the Minor if it does _not_ have Animal. [[Ranging hunt]] movement only.
+Play 2 among [[Prey on the builders]], [[Terrifying chase]], and the new Minor; be sure to include the Minor if it does _not_ have Animal. [[Ranging hunt]] movement only.
 
 #### Turn 2
 
