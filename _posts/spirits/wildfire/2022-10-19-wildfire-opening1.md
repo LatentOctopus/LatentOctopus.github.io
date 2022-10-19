@@ -90,7 +90,7 @@ Cons:
 
 
 
-## Variant: Flash Fire (Minors/Mixed | Fast | Low blight)
+## Variant: Flash Fire (Minors/Mixed)
 
 ### Growth
 
