@@ -5,13 +5,19 @@ category: guide
 tags: Mist 
 ---
 
+{% assign m = site.data.icons.moon %}
+{% assign a = site.data.icons.air %}
+{% assign w = site.data.icons.water %}
+
+## Unique Powers reminder
+
+<img src="/assets/images/Forms_dart_by.png" width="200"/> <img src="/assets/images/Unnerving_pall.png" width="200"/> <img src="/assets/images/Fog_closes_in.png" width="200"/> <img src="/assets/images/Dissolving_vapors.png" width="200"/>
+
+
 ## Opening: Bottom track (Minors)
 
 **Adapted from [Rei's guide on BGG]({% post_url 2022-10-07-mist-resources %}).**
 
-### Unique Powers reminder
-
-<img src="/assets/images/Forms_dart_by.png" width="200"/> <img src="/assets/images/Unnerving_pall.png" width="200"/> <img src="/assets/images/Fog_closes_in.png" width="200"/> <img src="/assets/images/Dissolving_vapors.png" width="200"/>
 
 ### Growth
 
@@ -21,7 +27,7 @@ tags: Mist
 
 G2 top+bottom. 
 
-Play [[Fog closes in]] + [[Forms dart by]]. 2-2-2 Moon-Air-Water elements (left and right Innate level 1).
+Play [[Fog closes in]] + [[Forms dart by]]. 2{{m}}2{{a}}2{{w}} elements (left and right Innate level 1).
 
 Try to have 2 lands with damaged Invaders by the end of the turn.
 
@@ -32,7 +38,7 @@ Try to have 2 lands with damaged Invaders by the end of the turn.
 
 G3 bottom, gain Minor. 
 
-Play [[Unnerving pall]] and possibly a 0-cost Minor. 1-1-0 elements (no Innate).
+Play [[Unnerving pall]] and possibly a 0-cost Minor. 1{{m}}1{{a}} elements (no Innate).
 
 If possible, use the Dahan counterattack to have a 3rd land with a damaged Invader in order to get 1 Energy via your special rule (and farm extra fear).
 
@@ -43,7 +49,7 @@ If possible, use the Dahan counterattack to have a 3rd land with a damaged Invad
 
 G2 bottom. 
 
-Play [[Dissolving vapors]] and possibly a 0-cost Minor (if not played previously). 2-1-1 elements (no Innate). 
+Play [[Dissolving vapors]] and possibly a 0-cost Minor (if not played previously). 2{{m}}1{{a}}1{{w}} elements (no Innate). 
 
 
 #### Turn 4
@@ -109,4 +115,4 @@ Pros:
 Cons:
 
 - Weak turn 2 and fairly weak turn 3.
-- Brittle: may need quick adaptations if draws are bad or Energy is not gained or is lost for any reason.
+- May need quick adaptations if draws are bad or Energy is not gained or is lost for any reason.
