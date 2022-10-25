@@ -77,7 +77,7 @@ Note that the Energy gained from [[Boon of vigor]] is _not_ included, so the tab
 
 This table assumes playing 5 cards from turn 5 onwards, and forgetting from discard when gaining the Major.
 
-Turn | Growth | Owned cards | Cards in hand | CE (growth) | CE (including previous [[River's bounty]])
+Turn | Growth | Owned cards | Cards in hand | CE (growth only) | CE (also including previous [[River's bounty]])
 :--: | :--: | :--: | :--: |  :--: | :--:
 1 | 2 |   4   |  4  |  1 |  1
 2 | 2 |   4   |  3  |  2 |  3
