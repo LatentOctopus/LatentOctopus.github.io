@@ -73,7 +73,7 @@ On turn 5 an alternative is taking presence top+bottom to get to 2-4 instead of 
 
 ### Stats
 
-Note that the Energy gained from[[Boon of vigor]] is _not_ included, so the table works for multiplayer games as well.
+Note that the Energy gained from [[Boon of vigor]] is _not_ included, so the table works for multiplayer games as well.
 
 This table assumes playing 5 cards from turn 5 onwards, and forgetting from discard when gaining the Major.
 
