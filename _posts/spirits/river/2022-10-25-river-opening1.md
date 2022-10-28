@@ -101,4 +101,3 @@ Pros:
 Cons:
 - Tight on Energy in multiplayer.
 - Little presence placement past turn 4 requires careful planning on first turns.
-- Needs adaptation if Energy is lost due to Events or Blight cards.
