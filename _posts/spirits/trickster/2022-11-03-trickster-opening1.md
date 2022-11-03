@@ -35,6 +35,7 @@ G3; G2 top.
 Play either
 1. (if [[{{m}}{{a}}]] costs 0) [[{{m}}{{a}}]] and [[Overenthusiastic arson]], or
 2. [[Impersonate authority]] and [[Incite the mob]]
+
 to unlock [[Let's see what happens]] level 2. Forget either from play or [[Unexpected tigers]] to gain the new Minor (forgetting from play is not recommended if playing pair 2).
     
 #### Turn 2
