@@ -72,6 +72,10 @@ From turn 7 on, growth is G4 + any other, according to needs (G2 should only be 
 
 Optionally, on turn 4-6 G2 can be taken from top until 2 Energy to unlock extra elements and more Energy/turn (**Bottom track hybrid**), but this is generally not recommended because extra elements can be gained with more card plays by playing 0-cost Powers, and extra Energy can be gained by selecting G4 (and possibly G3 on top of that). 
 
+If you have found costly Minors, you might need to
+delay the presence placement (and this 5 CP) on turn 5, instead
+taking G1+G4. In that case, turn 6 will be
+G2+G3 or G2+G4.
 
 ### Stats
 
@@ -98,4 +102,12 @@ Cons:
 - Very restricted in Energy.
 - Little room for flexibility in growth.
 	- In particular, the need for G4 means no room for G3, thus fewer Powers will be gained early.
-- [[Ranging hunt]] cannot reliably be activated every turn: another Plant+Animal Minor is needed in the first 3 turns, or a 0-cost Plant from turn 4 onwards (both assume reclaiming [[Too near the jungle]], as [[Teeth gleam]] is too expensive to be played often). 
+- [[Ranging hunt]] cannot reliably be activated 
+on both turn 3 and 4 unless a Plant (or ideally
+Plant+Animal) Minor is found.
+- Although Reclaim 1 is unlocked early, 
+you often need to reclaim [[Too near the jungle]]
+to unlock [[Ranging hunt]], as other Powers 
+are too expensive and/or don't have good
+enough elements, leaving little to no room
+for flexibility in the reclaim choice. 
