@@ -21,10 +21,10 @@ For example, G3 > G3 can be swapped for G4 > G1 if reclaiming cards is more valu
 
 ### Presence conversion
 
-Presence should be converted as much as possible into Beasts, perhaps every other turn or even multiple turns in a row. Typically, only 3-4 presence on the island is needed (4 presence mostly to avoid instant loss by [[Tipping point]]).
+Presence should be converted as much as possible into Beasts, ideally every turn outside of one or two, as typically only 2-4 presence on the island is needed (4 presence mostly to avoid instant loss by [[Tipping point]]).
 
 ### Minors selection
 
-If not unlocking the Animal and the Plant on your presence track, prioritise Plant+Animal > Animal > other, to have extra cards that reliably activate [[Ranging hunt]]. After one Plant+Animal and one Animal have been found, elements cease being as much of a priority. If unlocking Animal and Plant, only 1 Animal is needed.
+If not unlocking the Animal and the Plant on your presence track, prioritise Plant+Animal > Plant > Animal > other, to have extra cards that reliably activate [[Ranging hunt]]. After one Plant and one Animal Minors have been found, elements cease being as much of a priority. If unlocking Animal and Plant, only 1 Animal is needed.
 
 Blight handling is excellent on Fangs, and it might be worth prioritising it over better Elements.
