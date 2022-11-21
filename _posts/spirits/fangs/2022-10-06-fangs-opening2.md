@@ -103,8 +103,8 @@ Cons:
 - Little room for flexibility in growth.
 	- In particular, the need for G4 means no room for G3, thus fewer Powers will be gained early.
 - [[Ranging hunt]] cannot reliably be activated 
-on both turn 3 and 4 unless a Plant (or ideally
-Plant+Animal) Minor is found.
+on both turn 3 and 4 unless a Plant and an Animal Minors have been found
+(or a single Plant+Animal).
 - Although Reclaim 1 is unlocked early, 
 you often need to reclaim [[Too near the jungle]]
 to unlock [[Ranging hunt]], as other Powers 
