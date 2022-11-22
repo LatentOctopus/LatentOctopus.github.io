@@ -83,22 +83,30 @@ Cons:
 
 ## Variant: Reclaim-heavy top track hybrid 
 
-Recommended against: England.
-
-The idea is to apply the [(G3>G3) -› (G4>G1) growth swap]({% post_url 2022-10-05-fangs-concepts %}) to reclaim [[Prey on the builders]] often, which helps contain England's heavy building.
+This is an example of application of the 
+[(G3>G3) -› (G4>G1) growth swap]({% post_url 2022-10-05-fangs-concepts %}) 
+to reclaim [[Prey on the builders]] often, 
+which can be useful against England
+To contain its heavy building.
 
 ### Growth 
 
 1. G2 top; G4.  
 2. Reclaim, gain Minor; G2 top.  
 3. G2 top to unlock E2; G4.  
-4. Reclaim, gain Minor; G2 bottom.  
+4. Reclaim, gain Major; G2 bottom.  
 5. G2 bottom to unlock 3CP; G4.  
-6. Reclaim, gain Major; G4.
+6. Reclaim, gain Minor; G4.
 
-From turn 6 onwards, the standard growth is G1+G4. If there is no need to reclaim use G3, or G2 (generally from bottom) if there is need to place presence.
+From turn 6 onwards, the standard growth is G1+G4. 
+If there is no need to reclaim use G3, 
+or G2 (generally from bottom) 
+if there is need to place presence.
 
-Note that [[Prey on the builders]] can be played either in turn 2 or in 3, not both. If there is need to, G1+G4 can be selected on turn 3, delaying placing presence one turn.
+Note that [[Prey on the builders]] can be 
+played either in turn 2 or in 3, not both. 
+If there is need to, G1+G4 can be selected 
+on turn 3, delaying placing presence one turn.
 
 ### Stats
 
@@ -107,7 +115,7 @@ Turn | Growths | Owned cards | Cards in hand | CE
 1 | 2, 4 |   4   | 4 | 4
 2 | 1, 2 |   5   | 5 | 4
 3 | 2, 4 |   5   | 3 | 9
-4 | 1, 2 |   6   | 6 | 10
-5 | 2, 4 |   6   | 3 | 15
-6 | 1, 4 | **6** | 6 | 19
+4 | 1, 2 | **5** | 5 | 10
+5 | 2, 4 |   5   | 3 | 15
+6 | 1, 4 |   6   | 6 | 19
 7 | 1, 4 |   7   | 7 | 23
