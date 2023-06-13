@@ -2,7 +2,6 @@
   site: BGG
   type: guide
   depth: intermediate
-  favourite: false
   spirit: Bringer
   link: https://boardgamegeek.com/thread/1971193/openings-bringer-dreams-and-nightmares
   
@@ -10,7 +9,6 @@
   site: BGG
   type: guide
   depth: intermediate
-  favourite: false
   spirit: Earth
   link: https://boardgamegeek.com/thread/1974592/openings-vital-strength-earth
   
@@ -18,7 +16,6 @@
   site: BGG
   type: guide
   depth: intermediate
-  favourite: false
   spirit: Fangs
   link: https://boardgamegeek.com/thread/1978097/openings-sharp-fangs-behind-leaves
 
@@ -26,7 +23,6 @@
   site: BGG
   type: guide
   depth: intermediate
-  favourite: false
   spirit: Green
   link: https://boardgamegeek.com/thread/1965751/openings-spread-rampant-green
   
@@ -34,7 +30,6 @@
   site: BGG
   type: guide
   depth: intermediate
-  favourite: false
   spirit: Keeper
   link: https://boardgamegeek.com/thread/1978655/openings-keeper-forbidden-wilds
   
@@ -42,7 +37,6 @@
   site: BGG
   type: guide
   depth: intermediate
-  favourite: false
   spirit: Lightning
   link: https://boardgamegeek.com/thread/1969985/openings-lightnings-swift-strike
   
@@ -50,7 +44,6 @@
   site: BGG
   type: guide
   depth: intermediate
-  favourite: false
   spirit: Ocean
   link: https://boardgamegeek.com/thread/1970506/openings-oceans-hungry-grasp
   
@@ -58,7 +51,6 @@
   site: BGG
   type: guide
   depth: intermediate
-  favourite: false
   spirit: River
   link: https://boardgamegeek.com/thread/1967085/openings-river-surges-sunlight
   
@@ -66,7 +58,6 @@
   site: BGG
   type: guide
   depth: intermediate
-  favourite: false
   spirit: Shadows
   link: https://boardgamegeek.com/thread/1971694/openings-shadows-flicker-flame
   
@@ -74,7 +65,6 @@
   site: BGG
   type: guide
   depth: intermediate
-  favourite: false
   spirit: Thunderspeaker
   link: https://boardgamegeek.com/thread/1966212/openings-thunderspeaker
   
@@ -82,7 +72,6 @@
   site: BGG
   type: guide
   depth: intermediate
-  favourite: false
   spirit: Vengeance
   link: https://boardgamegeek.com/thread/2484534/openings-vengeance-burning-plague
   
@@ -90,7 +79,6 @@
   site: BGG
   type: guide
   depth: intermediate
-  favourite: false
   spirit: Fractured
   link: https://boardgamegeek.com/thread/2486927/openings-fractured-days-split-sky
   
@@ -98,7 +86,6 @@
   site: BGG
   type: guide
   depth: intermediate
-  favourite: false
   spirit: Mist
   link: https://boardgamegeek.com/thread/2488254/openings-shroud-silent-mist
   
@@ -106,7 +93,6 @@
   site: BGG
   type: guide
   depth: intermediate
-  favourite: false
   spirit: Downpour
   link: https://boardgamegeek.com/thread/2496834/openings-dowpour-drenches-world
   
@@ -114,7 +100,6 @@
   site: BGG
   type: guide
   depth: intermediate
-  favourite: false
   spirit: Finder
   link: https://boardgamegeek.com/thread/2493091/openings-finder-paths-unseen
   
@@ -122,7 +107,6 @@
   site: BGG
   type: guide
   depth: intermediate
-  favourite: false
   spirit: MM
   link: https://boardgamegeek.com/thread/2502110/openings-many-minds-move-one
   
@@ -130,7 +114,6 @@
   site: BGG
   type: guide
   depth: intermediate
-  favourite: false
   spirit: Trickster
   link: https://boardgamegeek.com/thread/2502216/openings-grinning-trickster-stirs-trouble
   
@@ -138,7 +121,6 @@
   site: BGG
   type: guide
   depth: intermediate
-  favourite: false
   spirit: Memory
   link: https://boardgamegeek.com/thread/2506389/openings-shifting-memory-ages
   
@@ -146,7 +128,6 @@
   site: BGG
   type: guide
   depth: intermediate
-  favourite: false
   spirit: Volcano
   link: https://boardgamegeek.com/thread/2508259/openings-volcano-looming-high
   
@@ -154,7 +135,6 @@
   site: BGG
   type: guide
   depth: intermediate
-  favourite: false
   spirit: Lure
   link: https://boardgamegeek.com/thread/2510069/openings-lure-deep-wilderness
   
@@ -162,7 +142,6 @@
   site: BGG
   type: guide
   depth: intermediate
-  favourite: false
   spirit: Stone
   link: https://boardgamegeek.com/thread/2512536/openings-stones-unyielding-defiance
   
@@ -170,15 +149,13 @@
   site: BGG
   type: guide
   depth: intermediate
-  favourite: false
   spirit: Starlight
   link: https://boardgamegeek.com/thread/2518429/openings-starlight-seeks-its-form
   
 - author: Jonah Yonker
   site: BGG
   type: guide
-  depth: intermediate
-  favourite: false
+  depth: intermediate 
   spirit: Serpent
   link: https://boardgamegeek.com/thread/2282835/openings-serpent-slumbering-beneath-island
   
@@ -186,7 +163,6 @@
   site: BGG
   type: guide
   depth: intermediate
-  favourite: false
   spirit: Wildfire
   link: https://boardgamegeek.com/thread/2313791/openings-heart-wildfire
   
@@ -194,7 +170,6 @@
   site: BGG
   type: guide
   depth: advanced
-  favourite: true
   spirit: Mist
   link: https://boardgamegeek.com/thread/2722115/advanced-guide-shroud-silent-mist
   
@@ -202,7 +177,6 @@
   site: BGG
   type: guide
   depth: advanced 
-  favourite: true
   spirit: MM
   link: https://boardgamegeek.com/thread/2774198/advanced-guide-many-minds-move-one
   
@@ -210,7 +184,6 @@
   site: BGG
   type: guide
   depth: advanced
-  favourite: true
   spirit: Vengeance
   link: https://boardgamegeek.com/thread/2709070/advanced-guide-vengeance-burning-plague
   
@@ -218,7 +191,6 @@
   site: YouTube
   type: guide
   depth: advanced
-  favourite: true
   spirit: Green
   link: https://youtube.com/playlist?list=PL7VhWAfBC-gDtuumSGOrbVmng7eUNanXw
   
@@ -226,7 +198,6 @@
   site: YouTube
   type: guide
   depth: advanced
-  favourite: false
   spirit: River
   link: https://youtube.com/playlist?list=PL7VhWAfBC-gA0HRjeGrZLrwd2fmH64JI7
   
@@ -234,7 +205,6 @@
   site: YouTube
   type: guide
   depth: advanced
-  favourite: true
   spirit: Stone
   link: https://youtube.com/playlist?list=PL7VhWAfBC-gBlCz9W7fdDKZxpOQINxJRW
   
@@ -242,7 +212,6 @@
   site: YouTube
   type: guide
   depth: advanced
-  favourite: false
   spirit: Starlight
   link: https://youtube.com/playlist?list=PL7VhWAfBC-gBj9gYG9w0UKO2jhhlRRVwS
   
