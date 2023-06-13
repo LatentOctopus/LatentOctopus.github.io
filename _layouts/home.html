@@ -23,12 +23,12 @@ layout: default
   
   <!-- External Resources -->
   <h2 class="post-content">Other guides</h2>
-
-{% for entry in site.data.resources | sort %}
+  
   <ul>
+    {% for entry in site.data.resources | sort %}
       <li><a href="{{ entry.link }}">{{ entry.author }}'s guide on {{ entry.site }}</a></li>
+    {% endfor %}
   </ul>
-{% endfor %}
   
   
   <!-- Latest posts -->
