@@ -1,3 +1,9 @@
+- author: RedReVenge
+  site: YouTube
+  type: channel
+  depth: advanced
+  link: https://youtube.com/channel/UCdVLtmFObyfW9-ADPXaSrSg
+
 - author: Jeremy Lennert
   site: BGG
   type: guide
@@ -186,32 +192,5 @@
   depth: advanced
   spirit: Vengeance
   link: https://boardgamegeek.com/thread/2709070/advanced-guide-vengeance-burning-plague
-  
-- author: RedReVenge
-  site: YouTube
-  type: guide
-  depth: advanced
-  spirit: Green
-  link: https://youtube.com/playlist?list=PL7VhWAfBC-gDtuumSGOrbVmng7eUNanXw
-  
-- author: RedReVenge
-  site: YouTube
-  type: guide
-  depth: advanced
-  spirit: River
-  link: https://youtube.com/playlist?list=PL7VhWAfBC-gA0HRjeGrZLrwd2fmH64JI7
-  
-- author: RedReVenge
-  site: YouTube
-  type: guide
-  depth: advanced
-  spirit: Stone
-  link: https://youtube.com/playlist?list=PL7VhWAfBC-gBlCz9W7fdDKZxpOQINxJRW
-  
-- author: RedReVenge
-  site: YouTube
-  type: guide
-  depth: advanced
-  spirit: Starlight
-  link: https://youtube.com/playlist?list=PL7VhWAfBC-gBj9gYG9w0UKO2jhhlRRVwS
+ 
   
