@@ -26,7 +26,7 @@ layout: default
   
   <ul>
     {% for entry in site.data.resources | sort %}
-      {% if entry.entries %}
+      {% if entry.items %}
         <li>{{ entry.author }}'s {{entry.type}} on {{entry.site}}:</li>
         <ul>
           {% for item in entry.items %}
