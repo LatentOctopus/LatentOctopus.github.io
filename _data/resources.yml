@@ -5,74 +5,57 @@
   link: https://youtube.com/channel/UCdVLtmFObyfW9-ADPXaSrSg
 
 - author: Jeremy Lennert
-  site: BGG
-  type: guide
-  depth: intermediate
-  spirit: Bringer
-  link: https://boardgamegeek.com/thread/1971193/openings-bringer-dreams-and-nightmares
-  
-- author: Jeremy Lennert
-  site: BGG
-  type: guide
-  depth: intermediate
-  spirit: Earth
-  link: https://boardgamegeek.com/thread/1974592/openings-vital-strength-earth
-  
-- author: Jeremy Lennert
-  site: BGG
-  type: guide
-  depth: intermediate
-  spirit: Fangs
-  link: https://boardgamegeek.com/thread/1978097/openings-sharp-fangs-behind-leaves
-
-- author: Jeremy Lennert
-  site: BGG
-  type: guide
-  depth: intermediate
-  spirit: Green
-  link: https://boardgamegeek.com/thread/1965751/openings-spread-rampant-green
-  
-- author: Jeremy Lennert
-  site: BGG
-  type: guide
-  depth: intermediate
-  spirit: Keeper
-  link: https://boardgamegeek.com/thread/1978655/openings-keeper-forbidden-wilds
-  
-- author: Jeremy Lennert
-  site: BGG
-  type: guide
-  depth: intermediate
-  spirit: Lightning
-  link: https://boardgamegeek.com/thread/1969985/openings-lightnings-swift-strike
-  
-- author: Jeremy Lennert
-  site: BGG
-  type: guide
-  depth: intermediate
-  spirit: Ocean
-  link: https://boardgamegeek.com/thread/1970506/openings-oceans-hungry-grasp
-  
-- author: Jeremy Lennert
-  site: BGG
-  type: guide
-  depth: intermediate
-  spirit: River
-  link: https://boardgamegeek.com/thread/1967085/openings-river-surges-sunlight
-  
-- author: Jeremy Lennert
-  site: BGG
-  type: guide
-  depth: intermediate
-  spirit: Shadows
-  link: https://boardgamegeek.com/thread/1971694/openings-shadows-flicker-flame
-  
-- author: Jeremy Lennert
-  site: BGG
-  type: guide
-  depth: intermediate
-  spirit: Thunderspeaker
-  link: https://boardgamegeek.com/thread/1966212/openings-thunderspeaker
+  posts:
+    - site: BGG
+      type: guide
+      depth: intermediate
+      spirit: Bringer
+      link: https://boardgamegeek.com/thread/1971193/openings-bringer-dreams-and-nightmares
+    - site: BGG
+      type: guide
+      depth: intermediate
+      spirit: Earth
+      link: https://boardgamegeek.com/thread/1974592/openings-vital-strength-earth  
+    - site: BGG
+      type: guide
+      depth: intermediate
+      spirit: Fangs
+      link: https://boardgamegeek.com/thread/1978097/openings-sharp-fangs-behind-leaves
+    - site: BGG
+      type: guide
+      depth: intermediate
+      spirit: Green
+      link: https://boardgamegeek.com/thread/1965751/openings-spread-rampant-green  
+    - site: BGG
+      type: guide
+      depth: intermediate
+      spirit: Keeper
+      link: https://boardgamegeek.com/thread/1978655/openings-keeper-forbidden-wilds  
+    - site: BGG
+      type: guide
+      depth: intermediate
+      spirit: Lightning
+      link: https://boardgamegeek.com/thread/1969985/openings-lightnings-swift-strike  
+    - site: BGG
+      type: guide
+      depth: intermediate
+      spirit: Ocean
+      link: https://boardgamegeek.com/thread/1970506/openings-oceans-hungry-grasp 
+    - site: BGG
+      type: guide
+      depth: intermediate
+      spirit: River
+      link: https://boardgamegeek.com/thread/1967085/openings-river-surges-sunlight  
+    - site: BGG
+      type: guide
+      depth: intermediate
+      spirit: Shadows
+      link: https://boardgamegeek.com/thread/1971694/openings-shadows-flicker-flame  
+    - site: BGG
+      type: guide
+      depth: intermediate
+      spirit: Thunderspeaker
+      link: https://boardgamegeek.com/thread/1966212/openings-thunderspeaker
   
 - author: Jonah Yonker
   site: BGG
