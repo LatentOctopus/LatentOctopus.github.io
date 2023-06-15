@@ -33,16 +33,11 @@ layout: default
             <li><a href="{{ item.link }}">{{ item.spirit }}</a></li>
           {% endfor %}
         </ul>
+      {% else %}
+        <li><a href="{{entry.link}}">{{ entry.author }}'s {{entry.type}} on {{entry.site}}</a></li>
       {% endif %}
     {% endfor %}
   </ul>
-  <!--
-  <ul>
-    {% for entry in site.data.resources | sort %}
-      <li><a href="{{ entry.link }}">{{ entry.author }}'s guide on {{ entry.site }}</a></li>
-    {% endfor %}
-  </ul>
-  -->
   
   
   <!-- Latest posts -->
