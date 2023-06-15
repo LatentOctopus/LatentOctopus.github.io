@@ -26,9 +26,18 @@ layout: default
   
   <ul>
     {% for entry in site.data.resources | sort %}
+      {% for post in (entry.try(:posts) || entry.posts) %}
+        <li><a href="{{ post.link }}">{{ entry.author }}'s guide on {{ post.site }}</a></li>
+      {% endfor %}
+    {% endfor %}
+  </ul>
+  <!--
+  <ul>
+    {% for entry in site.data.resources | sort %}
       <li><a href="{{ entry.link }}">{{ entry.author }}'s guide on {{ entry.site }}</a></li>
     {% endfor %}
   </ul>
+  -->
   
   
   <!-- Latest posts -->
