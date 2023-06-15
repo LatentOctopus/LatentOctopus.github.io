@@ -4,6 +4,20 @@
   depth: advanced
   link: https://youtube.com/channel/UCdVLtmFObyfW9-ADPXaSrSg
 
+- author: Rei
+  site: BGG
+  type: guides
+  items:
+    - depth: advanced
+      spirit: Mist
+      link: https://boardgamegeek.com/thread/2722115/advanced-guide-shroud-silent-mist
+    - depth: advanced 
+      spirit: MM
+      link: https://boardgamegeek.com/thread/2774198/advanced-guide-many-minds-move-one  
+    - depth: advanced
+      spirit: Vengeance
+      link: https://boardgamegeek.com/thread/2709070/advanced-guide-vengeance-burning-plague
+
 - author: Jeremy Lennert
   site: BGG
   type: guides
@@ -41,121 +55,49 @@
   
 - author: Jonah Yonker
   site: BGG
-  type: guide
-  depth: intermediate
-  spirit: Vengeance
-  link: https://boardgamegeek.com/thread/2484534/openings-vengeance-burning-plague
-  
-- author: Jonah Yonker
-  site: BGG
-  type: guide
-  depth: intermediate
-  spirit: Fractured
-  link: https://boardgamegeek.com/thread/2486927/openings-fractured-days-split-sky
-  
-- author: Jonah Yonker
-  site: BGG
-  type: guide
-  depth: intermediate
-  spirit: Mist
-  link: https://boardgamegeek.com/thread/2488254/openings-shroud-silent-mist
-  
-- author: Jonah Yonker
-  site: BGG
-  type: guide
-  depth: intermediate
-  spirit: Downpour
-  link: https://boardgamegeek.com/thread/2496834/openings-dowpour-drenches-world
-  
-- author: Jonah Yonker
-  site: BGG
-  type: guide
-  depth: intermediate
-  spirit: Finder
-  link: https://boardgamegeek.com/thread/2493091/openings-finder-paths-unseen
-  
-- author: Jonah Yonker
-  site: BGG
-  type: guide
-  depth: intermediate
-  spirit: MM
-  link: https://boardgamegeek.com/thread/2502110/openings-many-minds-move-one
-  
-- author: Jonah Yonker
-  site: BGG
-  type: guide
-  depth: intermediate
-  spirit: Trickster
-  link: https://boardgamegeek.com/thread/2502216/openings-grinning-trickster-stirs-trouble
-  
-- author: Jonah Yonker
-  site: BGG
-  type: guide
-  depth: intermediate
-  spirit: Memory
-  link: https://boardgamegeek.com/thread/2506389/openings-shifting-memory-ages
-  
-- author: Jonah Yonker
-  site: BGG
-  type: guide
-  depth: intermediate
-  spirit: Volcano
-  link: https://boardgamegeek.com/thread/2508259/openings-volcano-looming-high
-  
-- author: Jonah Yonker
-  site: BGG
-  type: guide
-  depth: intermediate
-  spirit: Lure
-  link: https://boardgamegeek.com/thread/2510069/openings-lure-deep-wilderness
-  
-- author: Jonah Yonker
-  site: BGG
-  type: guide
-  depth: intermediate
-  spirit: Stone
-  link: https://boardgamegeek.com/thread/2512536/openings-stones-unyielding-defiance
-  
-- author: Jonah Yonker
-  site: BGG
-  type: guide
-  depth: intermediate
-  spirit: Starlight
-  link: https://boardgamegeek.com/thread/2518429/openings-starlight-seeks-its-form
-  
-- author: Jonah Yonker
-  site: BGG
-  type: guide
-  depth: intermediate 
-  spirit: Serpent
-  link: https://boardgamegeek.com/thread/2282835/openings-serpent-slumbering-beneath-island
-  
-- author: Jonah Yonker
-  site: BGG
-  type: guide
-  depth: intermediate
-  spirit: Wildfire
-  link: https://boardgamegeek.com/thread/2313791/openings-heart-wildfire
-  
-- author: Rei
-  site: BGG
-  type: guide
-  depth: advanced
-  spirit: Mist
-  link: https://boardgamegeek.com/thread/2722115/advanced-guide-shroud-silent-mist
-  
-- author: Rei
-  site: BGG
-  type: guide
-  depth: advanced 
-  spirit: MM
-  link: https://boardgamegeek.com/thread/2774198/advanced-guide-many-minds-move-one
-  
-- author: Rei
-  site: BGG
-  type: guide
-  depth: advanced
-  spirit: Vengeance
-  link: https://boardgamegeek.com/thread/2709070/advanced-guide-vengeance-burning-plague
+  type: guides
+  items:
+    - depth: intermediate
+      spirit: Vengeance
+      link: https://boardgamegeek.com/thread/2484534/openings-vengeance-burning-plague
+    - depth: intermediate
+      spirit: Fractured
+      link: https://boardgamegeek.com/thread/2486927/openings-fractured-days-split-sky  
+    - depth: intermediate
+      spirit: Mist
+      link: https://boardgamegeek.com/thread/2488254/openings-shroud-silent-mist  
+    - depth: intermediate
+      spirit: Downpour
+      link: https://boardgamegeek.com/thread/2496834/openings-dowpour-drenches-world  
+    - depth: intermediate
+      spirit: Finder
+      link: https://boardgamegeek.com/thread/2493091/openings-finder-paths-unseen  
+    - depth: intermediate
+      spirit: MM
+      link: https://boardgamegeek.com/thread/2502110/openings-many-minds-move-one  
+    - depth: intermediate
+      spirit: Trickster
+      link: https://boardgamegeek.com/thread/2502216/openings-grinning-trickster-stirs-trouble  
+    - depth: intermediate
+      spirit: Memory
+      link: https://boardgamegeek.com/thread/2506389/openings-shifting-memory-ages
+    - depth: intermediate
+      spirit: Volcano
+      link: https://boardgamegeek.com/thread/2508259/openings-volcano-looming-high
+    - depth: intermediate
+      spirit: Lure
+      link: https://boardgamegeek.com/thread/2510069/openings-lure-deep-wilderness
+    - depth: intermediate
+      spirit: Stone
+      link: https://boardgamegeek.com/thread/2512536/openings-stones-unyielding-defiance
+    - depth: intermediate
+      spirit: Starlight
+      link: https://boardgamegeek.com/thread/2518429/openings-starlight-seeks-its-form
+    - depth: intermediate 
+      spirit: Serpent
+      link: https://boardgamegeek.com/thread/2282835/openings-serpent-slumbering-beneath-island
+    - depth: intermediate
+      spirit: Wildfire
+      link: https://boardgamegeek.com/thread/2313791/openings-heart-wildfire
  
   
