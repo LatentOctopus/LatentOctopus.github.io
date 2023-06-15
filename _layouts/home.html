@@ -26,10 +26,13 @@ layout: default
   
   <ul>
     {% for entry in site.data.resources | sort %}
-      <li>{{ entry.author }}</li>
-      {% for post in entry.posts %}
-        <li><a href="{{ post.link }}">{{ entry.author }}'s guide on {{ post.site }}</a></li>
-      {% endfor %}
+      {% if entry.entries %}
+        <li>{{ entry.author }}'s {{entry.type}} on {{entry.site}}:</li>
+        <ul>
+          {% for item in entry.items %}
+            <li><a href="{{ item.link }}">{{ item.spirit }}</a></li>
+          {% endfor %}
+        </ul>
     {% endfor %}
   </ul>
   <!--
