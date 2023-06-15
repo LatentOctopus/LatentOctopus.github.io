@@ -27,8 +27,7 @@ layout: default
   <ul>
     {% for entry in site.data.resources | sort %}
       <li>{{ entry.author }}</li>
-      <li>{{ entry.attributes }}</li>
-      {% for post in (entry.try(:posts) || entry.posts) %}
+      {% for post in entry.posts %}
         <li><a href="{{ post.link }}">{{ entry.author }}'s guide on {{ post.site }}</a></li>
       {% endfor %}
     {% endfor %}
