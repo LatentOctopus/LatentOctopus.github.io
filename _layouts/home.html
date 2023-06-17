@@ -12,8 +12,9 @@ layout: default
   
   <!-- Post links -->
   <h1 class="post-content">My Guides</h1>
+  {{site.tags}}
   {% for tag in (site.tags | sort) %}
-    <h3>{{ tag[0] site.data.abbreviations[tag[0] | downcase] }}</h3>
+    <h3>{{ site.data.abbreviations[tag[0] | downcase] }}</h3>
     <ul>
     {% for post in site.posts %}
       {% if post.categories contains "guide" and post.tags contains tag[0] %}
