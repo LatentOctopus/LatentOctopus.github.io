@@ -13,11 +13,12 @@ layout: default
   <!-- Post links -->
   <h1 class="post-content">My Guides</h1>
 
-  {% capture tags %}
+  {% capture raw_tags %}
     {% for tag in site.tags %}
-      {{ tag[0] }}
+      {{ tag[0] | downcase }}
     {% endfor %}
   {% endcapture %}
+  {% assign tags = raw_tags | split:' ' | sort %}
   
   {{tags}}
   {% for tag in tags %}
