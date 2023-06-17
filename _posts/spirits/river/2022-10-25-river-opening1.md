@@ -5,10 +5,6 @@ category: guide
 tags: River
 ---
 
-{% assign s = site.data.icons.sun %}
-{% assign w = site.data.icons.water %}
-{% assign e = site.data.icons.earth %}
-
 ## Unique Powers reminder
 
 <img src="/assets/images/River's bounty.jpg" width="200"/> <img src="/assets/images/Boon of vigor.jpg" width="200"/> <img src="/assets/images/Flash floods.jpg" width="200"/><img src="/assets/images/Wash away.jpg" width="200"/>
