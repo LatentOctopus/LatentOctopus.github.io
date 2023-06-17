@@ -22,7 +22,8 @@ layout: default
   
   {% for tag in tags %}
     <h3>{{ tag }}</h3>
-    <h3>{{ site.data.abbreviations[tag.downcase] }}</h3>
+    {% assign lc_tag = tag | downcase %}
+    <h3>{{ site.data.abbreviations[lc_tag] }}</h3>
     <ul>
     {% for post in site.posts %}
       {% if post.categories contains "guide" and post.tags contains tag %}
