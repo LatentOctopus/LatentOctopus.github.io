@@ -5,11 +5,6 @@ category: guide
 tags: TS
 ---
 
-{% assign s = site.data.icons.sun %}
-{% assign f = site.data.icons.fire %}
-{% assign a = site.data.icons.air %}
-
-
 ## Unique Powers reminder
 
 <img src="/assets/images/Sudden ambush.jpg" width="200"/> <img src="/assets/images/Words of warning.jpg" width="200"/> <img src="/assets/images/Voice of thunder.jpg" width="200"/> <img src="/assets/images/Manifestation of power and glory.jpg" width="200"/>
