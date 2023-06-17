@@ -6,6 +6,6 @@ title: "External Resources"
 
 category: guide
 
-tags: Thunderspeaker
+tags: TS
 
 ---
