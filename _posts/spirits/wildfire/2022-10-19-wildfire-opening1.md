@@ -5,9 +5,6 @@ category: guide
 tags: Wildfire
 ---
 
-{% assign f = site.data.icons.fire %}
-{% assign p = site.data.icons.plant %}
-
 
 ## Notes
 
