@@ -9,15 +9,12 @@ layout: default
 {% assign e = site.data.icons.elements.earth %}
 {% assign p = site.data.icons.elements.plant %}
 {% assign n = site.data.icons.elements.animal %}
-{{s}}
 
 <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
 
   <header class="post-header">
     {% assign spirit_tag = page.tags[0] %}
-    {% assign spirit_name1 = site.data.abbreviations[spirit_tag] %}
-    {% assign spirit_name = site.data.abbreviations[page.tags[0]] %}
-    ={{spirit_tag}} {{spirit_name1}} {{spirit_name}}
+    {% assign spirit_name = site.data.abbreviations[spirit_tag] %}
     <h1 class="post-title p-name" itemprop="name headline">[{{spirit_name}}] {{ page.title | escape }}</h1>
     <p class="post-meta">
       {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
