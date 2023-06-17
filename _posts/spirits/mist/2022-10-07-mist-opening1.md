@@ -124,7 +124,7 @@ Cons:
 
 ## Opening: Fast scaling bottom track (Minors)
 
-**Adapted from [Rei's guide on BGG]({% post_url 2022-10-07-mist-resources %}).**
+**Adapted from [Rei's guide on BGG](https://boardgamegeek.com/thread/2722115/advanced-guide-shroud-silent-mist).**
 
 The idea is to take a weaker early game (namely turn 2 and 3) to scale faster into the mid game.
 
