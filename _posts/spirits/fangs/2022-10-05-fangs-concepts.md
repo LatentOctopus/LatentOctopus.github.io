@@ -5,9 +5,7 @@ category: guide
 tags: Fangs
 ---
 
-## General Concepts
-
-### Growth 
+## Growth 
 
 Fangs' growth is extremely versatile. Consider the following second-growth choices over two turns (the first growth being G2 to place presence):
 
@@ -19,11 +17,11 @@ These options give a mix of Energy, extra cards, and reclaim. When writing an op
 
 For example, G3 > G3 can be swapped for G4 > G1 if reclaiming cards is more valuable than gaining an extra Power. This can be used to activate [[Ranging hunt]] by play [[Teeth gleam]] and [[Too near the jungle]] on the first turn if taking the presence from the top track, and still have access to them in the next couple of turns thanks to reclaiming cards; the cost to pay is one Minor gain, which will be detrimental in the long run, thus exchanging long-term benefits for a stronger early game.
 
-### Presence conversion
+## Presence conversion
 
 Presence should be converted as much as possible into Beasts, ideally every turn outside of one or two, as typically only 2-4 presence on the island is needed (4 presence mostly to avoid instant loss by [[Tipping point]]).
 
-### Minors selection
+## Minors selection
 
 If not unlocking the Animal and the Plant on your presence track, prioritise Plant+Animal > Plant > Animal > other, to have extra cards that reliably activate [[Ranging hunt]]. After one Plant and one Animal Minors have been found, elements cease being as much of a priority. If unlocking Animal and Plant, only 1 Animal is needed.
 
