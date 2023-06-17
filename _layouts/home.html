@@ -15,14 +15,14 @@ layout: default
 
   {% capture raw_tags %}
     {% for tag in site.tags %}
-      {{ tag[0] | downcase }}
+      {{ tag[0] }}
     {% endfor %}
   {% endcapture %}
   {% assign tags = raw_tags | split:' ' | sort %}
   
   {% for tag in tags %}
     <h3>{{ tag }}</h3>
-    <h3>{{ site.data.abbreviations[tag] }}</h3>
+    <h3>{{ site.data.abbreviations[tag | downcase] }}</h3>
     <ul>
     {% for post in site.posts %}
       {% if post.categories contains "guide" and post.tags contains tag %}
