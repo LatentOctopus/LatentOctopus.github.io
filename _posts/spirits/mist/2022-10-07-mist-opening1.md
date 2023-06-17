@@ -5,11 +5,6 @@ category: guide
 tags: Mist 
 ---
 
-{% assign m = site.data.icons.moon %}
-{% assign f = site.data.icons.fire %}
-{% assign a = site.data.icons.air %}
-{% assign w = site.data.icons.water %}
-
 ## Unique Powers reminder
 
 <img src="/assets/images/Forms_dart_by.png" width="200"/> <img src="/assets/images/Unnerving_pall.png" width="200"/> <img src="/assets/images/Fog_closes_in.png" width="200"/> <img src="/assets/images/Dissolving_vapors.png" width="200"/>
