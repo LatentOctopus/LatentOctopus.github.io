@@ -17,10 +17,10 @@ layout: default
     {% for raw_tag in site.tags %}
       {% assign tag = raw_tag[0] %}
       {% assign lc_tag = tag | downcase %}
-      {{site.data.abbreviations[lc_tag]}}@{{tag}}
+      {{site.data.abbreviations[lc_tag]}}@{{tag}};
     {% endfor %}
   {% endcapture %}
-  {% assign names_with_tags = raw_names_with_tags | split:' ' | sort %}
+  {% assign names_with_tags = raw_names_with_tags | split:';' | sort %}
   {{names_with_tags}}
   
   {% for name_with_tag in names_with_tags %}
