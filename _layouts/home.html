@@ -13,17 +13,22 @@ layout: default
   <!-- Post links -->
   <h1 class="post-content">My Guides</h1>
 
-  {% capture raw_tags %}
-    {% for tag in site.tags %}
-      {{ tag[0] }}
+  {% capture raw_names_with_tags %}
+    {% for raw_tag in site.tags %}
+      {% assign tag = raw_tag[0] %}
+      {% assign lc_tag = tag | downcase %}
+      {{site.data.abbreviations[lc_tag]}}@{{tag}}
     {% endfor %}
   {% endcapture %}
-  {% assign tags = raw_tags | split:' ' | sort %}
+  {% assign names_with_tags = raw_names_with_tags | split:' ' | sort %}
+  {{names_with_tags}}
   
-  {% for tag in tags %}
-    <h3>{{ tag }}</h3>
-    {% assign lc_tag = tag | downcase %}
-    <h3>{{ site.data.abbreviations[lc_tag] }}</h3>
+  {% for name_with_tag in names_with_tags %}
+    {% assign name_and_tag = name_with_tag | split:'@' %}
+    {% assign name = name_and_tag[0] %}
+    {% assign tag = name_and_tag[1] %}
+    <h3>{{ tag }}</h3>  
+    <h3>{{ name }}</h3>
     <ul>
     {% for post in site.posts %}
       {% if post.categories contains "guide" and post.tags contains tag %}
