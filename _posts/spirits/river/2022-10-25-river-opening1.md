@@ -15,7 +15,7 @@ tags: River
 
 ## Full bottom track (Minors | Base, Travel)
 
-**Similar to [RedReVenge's guide]({% post_url 2022-10-07-river-resources %}).**
+**Similar to [RedReVenge](https://youtube.com/channel/UCdVLtmFObyfW9-ADPXaSrSg)'s guide.**
 
 
 This is the standard opening for River. It exploits River's strong, perfect-element Uniques to reliably unlock level 3 [[Massive flooding]] from the 4th turn on.
