@@ -2,7 +2,7 @@
 layout: post  
 title: "Slow openings"  
 category: guide  
-tags: Thunderspeaker
+tags: TS
 ---
 
 {% assign s = site.data.icons.sun %}
