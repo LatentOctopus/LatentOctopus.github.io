@@ -21,13 +21,11 @@ layout: default
     {% endfor %}
   {% endcapture %}
   {% assign names_with_tags = raw_names_with_tags | split:';' | sort %}
-  {{names_with_tags}}
   
   {% for name_with_tag in names_with_tags %}
     {% assign name_and_tag = name_with_tag | split:'@' %}
     {% assign name = name_and_tag[0] %}
     {% assign tag = name_and_tag[1] %}
-    <h3>{{ tag }}</h3>  
     <h3>{{ name }}</h3>
     <ul>
     {% for post in site.posts %}
