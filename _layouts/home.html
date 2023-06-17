@@ -45,7 +45,7 @@ layout: default
         <li>{{ entry.author }}'s {{entry.type}} on {{entry.site}}:</li>
         <ul>
           {% for item in entry.items %}
-            {% spirit_name = site.data.abbreviations[item.spirit | downcase] %}
+            {% assign spirit_name = site.data.abbreviations[item.spirit | downcase] %}
             <li><a href="{{ item.link }}">{{ spirit_name }}</a></li>
           {% endfor %}
         </ul>
