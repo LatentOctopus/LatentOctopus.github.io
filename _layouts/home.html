@@ -12,8 +12,15 @@ layout: default
   
   <!-- Post links -->
   <h1 class="post-content">My Guides</h1>
-  {{site.tags.keys}}
-  {% for tag in site.tags.keys %}
+
+  {% capture tags %}
+    {% for tag in site.tags %}
+      {{ tag[0] }}
+    {% endfor %}
+  {% endcapture %}
+  
+  {{tags}}
+  {% for tag in tags %}
     <h3>{{ tag }}</h3>
     <h3>{{ site.data.abbreviations[tag | downcase] }}</h3>
     <ul>
