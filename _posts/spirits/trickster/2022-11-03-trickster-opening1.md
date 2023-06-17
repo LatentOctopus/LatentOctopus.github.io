@@ -5,12 +5,6 @@ category: guide
 tags: Trickster 
 ---
 
-{% assign s = site.data.icons.sun %}
-{% assign m = site.data.icons.moon %}
-{% assign f = site.data.icons.fire %}
-{% assign a = site.data.icons.air %}
-{% assign n = site.data.icons.animal %}
-
 The idea of the following openings is to get to 2/3 and unlocking the Any element on its top track as well. I've found this to work better than 1/4, which is constraining and often  lacks power in the mid and late game.
 
 That been said, Trickster is a... tricky Spirit to write an opening for, because its growth path depends on the cards that it gains via [[Let's see what happens]] and G3. All of the following openings assume gaining a Minor via G3 as first thing on turn 1, and then choosing the option based on the elements and cost of the gained Power.
