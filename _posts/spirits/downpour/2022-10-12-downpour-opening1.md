@@ -1,6 +1,6 @@
 ---  
 layout: post  
-title: "Bottom track hybrid"  
+title: "Openings: bottom track hybrid"  
 category: guide  
 tags: Downpour
 ---
