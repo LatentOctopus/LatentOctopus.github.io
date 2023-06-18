@@ -9,7 +9,6 @@ layout: default
 {% assign spirit_tag = page.tags[0] %}
 {% assign spirit_name = site.data.abbreviations[spirit_tag].name %}
 {% assign spirit_effects = site.data.abbreviations[spirit_tag].effects %}
-{{spirit_effects}}
 
 <!-- Replace [[...]] in content  -->
 {% assign contentarray = content | split:'[[' %}
@@ -22,10 +21,7 @@ layout: default
         {% else %}
             {% assign links = links | append: '|' | append: link %}
         {% endif %}
-
-        {{link}}
         {% assign url = spirit_effects[link] %}
-        {{url}}
         {% if forloop.index == 2 %}
             {% assign urls = url %}
         {% else %}
@@ -37,7 +33,7 @@ layout: default
 {% assign linkarray = links | split:'|' %}
 {% assign replacedcontent = page.content %}
 {% for item in linkarray %}
-    {% assign linktext = '<span class="spirit_effect_text">' | append: item | append: '<img class="spirit_effect_image" src="' | append: urlarray[forloop.index0] | append: '">' | append: '</span>' %}
+    {% assign linktext = '<span class="spirit_effect_text">' | append: item | append: '<img class="spirit_effect_image" src="/assets/images/' | append: urlarray[forloop.index0] | append: '">' | append: '</span>' %}
     {% assign bracketlink = '[[' | append: item | append: ']]' %}
     {% assign replacedcontent = replacedcontent | replace: bracketlink,linktext %}
 {% endfor %}
