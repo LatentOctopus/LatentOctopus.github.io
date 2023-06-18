@@ -1,6 +1,6 @@
 ---  
 layout: post  
-title: "Top track"  
+title: "Openings: top track"  
 category: guide  
 tags: Lure 
 ---
