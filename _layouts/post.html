@@ -41,7 +41,7 @@ layout: default
                     {% break %}
                 {% endif %}
              {% endfor %}
-        {% endif %}
+        {% endunless %}
         {% if forloop.index == 2 %}
             {% assign urls = url %}
         {% else %}
