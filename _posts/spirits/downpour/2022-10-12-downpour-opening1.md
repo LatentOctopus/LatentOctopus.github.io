@@ -6,10 +6,11 @@ tags: Downpour
 ---
 {%- include init.html -%}
 
+Note: the openings mentioned above will cover more turns than usual, going as far as turn 10. While this would in general be overkill because games often end before that, Downpour's extraordinary stalling generally causes games to be longer, and reaching turn 10 is not unusual against Adversaries that keep the pressure up throughout mid and late game.
+
 ## Bottom track hybrid (Minors)
 
 The idea is to unlock 2 CP as soon as possible and then going top track while taking frequent G2s to have as much Energy and {{w}} as possible to repeat your Powers.
-
 
 ### Unique Powers reminder
 
@@ -99,7 +100,7 @@ Take G1 if needing to reclaim, G2 otherwise (even after you empty your tracks).
 
 A Major can be gained earlier on (turn 5 or 6), but usually the Energy is better spent repeating Uniques or Minors.
 
-2 CP coupled with your Innates are usually enough to deal with a variety of issues. If 3 CP are really needed, they can be unlocked on turn 6 or even as soon as turn 4, but not unlocking the Plant element will likely hurt Energy generation.
+2 CP coupled with your Innates are usually enough to deal with a variety of issues, due to your Special Rule allowing repeating the Powers you play. If wanting to unlock 3CP, see the variant opening below.
 
 ### Stats
 
