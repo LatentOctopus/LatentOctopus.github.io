@@ -10,7 +10,7 @@ layout: default
 {% assign spirit_name = site.data.abbreviations[spirit_tag].name %}
 
 <!-- Replace [[...]] in content  -->
-{% assign contentarray = content | split:']]' %}
+{% assign contentarray = content | split:'[[' %}
 {% for item in contentarray %}
     {% if forloop.index > 1 %}
         {% assign itemparts = item | split:']]' %}
