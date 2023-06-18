@@ -150,7 +150,7 @@ This variant aims at unlocking 3CP before going deep in the top track. It follow
 
 ### Remarks
 
-The increased CP comes at the cost of lower Energy income, as well as delaying getting a Major to even later stages of the game. This tradeoff is generally not worth it, as mentioned above.
+The increased CP comes at the cost of lower Energy income, as well as delaying getting a Major to even later stages of the game. This tradeoff is generally not worth it because 2CP should be enough, as mentioned above.
 
 3CP can be unlocked even as soon as turn 4 by emptying the bottom track before going top, but not unlocking the {{p}} on your top track will hurt Energy generation even more, unless one of the gained Minors can provide Energy.
 
