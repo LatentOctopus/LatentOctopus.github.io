@@ -24,12 +24,7 @@ The idea is to unlock 2 CP as soon as possible and then going top track while ta
 
 G3 bottom, gain Minor. 
 
-Play 1. 
-<span class="spirit_effect_text">
-Gift of abundance 
-<img class="spirit_effect_image" src="/assets/images/Gift of abundance.png">
-</span> 
-is a good default to scale better.
+Play 1. [[Gift of abundance]] is a good default to scale better.
 
 #### Turn 2
 
