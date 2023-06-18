@@ -4,6 +4,7 @@ title: "Fast openings"
 category: guide  
 tags: TS
 ---
+{%- include init.html -%}
 
 ## Unique Powers reminder
 
