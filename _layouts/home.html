@@ -16,7 +16,7 @@ layout: default
   {% capture raw_names_with_tags %}
     {% for raw_tag in site.tags %}
       {% assign tag = raw_tag[0] %}
-      {{site.data.abbreviations[tag]}}@{{tag}};
+      {{site.data.abbreviations[tag].name}}@{{tag}};
     {% endfor %}
   {% endcapture %}
   {% assign names_with_tags = raw_names_with_tags | split:';' | sort %}
@@ -46,7 +46,7 @@ layout: default
         <li>{{ entry.author }}'s {{entry.type}} on {{entry.site}}:</li>
         <ul>
           {% for item in entry.items %}
-            {% assign spirit_name = site.data.abbreviations[item.spirit] %}
+            {% assign spirit_name = site.data.abbreviations[item.spirit].name %}
             <li><a href="{{ item.link }}">{{ spirit_name }}</a></li>
           {% endfor %}
         </ul>
@@ -78,7 +78,7 @@ layout: default
         <h3>
           <a class="post-link" href="{{ post.url | relative_url }}">
             {% assign tag = post.tags[0] %}
-            [{{ site.data.abbreviations[tag] }}] {{ post.title | escape }}
+            [{{ site.data.abbreviations[tag].name }}] {{ post.title | escape }}
           </a>
         </h3>
         {%- if site.show_excerpts -%}
