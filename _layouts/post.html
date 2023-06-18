@@ -17,6 +17,7 @@ layout: default
     {% endfor %}
 {% endcapture %}
 {% assign filepaths = raw_filepaths | split:';' | sort %}
+{{filepaths}}
 
 <!-- Replace [[...]] in content  -->
 {% assign contentarray = content | split:'[[' %}
