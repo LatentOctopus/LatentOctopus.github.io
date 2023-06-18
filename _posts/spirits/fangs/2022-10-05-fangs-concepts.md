@@ -4,6 +4,7 @@ title: "General Concepts"
 category: guide
 tags: Fangs
 ---
+{%- include init.html -%}
 
 ## Growth 
 
@@ -23,6 +24,6 @@ Presence should be converted as much as possible into Beasts, ideally every turn
 
 ## Minors selection
 
-If not unlocking the Animal and the Plant on your presence track, prioritise Plant+Animal > Plant > Animal > other, to have extra cards that reliably activate [[Ranging hunt]]. After one Plant and one Animal Minors have been found, elements cease being as much of a priority. If unlocking Animal and Plant, only 1 Animal is needed.
+If not unlocking the {{n}} and the {{p}} on your presence track, prioritise {{p}}{{n}} > {{p}} > {{n}} > other, to have extra cards that reliably activate [[Ranging hunt]]. After 1 {{p}} and 1 {{n}} Minors have been found, elements cease being as much of a priority. If unlocking {{n}} and {{p}}, only 1 {{n}} is needed.
 
 Blight handling is excellent on Fangs, and it might be worth prioritising it over better Elements.
