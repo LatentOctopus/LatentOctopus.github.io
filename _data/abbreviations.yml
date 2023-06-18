@@ -1,41 +1,79 @@
-Behemoth: Ember-Eyed Behemoth
-Bringer: Bringer of Dreams and Nightmares
-Darkness: Breath of Darkness Down Your Spine
-DUE: Dances Up Earthquakes
-Downpour: Downpour Drenches the World
-    Foundations sink: Foundations sink into mud.png
-    Unbearable deluge: Unbearable deluge.png
-    Dark skies: Dark skies loose a stinging rain.png
-    Gift of abundance: Gift of abundance.png
-Earth: Vital Strength of the Earth
-Eyes: Eyes Watch from the Trees
-Fangs: Sharp Fangs Behind the Leaves
-Finder: Finder of Paths Unseen
-Fractured: Fractured Days Split the Sky
-Heat: Rising Heat of Stone and Sand
-HV: Hearth-Vigil
-Green: A Spread of Rampant Green
-Keeper: Keeper of the Forbidden Wilds
-Lightning: Lightning's Swift Strike
-Lure: Lure of the Deep Wilderness
-Memory: Shifting Memory of Ages
-Mist: Shroud of Silent Mist
-MM: Many Minds Move as One
-Mud: Fathomless Mud of the Swamp
-Ocean: Ocean's Hungry Grasp
-River: River Surges in Sunlight
-Roots: Towering Roots of the Jungle
-Serpent: Serpent Slumbering Beneath the Earth
-Shadows: Shadows Flicker Like Flames
-Starlight: Starlight Seeks Its Form
-Stone: Stone's Unyielding Defiance
-Sun: Relentless Gaze of the Sun
-Teeth: Devouring Teeth Lurk Underfoot
-Trickster: Grinning Trickster Stirs Up Trouble
-TS: Thunderspeaker
-Vengeance: Vengeance as a Burning Plague
-Voice: Wandering Voice Keens Delirium
-Volcano: Volcano Looming High
-Waters: Wounded Waters Bleeding
-Whirlwind: Sun-Bright Whirlwind
-Wildfire: Heart of the Wildfire
+Behemoth: 
+    name: Ember-Eyed Behemoth
+Bringer: 
+    name: Bringer of Dreams and Nightmares
+Darkness: 
+    name: Breath of Darkness Down Your Spine
+DUE:  
+    name: Dances Up Earthquakes
+Downpour:  
+    name: Downpour Drenches the World
+    effects:
+        Foundations sink: Foundations sink into mud.png
+        Unbearable deluge: Unbearable deluge.png
+        Dark skies: Dark skies loose a stinging rain.png
+        Gift of abundance: Gift of abundance.png
+Earth:  
+    name: Vital Strength of the Earth
+Eyes:  
+    name: Eyes Watch from the Trees
+Fangs:  
+    name: Sharp Fangs Behind the Leaves
+Finder:  
+    name: Finder of Paths Unseen
+Fractured:  
+    name: Fractured Days Split the Sky
+Heat:  
+    name: Rising Heat of Stone and Sand
+HV:  
+    name: Hearth-Vigil
+Green:  
+    name: A Spread of Rampant Green
+Keeper:  
+    name: Keeper of the Forbidden Wilds
+Lightning:  
+    name: Lightning's Swift Strike
+Lure:  
+    name: Lure of the Deep Wilderness
+Memory:  
+    name: Shifting Memory of Ages
+Mist:  
+    name: Shroud of Silent Mist
+MM:  
+    name: Many Minds Move as One
+Mud:  
+    name: Fathomless Mud of the Swamp
+Ocean:  
+    name: Ocean's Hungry Grasp
+River:  
+    name: River Surges in Sunlight
+Roots:  
+    name: Towering Roots of the Jungle
+Serpent:  
+    name: Serpent Slumbering Beneath the Earth
+Shadows:  
+    name: Shadows Flicker Like Flames
+Starlight:  
+    name: Starlight Seeks Its Form
+Stone:  
+    name: Stone's Unyielding Defiance
+Sun:  
+    name: Relentless Gaze of the Sun
+Teeth:  
+    name: Devouring Teeth Lurk Underfoot
+Trickster:  
+    name: Grinning Trickster Stirs Up Trouble
+TS:  
+    name: Thunderspeaker
+Vengeance:  
+    name: Vengeance as a Burning Plague
+Voice:  
+    name: Wandering Voice Keens Delirium
+Volcano:  
+    name: Volcano Looming High
+Waters:  
+    name: Wounded Waters Bleeding
+Whirlwind:  
+    name: Sun-Bright Whirlwind
+Wildfire:  
+    name: Heart of the Wildfire
