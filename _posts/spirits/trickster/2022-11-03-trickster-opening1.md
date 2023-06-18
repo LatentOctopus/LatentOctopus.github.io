@@ -1,6 +1,6 @@
 ---  
 layout: post  
-title: "Hybrid"  
+title: "Openings: hybrid"  
 category: guide  
 tags: Trickster 
 ---
