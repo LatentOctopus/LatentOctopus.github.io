@@ -10,9 +10,7 @@ Downpour:
     name: Downpour Drenches the World
     effects:
         Foundations sink: Foundations sink into mud.png
-        Unbearable deluge: Unbearable deluge.png
         Dark skies: Dark skies loose a stinging rain.png
-        Gift of abundance: Gift of abundance.png
         Pour down: Pour down power across the island.png 
 Earth:  
     name: Vital Strength of the Earth
@@ -20,6 +18,8 @@ Eyes:
     name: Eyes Watch from the Trees
 Fangs:  
     name: Sharp Fangs Behind the Leaves
+    effects:
+        Teeth gleam: Teeth gleam from darkness.jpg
 Finder:  
     name: Finder of Paths Unseen
 Fractured:  
@@ -36,6 +36,10 @@ Lightning:
     name: Lightning's Swift Strike
 Lure:  
     name: Lure of the Deep Wilderness
+    effects:
+        Softly beckon: Softly beckon ever inwards.png
+        Perils: Perils of the deepest island.png
+        Forsake society: Forsake society to chase after dreams.png
 Memory:  
     name: Shifting Memory of Ages
 Mist:  
