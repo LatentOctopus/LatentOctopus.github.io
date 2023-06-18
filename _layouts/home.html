@@ -75,12 +75,10 @@ layout: default
       {%- for post in posts -%}
       <li>
         <span class="post-meta">{{ post.date | date: date_format }}</span>
-        <h5>
           <a class="post-link" href="{{ post.url | relative_url }}">
             {% assign tag = post.tags[0] %}
             [[{{site.data.icons.spirits[tag].small}} {{site.data.abbreviations.spirits[tag].name}}]] {{ post.title | escape }}
           </a>
-        </h5>
         {%- if site.show_excerpts -%}
           {{ post.excerpt }}
         {%- endif -%}
