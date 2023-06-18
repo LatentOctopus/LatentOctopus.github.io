@@ -16,7 +16,7 @@ As I mentioned in {% post_url 2022-10-14-wildfire-concepts %}, Wildfire's openin
 <img src="/assets/images/Flame's fury.jpg" width="200"/> <img src="/assets/images/Threatening flames.jpg" width="200"/> <img src="/assets/images/Asphyxiating smoke.jpg" width="200"/> <img src="/assets/images/Flash fires.jpg" width="200"/>
 
 
-## Bottom track (Minors/Mixed)
+## Full bottom track (Minors/Mixed)
 
 ### Growth
 
