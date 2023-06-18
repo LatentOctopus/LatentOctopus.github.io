@@ -28,7 +28,7 @@ Play 1.
 <span class="spirit_effect_text">
 Gift of abundance 
 <img class="spirit_effect_image" src="/assets/images/Gift of abundance.png">
-</a> 
+</span> 
 is a good default to scale better.
 
 #### Turn 2
