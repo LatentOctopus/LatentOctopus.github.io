@@ -14,12 +14,13 @@ layout: default
 {% for item in contentarray %}
     {% if forloop.index > 1 %}
         {% assign itemparts = item | split:']]' %}
+        {% assign link = itemparts[0] %}
         {% if forloop.index == 2 %}
-            {% assign links = itemparts[0] %}
+            {% assign links = link %}
         {% else %}
-            {% assign links = links | append: '|' | append: itemparts[0] %}
+            {% assign links = links | append: '|' | append: link %}
         {% endif %}
-        {% assign url = site.data.abbreviations[spirit_tag].effects[item] %}
+        {% assign url = site.data.abbreviations[spirit_tag].effects[link] %}
         {% if forloop.index == 2 %}
             {% assign urls = url %}
         {% else %}
