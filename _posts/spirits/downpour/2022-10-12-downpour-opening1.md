@@ -6,7 +6,7 @@ tags: Downpour
 ---
 {%- include init.html -%}
 
-Note: the openings mentioned above will cover more turns than usual, going as far as turn 10. While this would in general be overkill because games often end before that, Downpour's extraordinary stalling generally causes games to be longer, and reaching turn 10 is not unusual against Adversaries that keep the pressure up throughout mid and late game.
+Note: the openings described below will cover more turns than usual, going as far as turn 10. While this would in general be overkill because games often end before that, Downpour's extraordinary stalling causes games to be longer, and reaching turn 10 is not unusual against Adversaries that keep the pressure up throughout mid and late game.
 
 ## Bottom track hybrid (Minors)
 
