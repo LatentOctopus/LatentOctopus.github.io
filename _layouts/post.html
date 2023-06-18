@@ -10,8 +10,16 @@ layout: default
 {% assign spirit_name = site.data.abbreviations[spirit_tag].name %}
 {% assign spirit_effects = site.data.abbreviations[spirit_tag].effects %}
 
-{% for file in site.static_files %}
-    {{file[0]}}
+{% capture raw_filepaths %}
+    {% for file in site.static_files %}
+        {% assign path = file.path %}
+        {{path}};
+    {% endfor %}
+{% endcapture %}
+{% assign filepaths = raw_filepaths | split:';' | sort %}
+
+{% for file in filepaths %}
+    {{file}}
 {% endfor %}
 
 <!-- Replace [[...]] in content  -->
