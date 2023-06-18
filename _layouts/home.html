@@ -19,6 +19,8 @@ layout: default
     {% endfor %}
   {% endcapture %}
   {% assign names_with_tags = raw_names_with_tags | split:';' | sort %}
+
+  {% assign sorted_posts = site.posts | sort: 'title' %}
   
   {% for name_with_tag in names_with_tags %}
     {% assign name_and_tag = name_with_tag | split:'@' %}
@@ -26,7 +28,7 @@ layout: default
     {% assign tag = name_and_tag[1] %}
     <h3>{{ name }}</h3>
     <ul>
-    {% for post in site.posts %}
+    {% for post in sorted_posts %}
       {% if post.categories contains "guide" and post.tags contains tag %}
         <li><a href="{{ post.url }}">{{ post.title | }}</a></li>
       {% endif %}
