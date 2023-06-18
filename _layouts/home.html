@@ -27,7 +27,7 @@ layout: default
     {% assign name_and_tag = name_with_tag | split:'@' %}
     {% assign name = name_and_tag[0] %}
     {% assign tag = name_and_tag[1] %}
-    <h3>{{ name }}</h3>
+    <h3> {{site.data.icons.spirits[name].small}} {{ name }}</h3>
     <ul>
     {% for post in sorted_posts %}
       {% if post.categories contains "guide" and post.tags contains tag %}
