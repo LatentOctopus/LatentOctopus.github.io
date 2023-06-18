@@ -8,11 +8,12 @@ DUE:
     name: Dances Up Earthquakes
 Downpour:  
     name: Downpour Drenches the World
-    effects:
+    uniques:
         Foundations sink: Foundations sink into mud.png
         Unbearable deluge: Unbearable deluge.png
         Dark skies: Dark skies loose a stinging rain.png
         Gift of abundance: Gift of abundance.png
+    other:
         Pour down: Pour down power across the island.png 
 Earth:  
     name: Vital Strength of the Earth
