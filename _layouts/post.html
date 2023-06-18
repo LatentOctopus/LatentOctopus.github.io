@@ -29,7 +29,7 @@ layout: default
                 {% assign filepath = '/assets/images/' | append: fn %}
                 {% assign file_exists = site.static_files | where: "path", filepath %}
                 ?{{file_exists}}?
-                {% if file_exists %}
+                {% if file_exists.size > 0 %}
                     {% assign url = fn %}
                     {% break %}
                 {% endif %}
