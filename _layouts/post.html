@@ -29,6 +29,9 @@ layout: default
                 {% if site.static_files contains path %}
                     {% assign url = path %}
                     {% break %}
+                {% endif %}
+             {% endfor %}
+        {% endif %}
         {{path}}
         {% if forloop.index == 2 %}
             {% assign urls = url %}
