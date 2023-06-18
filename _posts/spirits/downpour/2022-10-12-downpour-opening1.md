@@ -4,6 +4,7 @@ title: "Bottom track hybrid"
 category: guide  
 tags: Downpour
 ---
+{%- include init.html -%}
 
 ## Bottom track hybrid (Minors)
 
