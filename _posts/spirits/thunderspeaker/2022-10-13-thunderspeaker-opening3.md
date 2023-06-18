@@ -1,6 +1,6 @@
 ---  
 layout: post  
-title: "Slow openings"  
+title: "Openings: slow start"  
 category: guide  
 tags: TS
 ---
