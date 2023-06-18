@@ -3,6 +3,7 @@ layout: page
 title: Glossary
 permalink: /glossary/
 ---
+{%- include init.html -%}
 
 ### Abbreviations
 
@@ -35,10 +36,10 @@ Referring to Power cards gains: **Minor** (no Major, or only gain Majors late in
 
 I'll often report stats in an opening in a table like this:
 
-Turn | Growth | Owned cards | Cards in hand | CE
-:--: | :--: | :--: | :--: | :--: 
-1 | 2 |   5   | 5 | 2
-2 | 3 |   5   | 3 | 6
+Turn | Growth | Owned cards | Cards in hand | CE | PE+CP
+:--: | :--: | :--: | :--: | :--: | :--:
+1 | 2 |   5   | 5 | 2 | {{p}}1
+2 | 3 |   5   | 3 | 6 | {{p}}{{n}}2
 
 The columns of these table are:
 
@@ -48,8 +49,9 @@ The columns of these table are:
 * **Cards in hand**: the number cards available to play, _after_ gaining and reclaiming. Note that, unless otherwise specified in the opening, this assumes that all card plays are used on the previous turn.
 * **CE (Cumulative energy)**: the total amount of energy gained so far in the game _via growth_, i.e. escluding gains from other sources like Powers, unless otherwise specified.
     * _Why do you not report the energy available on that turn?_ Because that depends on gained cards cost and order of play, thus being too variable to reliably report.
+* **PE+CP (Permanent elements and Card Plays)**: the elements that are permanently unlocked (typically by uncovering them on Presence tracks), followed by the Card Plays available that turn. These two things combined give a rough idea of which Innate thresholds can be unlocked on a given turn.
 
-Other Spirit-specific columns may be added, but these will be present most of the time.
+Other Spirit-specific columns may be added, but the above-mentioned ones will be present most of the time.
 
 
 ### Credits
