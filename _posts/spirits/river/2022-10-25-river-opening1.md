@@ -1,6 +1,6 @@
 ---  
 layout: post  
-title: "Full bottom track"  
+title: "Openings: full bottom track"  
 category: guide  
 tags: River
 ---
