@@ -37,7 +37,7 @@ layout: default
         {% if url == blank %}
             {% for ext in ['.jpg', '.png'] %}
                 {% assign path = link | append ext %}
-                {% if site.static_files contains path %}
+                {% if filepaths contains path %}
                     {% assign url = path %}
                     {% break %}
                 {% endif %}
