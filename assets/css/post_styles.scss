@@ -1,5 +1,45 @@
 ---
 ---
+/* Tooltip from https://www.w3schools.com/css/css_tooltip.asp */
+.spirit_effect_text {
+  position: relative;
+  display: inline-block;
+  border-bottom: 2px dotted #0074bd;
+  cursor: help;
+}
 
+.spirit_effect_text .spirit_effect_image {
+  visibility: hidden;
+   
+  background-color: black;
+  padding: 5px;
+  border-radius: 6px;
+
+  position: absolute;
+  z-index: 99;
+  bottom: 100%;
+  left: 50%;
+  margin-left: -80px; /* Use half of the width to center the tooltip */
+}
+
+/* Show the tooltip text when you mouse over the tooltip container */
+.spirit_effect_text:hover .spirit_effect_image {
+  visibility: visible;
+}
+
+/* Arrow created with borders. */
+.spirit_effect_text .spirit_effect_image::after {
+  content: " ";
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  margin-left: -5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: black transparent transparent transparent;
+}
+
+/*
 .spirit_effect_image { display: none; }
 .spirit_effect_text:hover .spirit_effect_image { display: block; position: absolute; z-index:99; }
+*/
