@@ -33,9 +33,11 @@ layout: default
         >{{url}}<
         {% if url == blank %}
             {% for ext in ['.jpg', '.png'] %}
-                {% assign path = '/assets/images/' | append: link | append: ext %}
-                {% if filepaths contains path %}
-                    {% assign url = path %}
+                {% assign fn = link | append: ext %}
+                {% assign filepath = '/assets/images/' | append: fn %}
+                {{filepath}}
+                {% if filepaths contains filepath %}
+                    {% assign url = fn %}
                     {% break %}
                 {% endif %}
              {% endfor %}
