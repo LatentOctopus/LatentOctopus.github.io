@@ -8,7 +8,7 @@ tags: Downpour
 
 ## Bottom track hybrid (Minors)
 
-The idea is to unlock 2 CP as soon as possible and then going top track while taking frequent G2s to have as much Energy and Water as possible to repeat your Powers.
+The idea is to unlock 2 CP as soon as possible and then going top track while taking frequent G2s to have as much Energy and {{w}} as possible to repeat your Powers.
 
 
 ### Unique Powers reminder
@@ -105,18 +105,18 @@ A Major can be gained earlier on (turn 5 or 6), but usually the Energy is better
 
 Note that the Energy gains from [[Gift of abundance]] and the right Innate are _not_ taken into account.
 
-Turn | Growth | Owned cards | Cards in hand | CE (start) | Max Water | CE (after max [[Pour down]])
+Turn | Growth | Owned cards | Cards in hand | CE (start) | Ele+CP | CE (after max [[Pour down]])
 :--: | :--: | :--: | :--: | :--: | :--: | :--:
 1 | 3 |   5   |  5  |  2 |  1 |  2
-2 | 2 |   5   |  2  |  3 |  5 |  5
-3 | 1 |   6   |  6  |  6 |  3 |  7
-4 | 2 |   6   |  2  |  8 |  6 | 11
-5 | 1 |   7   |  7  | 12 |  4 | 14
-6 | 3 |   8   |  6  | 16 |  5 | 18
-7 | 2 |   8   |  2  | 20 |  8 | 24
-8 | 1 | **8** |  8  | 26 |  6 | 29
-9 | 2 |   8   |  4  | 31 | 10 | 36
-10| 1 | **8** |  8  | 38 |  8 | 42
+2 | 2 |   5   |  2  |  3 | {{w}}{{w}}{{w}}2 |  5
+3 | 1 |   6   |  6  |  6 | {{w}}2 |  7
+4 | 2 |   6   |  2  |  8 | {{p}}{{w}}{{w}}{{w}}}{{w}}}2 | 11
+5 | 1 |   7   |  7  | 12 | {{p}}{{w}}{{w}}2 | 14
+6 | 3 |   8   |  6  | 16 | {{p}}{{w}}{{w}}{{w}}2 | 18
+7 | 2 |   8   |  2  | 20 | {{a}}{{p}}6x{{w}}2 | 24
+8 | 1 | **8** |  8  | 26 | {{a}}{{p}}4x{{w}}2 | 29
+9 | 2 |   8   |  4  | 31 | {{a}}{{e}}{{p}}8x{{w}}2 | 36
+10| 1 | **8** |  8  | 38 | {{a}}{{e}}{{p}}6x{{w}}2 | 42
 
 
 
