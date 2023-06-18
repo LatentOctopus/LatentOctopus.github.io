@@ -76,7 +76,8 @@ layout: default
         <span class="post-meta">{{ post.date | date: date_format }}</span>
         <h3>
           <a class="post-link" href="{{ post.url | relative_url }}">
-            [{{ post.tags[0] }}] {{ post.title | escape }}
+            {% assign tag = post.tags[0] %}
+            [{{ site.data.abbreviations[tag] }}] {{ post.title | escape }}
           </a>
         </h3>
         {%- if site.show_excerpts -%}
