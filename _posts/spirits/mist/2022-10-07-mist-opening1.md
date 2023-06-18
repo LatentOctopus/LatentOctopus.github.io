@@ -1,6 +1,6 @@
 ---  
 layout: post  
-title: "Bottom track"  
+title: "Openings: bottom track"  
 category: guide  
 tags: Mist 
 ---
