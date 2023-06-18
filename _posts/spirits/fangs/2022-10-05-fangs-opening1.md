@@ -1,6 +1,6 @@
 ---  
 layout: post  
-title: "Top track hybrid"  
+title: "Openings: top track hybrid"  
 category: guide  
 tags: Fangs  
 ---
@@ -10,7 +10,7 @@ tags: Fangs
 <img src="/assets/images/Prey on the builders.jpg" width="200"/> <img src="/assets/images/Terrifying chase.jpg" width="200"/> <img src="/assets/images/Teeth gleam.jpg" width="200"/> <img src="/assets/images/Too near the jungle.jpg" width="200"/>
 
 
-## Opening: Top track hybrid (Mixed)
+## Top track hybrid (Mixed)
 
 ### Growth
 
