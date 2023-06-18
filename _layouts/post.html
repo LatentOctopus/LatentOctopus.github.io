@@ -9,7 +9,10 @@ layout: default
 {% assign spirit_tag = page.tags[0] %}
 {% assign spirit_name = site.data.abbreviations[spirit_tag].name %}
 {% assign spirit_effects = site.data.abbreviations[spirit_tag].effects %}
-{{site.static_files}}
+
+{% for file in site.static_files %}
+    {{file[0]}}
+{% endfor %}
 
 <!-- Replace [[...]] in content  -->
 {% assign contentarray = content | split:'[[' %}
