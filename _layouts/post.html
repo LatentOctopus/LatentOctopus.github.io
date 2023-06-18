@@ -31,7 +31,7 @@ layout: default
         {% endif %}
         {% assign url = spirit_effects[link] %}
         >{{url}}<
-        {% if url == blank %}
+        {% unless url %}
             {% for ext in ['.jpg', '.png'] %}
                 {% assign fn = link | append: ext %}
                 {% assign filepath = '/assets/images/' | append: fn %}
