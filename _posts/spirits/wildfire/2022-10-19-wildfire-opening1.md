@@ -1,6 +1,6 @@
 ---  
 layout: post  
-title: "Bottom track"  
+title: "Openings: full bottom track"  
 category: guide  
 tags: Wildfire
 ---
