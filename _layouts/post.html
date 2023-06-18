@@ -30,6 +30,7 @@ layout: default
             {% assign links = links | append: '|' | append: link %}
         {% endif %}
         {% assign url = spirit_effects[link] %}
+        >{{url}}<
         {% if url == blank %}
             {% for ext in ['.jpg', '.png'] %}
                 {% assign path = '/assets/images/' | append: link | append: ext %}
@@ -39,7 +40,6 @@ layout: default
                 {% endif %}
              {% endfor %}
         {% endif %}
-        {{path}}
         {% if forloop.index == 2 %}
             {% assign urls = url %}
         {% else %}
