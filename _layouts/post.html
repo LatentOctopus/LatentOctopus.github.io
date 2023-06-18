@@ -8,6 +8,8 @@ layout: default
 {% assign content = page.content %}
 {% assign spirit_tag = page.tags[0] %}
 {% assign spirit_name = site.data.abbreviations[spirit_tag].name %}
+{% assign spirit_effects = site.data.abbreviations[spirit_tag].effects %}
+{{spirit_effects}}
 
 <!-- Replace [[...]] in content  -->
 {% assign contentarray = content | split:'[[' %}
@@ -20,7 +22,10 @@ layout: default
         {% else %}
             {% assign links = links | append: '|' | append: link %}
         {% endif %}
-        {% assign url = site.data.abbreviations[spirit_tag].effects[link] %}
+
+        {{link}}
+        {% assign url = spirit_effects[link] %}
+        {{url}}
         {% if forloop.index == 2 %}
             {% assign urls = url %}
         {% else %}
