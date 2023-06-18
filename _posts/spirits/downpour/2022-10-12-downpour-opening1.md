@@ -111,7 +111,7 @@ Turn | Growth | Owned cards | Cards in hand | CE (start) | Ele+CP | CE (after ma
 1 | 3 |   5   |  5  |  2 |  1 |  2
 2 | 2 |   5   |  2  |  3 | {{w}}{{w}}{{w}}2 |  5
 3 | 1 |   6   |  6  |  6 | {{w}}2 |  7
-4 | 2 |   6   |  2  |  8 | {{p}}{{w}}{{w}}{{w}}}{{w}}}2 | 11
+4 | 2 |   6   |  2  |  8 | {{p}}{{w}}{{w}}{{w}}{{w}}2 | 11
 5 | 1 |   7   |  7  | 12 | {{p}}{{w}}{{w}}2 | 14
 6 | 3 |   8   |  6  | 16 | {{p}}{{w}}{{w}}{{w}}2 | 18
 7 | 2 |   8   |  2  | 20 | {{a}}{{p}}6x{{w}}2 | 24
@@ -158,8 +158,8 @@ The increased CP comes at the cost of lower Energy income, as well as delaying g
 
 Turn | Growth | Owned cards | Cards in hand | CE (start) | Ele+CP | CE (after max [[Pour down]])
 :--: | :--: | :--: | :--: | :--: | :--: | :--:
-6 | 2 |   7   |  3  | 15 | {{p}}4x{{w}}}3 | 18
+6 | 2 |   7   |  3  | 15 | {{p}}4x{{w}}3 | 18
 7 | 1 |   8   |  8  | 19 | {{p}}{{w}}{{w}}3 | 21
 8 | 2 |   8   |  3  | 23 | {{a}}{{p}}5x{{w}}3 | 27
-9 | 1 | **8** |  8  | 29 | {{a}}{{p}}{{w}}{{w}}}{{w}}}3 | 32
+9 | 1 | **8** |  8  | 29 | {{a}}{{p}}{{w}}{{w}}{{w}}3 | 32
 10| 2 |   8   |  3  | 34 | {{a}}{{e}}{{p}}6x{{w}}3 | 38
