@@ -77,7 +77,7 @@ layout: default
         <span class="post-meta">{{ post.date | date: date_format }}</span>
           <a class="post-link" href="{{ post.url | relative_url }}">
             {% assign tag = post.tags[0] %}
-            [{{site.data.icons.spirits[tag].small}} {{site.data.abbreviations.spirits[tag].name}}] {{ post.title | escape }}
+            [{{site.data.icons.spirits[tag].small}} {{site.data.abbreviations[tag].name}}] {{ post.title | escape }}
           </a>
         {%- if site.show_excerpts -%}
           {{ post.excerpt }}
