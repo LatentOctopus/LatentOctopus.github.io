@@ -9,6 +9,7 @@ layout: default
 {% assign spirit_tag = page.tags[0] %}
 {% assign spirit_name = site.data.abbreviations[spirit_tag].name %}
 {% assign spirit_effects = site.data.abbreviations[spirit_tag].effects %}
+{{site.static_files}}
 
 <!-- Replace [[...]] in content  -->
 {% assign contentarray = content | split:'[[' %}
@@ -22,6 +23,13 @@ layout: default
             {% assign links = links | append: '|' | append: link %}
         {% endif %}
         {% assign url = spirit_effects[link] %}
+        {% if url == blank %}
+            {% for ext in ['.jpg', '.png'] %}
+                {% assign path = link | append ext %}
+                {% if site.static_files contains path %}
+                    {% assign url = path %}
+                    {% break %}
+        {{path}}
         {% if forloop.index == 2 %}
             {% assign urls = url %}
         {% else %}
