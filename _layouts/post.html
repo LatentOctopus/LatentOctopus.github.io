@@ -6,6 +6,8 @@ layout: default
 {%- include init.html -%}
 
 {% assign content = page.content %}
+{% assign spirit_tag = page.tags[0] %}
+{% assign spirit_name = site.data.abbreviations[spirit_tag].name %}
 
 <!-- Replace [[...]] in content  -->
 {% assign contentarray = content | split:']]' %}
@@ -17,11 +19,11 @@ layout: default
         {% else %}
             {% assign links = links | append: '|' | append: itemparts[0] %}
         {% endif %}
-        {% assign result = site.pages | where: 'title',itemparts[0] %}
+        {% assign url = site.data.abbreviations[spirit_tag].effects[item] %}
         {% if forloop.index == 2 %}
-            {% assign urls = result[0].url %}
+            {% assign urls = url %}
         {% else %}
-            {% assign urls = urls | append: '|' | append: result[0].url %}
+            {% assign urls = urls | append: '|' | append: url %}
         {% endif %}
     {% endif %}
 {% endfor %}
@@ -38,8 +40,6 @@ layout: default
 <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
 
   <header class="post-header">
-    {% assign spirit_tag = page.tags[0] %}
-    {% assign spirit_name = site.data.abbreviations[spirit_tag].name %}
     <h1 class="post-title p-name" itemprop="name headline">[{{spirit_name}}] {{ page.title | escape }}</h1>
     <p class="post-meta">
       {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
