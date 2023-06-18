@@ -1,11 +1,11 @@
 ---  
 layout: post  
-title: "Full bottom track"  
+title: "Openings: full bottom track"  
 category: guide  
 tags: Fangs  
 ---
 
-## Opening: Full bottom track (Minors)
+## Full bottom track (Minors)
 
 ### Unique Powers reminder
 
