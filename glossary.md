@@ -49,7 +49,7 @@ The columns of these table are:
 * **Cards in hand**: the number cards available to play, _after_ gaining and reclaiming. Note that, unless otherwise specified in the opening, this assumes that all card plays are used on the previous turn.
 * **CE (Cumulative energy)**: the total amount of energy gained so far in the game _via growth_, i.e. escluding gains from other sources like Powers, unless otherwise specified.
     * _Why do you not report the energy available on that turn?_ Because that depends on gained cards cost and order of play, thus being too variable to reliably report.
-* **PE+CP (Permanent elements and Card Plays)**: the elements that are permanently unlocked (typically by uncovering them on Presence tracks), followed by the Card Plays available that turn. These two things combined give a rough idea of which Innate thresholds can be unlocked on a given turn.
+* **Ele+CP (Elements and Card Plays)**: the elements that are unlocked *during the Spirit phase* (e.g. on Presence tracks or via Growth, but not via played Powers), followed by the Card Plays available that turn. These two things combined give a rough idea of which Innate thresholds can be unlocked on a given turn.
 
 Other Spirit-specific columns may be added, but the above-mentioned ones will be present most of the time.
 
