@@ -10,15 +10,6 @@ layout: default
 {% assign spirit_name = site.data.abbreviations[spirit_tag].name %}
 {% assign spirit_effects = site.data.abbreviations[spirit_tag].effects %}
 
-{% capture raw_filepaths %}
-    {% for file in site.static_files %}
-        {% assign path = file.path %}
-        {{path}};
-    {% endfor %}
-{% endcapture %}
-{% assign filepaths = raw_filepaths | split:';' | sort %}
-{{filepaths}}
-
 <!-- Replace [[...]] in content  -->
 {% assign contentarray = content | split:'[[' %}
 {% for item in contentarray %}
@@ -37,8 +28,9 @@ layout: default
             {% for ext in exts %}
                 {% assign fn = link | append: ext %}
                 {% assign filepath = '/assets/images/' | append: fn %}
-                {{filepath}}
-                {% if filepaths contains filepath %}
+                {% assign file_exists = site.static_files | where: "path", filepath %}
+                ?{{file_exists}}
+                {% if file_exists %}
                     {% assign url = fn %}
                     {% break %}
                 {% endif %}
