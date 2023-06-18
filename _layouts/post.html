@@ -23,20 +23,19 @@ layout: default
         {% endif %}
         {% assign url = spirit_effects[link] %}
         {% unless url %}
-            unless
             {% assign exts = '.jpg .png' | split: ' ' %}
             {% for ext in exts %}
-                {% assign fn = link | append: ext %}
+                {% assign fn = link | strip | append: ext %}
                 {% assign filepath = '/assets/images/' | append: fn %}
                 {% assign file_exists = site.static_files | where: "path", filepath %}
-                ?{{file_exists}}
+                ?{{file_exists}}?
                 {% if file_exists %}
                     {% assign url = fn %}
                     {% break %}
                 {% endif %}
              {% endfor %}
         {% endunless %}
-        {{url}}
+        >{{url}}<
         {% if forloop.index == 2 %}
             {% assign urls = url %}
         {% else %}
