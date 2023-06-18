@@ -30,13 +30,10 @@ layout: default
             {% assign links = links | append: '|' | append: link %}
         {% endif %}
         {% assign url = spirit_effects[link] %}
-        >{{url}}<
         {% unless url %}
             unless
             {% assign exts = '.jpg .png' | split: ' ' %}
-            {{exts}}
             {% for ext in exts %}
-                {ext}}
                 {% assign fn = link | append: ext %}
                 {% assign filepath = '/assets/images/' | append: fn %}
                 {{filepath}}
@@ -46,6 +43,7 @@ layout: default
                 {% endif %}
              {% endfor %}
         {% endunless %}
+        {{url}}
         {% if forloop.index == 2 %}
             {% assign urls = url %}
         {% else %}
