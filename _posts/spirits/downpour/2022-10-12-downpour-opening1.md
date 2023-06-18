@@ -123,9 +123,42 @@ Turn | Growth | Owned cards | Cards in hand | CE (start) | Ele+CP | CE (after ma
 ### Pro and cons
 
 Pros:
- - High CP while still gaining a lot of Water and Energy.
+ - Early 2 CP unlock while still gaining a lot of {{w}} and Energy.
+ - Good Presence movement.
  - Strong at all points of the game.
 
 Cons:
-- Doesn't go through the top track as fast as other openings.
+- Doesn't go through the top track as fast as other openings (less {{w}} and Energy).
 - Cannot consistently repeat Majors until very late.
+
+
+## Variant: 3CP bottom track hybrid (Minors)
+
+This variant aims at unlocking 3CP before going deep in the top track. It follows the above until turn 5:
+
+1. (same as above) G3 bottom, gain Minor; play 1.
+2. (same as above) G2 bottom; play 2.
+3. (same as above) Reclaim, gain Minor; play 2.
+4. (same as above) G2 top; play 2.
+5. (same as above) Reclaim, gain Minor; play 2.
+6. G2 bottom to 3CP; play 3.
+7. Reclaim, gain Minor; play 3.
+8. G2 top to {{a}}; play 3.
+9. Reclaim, gain Major; play 3.
+10. G2 top; play 3.
+
+### Remarks
+
+The increased CP comes at the cost of lower Energy income, as well as delaying getting a Major to even later stages of the game. This tradeoff is generally not worth it, as mentioned above.
+
+3CP can be unlocked even as soon as turn 4 by emptying the bottom track before going top, but not unlocking the {{p}} on your top track will hurt Energy generation even more, unless one of the gained Minors can provide Energy.
+
+### Stats
+
+Turn | Growth | Owned cards | Cards in hand | CE (start) | Ele+CP | CE (after max [[Pour down]])
+:--: | :--: | :--: | :--: | :--: | :--: | :--:
+6 | 2 |   7   |  3  | 15 | {{p}}4x{{w}}}3 | 18
+7 | 1 |   8   |  8  | 19 | {{p}}{{w}}{{w}}3 | 21
+8 | 2 |   8   |  3  | 23 | {{a}}{{p}5x{{w}}3 | 27
+9 | 1 | **8** |  8  | 29 | {{a}}{{p}}{{w}}{{w}}}{{w}}}3 | 32
+10| 2 |   8   |  3  | 34 | {{a}}{{e}}{{p}}6x{{w}}3 | 38
