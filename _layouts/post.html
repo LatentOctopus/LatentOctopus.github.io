@@ -8,7 +8,10 @@ layout: default
 {% assign content = page.content %}
 {% assign spirit_tag = page.tags[0] %}
 {% assign spirit_name = site.data.abbreviations[spirit_tag].name %}
-{% assign spirit_effects = site.data.abbreviations[spirit_tag].effects %}
+{% assign spirit_uniques = site.data.abbreviations[spirit_tag].uniques %}
+{% assign spirit_other = site.data.abbreviations[spirit_tag].other %}
+{% assign spirit_effects = spirit_uniques.merge(spirit_other) %}
+{{spirit_effects}}
 
 <!-- Replace [[...]] in content  -->
 {% assign contentarray = content | split:'[[' %}
