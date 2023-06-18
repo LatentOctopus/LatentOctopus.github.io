@@ -33,7 +33,7 @@ layout: default
         >{{url}}<
         {% unless url %}
             unless
-            {% assign exts = ['.jpg', '.png'] %}
+            {% assign exts = '.jpg .png' | split: ' ' %}
             {{exts}}
             {% for ext in exts %}
                 {ext}}
