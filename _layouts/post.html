@@ -28,14 +28,12 @@ layout: default
                 {% assign fn = link | strip | append: ext %}
                 {% assign filepath = '/assets/images/' | append: fn %}
                 {% assign file_exists = site.static_files | where: "path", filepath %}
-                ?{{file_exists}}?
                 {% if file_exists.size > 0 %}
                     {% assign url = fn %}
                     {% break %}
                 {% endif %}
              {% endfor %}
         {% endunless %}
-        >{{url}}<
         {% if forloop.index == 2 %}
             {% assign urls = url %}
         {% else %}
