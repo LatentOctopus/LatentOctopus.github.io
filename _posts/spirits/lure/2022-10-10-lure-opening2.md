@@ -5,6 +5,7 @@ category: guide
 tags: Lure 
 confidence: low
 ---
+{% include init.html %}
 
 ## Top track hybrid (Majors)
 
@@ -12,7 +13,8 @@ General idea: gain an early Major and alternate playing it with playing [[Softly
 
 ### Unique Powers reminder
 
-<img src="/assets/images/Softly beckon ever inward.png" width="200"/> <img src="/assets/images/Perils of the deepest island.png" width="200"/> <img src="/assets/images/Gift of the untamed wild.png" width="200"/> <img src="/assets/images/Swallowed by the wilderness.png" width="200"/>
+{% assign spirit_tag = page.tags[0] %}
+{% include uniques.html spirit=spirit_tag %}
 
 ### Growth
 
