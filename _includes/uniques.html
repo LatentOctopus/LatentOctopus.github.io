@@ -16,5 +16,5 @@
 {% assign spirit_uniques = raw_spirit_uniques | split:'|' | sort %}
 
 {% for unique in spirit_uniques %}
-<img src="/assets/images/{{unique}}.{{ext}}" width="180"/> 
+<img src="/assets/images/{{unique | strip}}.{{ext}}" width="180"/> 
 {% endfor %}
