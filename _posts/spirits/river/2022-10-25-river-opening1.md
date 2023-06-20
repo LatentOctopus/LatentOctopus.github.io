@@ -5,10 +5,13 @@ category: guide
 tags: River
 confidence: high
 ---
+{% include init.html %}
 
 ## Unique Powers reminder
 
-<img src="/assets/images/River's bounty.jpg" width="200"/> <img src="/assets/images/Boon of vigor.jpg" width="200"/> <img src="/assets/images/Flash floods.jpg" width="200"/><img src="/assets/images/Wash away.jpg" width="200"/>
+{% assign spirit_tag = page.tags[0] %}
+{% include uniques.html spirit=spirit_tag %}
+
 
 ## Full bottom track (Minors | Base, Travel)
 
