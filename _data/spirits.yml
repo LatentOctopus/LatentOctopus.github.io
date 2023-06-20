@@ -12,6 +12,7 @@ Downpour:
         - Dark skies
         - Unbearable deluge
         - Gift of abundance
+    uniques_ext: png
 Earth:  
     uniques:
 Eyes:  
@@ -22,6 +23,7 @@ Fangs:
         - Too near the jungle
         - Prey on the builders
         - Terrifying chase
+    uniques_ext: jpg
 Finder:  
     uniques: 
 Fractured:  
@@ -42,6 +44,7 @@ Lure:
         - Perils
         - Swallowedby the wilderness
         - Gift of the untamed wilds
+    uniques_ext: png
 Memory:  
     uniques: 
 Mist:  
@@ -50,6 +53,7 @@ Mist:
         - The fog closes in
         - Forms dart by
         - Dissolving vapors
+    uniques_ext: png
 MM:  
     uniques:
         - Boon of bedevilment
@@ -57,6 +61,7 @@ MM:
         - Dreadful tide
         - Guide the way
         - Ever-multiplying swarm
+    uniques_ext: png
 Mud:  
     uniques: 
 Ocean:  
@@ -67,6 +72,7 @@ River:
         - Boon of vigor
         - Wash away
         - Flash floods
+    uniques_ext: jpg
 Roots:  
     uniques: 
 Serpent:  
@@ -86,13 +92,15 @@ Trickster:
         - Impersonate authority
         - Incite the mob
         - Overenthusiastic arson
-        - Unexpected tigers 
+        - Unexpected tigers
+    uniques_ext: png 
 TS:  
     uniques: 
         - Manifestation
         - Sudden ambush
         - Words of warning
         - Voice of thunder
+    uniques_ext: jpg
 Vengeance:  
     uniques: 
 Voice:  
@@ -108,4 +116,6 @@ Wildfire:
         - Flash-fires
         - Asphyxiating smoke
         - Flame's fury 
-        - Threatening flames 
+        - Threatening flames
+    uniques_ext: jpg
+
