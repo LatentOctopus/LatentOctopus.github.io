@@ -1,0 +1,20 @@
+{% assign spirit_tag = include.spirit %}
+
+{% assign spirit_name = site.data.abbreviations[spirit_tag].name %}
+{% assign spirit_uniques_abbrv = site.data.spirits[spirit_tag].uniques %}
+{% assign ext = site.data.spirits[spirit_tag].uniques_ext %}
+
+{% capture raw_spirit_uniques %}
+    {% for unique_abbrv in spirit_uniques_abbrv %}
+        {% assign unique = site.data.abbreviations[spirit_tag].effects[unique_abbrv] %}
+        {% unless unique %}
+            {% assign unique = unique_abbrv %}
+        {% endunless %}
+        {{unique}}|
+    {% endfor %}
+{% endcapture %}
+{% assign spirit_uniques = raw_spirit_uniques | split:'|' | sort %}
+
+{% for unique in spirit_uniques %}
+    <img src="/assets/images/{{unique}}.{{ext}}" width="180"/> 
+{% endfor %}
