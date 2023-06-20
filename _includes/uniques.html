@@ -3,7 +3,6 @@
 {% assign spirit_name = site.data.abbreviations[spirit_tag].name %}
 {% assign spirit_uniques_abbrv = site.data.spirits[spirit_tag].uniques %}
 {% assign ext = site.data.spirits[spirit_tag].uniques_ext %}
-;{{spirit_uniques_abbrv}};
 
 {%- capture raw_spirit_uniques -%}
     {%- for unique_abbrv in spirit_uniques_abbrv -%}
@@ -14,9 +13,7 @@
         {{- unique -}}|
     {%- endfor -%}
 {%- endcapture -%}
-;{{spirit_uniques_abbrv}};
 {% assign spirit_uniques = raw_spirit_uniques | split:'|' | sort %}
-;{{spirit_uniques}};
 
 {%- for unique in spirit_uniques -%}
     {%- if unique -%}
