@@ -123,7 +123,7 @@ Turn | Growth | Owned cards | Cards in hand | CE (start) | Ele+CP | CE (after ma
 
 
 
-### Pro and cons
+### Pros and cons
 
 Pros:
  - Early 2 CP unlock while still gaining a lot of {{w}} and Energy.
