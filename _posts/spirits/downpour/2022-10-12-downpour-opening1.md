@@ -3,6 +3,7 @@ layout: post
 title: "Openings: bottom track hybrid"  
 category: guide  
 tags: Downpour
+confidence: high
 ---
 {%- include init.html -%}
 

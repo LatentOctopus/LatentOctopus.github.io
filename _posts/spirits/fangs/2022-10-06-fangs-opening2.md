@@ -3,6 +3,7 @@ layout: post
 title: "Openings: full bottom track"  
 category: guide  
 tags: Fangs  
+confidence: high
 ---
 
 ## Full bottom track (Minors)

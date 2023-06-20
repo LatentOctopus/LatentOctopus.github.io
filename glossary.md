@@ -57,9 +57,9 @@ Other Spirit-specific columns may be added, but the above-mentioned ones will be
 
 Not all the guides I'll write have been equally tested. I will use the following legend to indicate how confident in the guide:
 
-- {{confidence.low}} The guide is very tentative. I have used the strategy only a few times at best, or it's pure theorycrafting at worst! It will likely see some changes in the future, as I test more.
+- {{confidence.low}} The guide is very tentative. I have used the strategy only a few times at most -- it might even be pure theorycrafting! It will likely see some changes in the future, as I test more.
 - {{confidence.medium}} I am somewhat confident in the guide. I have played it a few times, and have had success with it, but I need to improve it in some aspects and/or gather more data.
-- {{confidence.high}} I have tested the guide multiple times, and I think it's in a good spot. This doesn't mean that it's the best strategy in existence, but it achieves what it aims for.
+- {{confidence.high}} I have tested the guide multiple times, and I think it's in a good spot. This doesn't mean that it's the best strategy in existence nor that it will not change in the future, but it achieves what it aims for.
 
 ### Credits
 

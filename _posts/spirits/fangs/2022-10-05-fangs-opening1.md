@@ -3,6 +3,7 @@ layout: post
 title: "Openings: top track hybrid"  
 category: guide  
 tags: Fangs  
+confidence: high
 ---
 
 ## Unique Powers reminder

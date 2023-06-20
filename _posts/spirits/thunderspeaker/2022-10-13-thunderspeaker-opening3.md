@@ -3,6 +3,7 @@ layout: post
 title: "Openings: slow start"  
 category: guide  
 tags: TS
+confidence: medium
 ---
 
 These openings trade early game power for better scaling. This is typically useful against slower Adversaries, most notably England.

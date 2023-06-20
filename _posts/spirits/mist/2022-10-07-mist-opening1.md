@@ -3,6 +3,7 @@ layout: post
 title: "Openings: bottom track"  
 category: guide  
 tags: Mist 
+confidence: medium
 ---
 
 ## Unique Powers reminder

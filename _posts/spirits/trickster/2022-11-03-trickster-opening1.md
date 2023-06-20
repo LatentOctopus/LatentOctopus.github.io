@@ -3,6 +3,7 @@ layout: post
 title: "Openings: hybrid"  
 category: guide  
 tags: Trickster 
+confidence: low
 ---
 
 {%- include init.html -%}

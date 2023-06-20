@@ -3,6 +3,7 @@ layout: post
 title: "Openings: full bottom track"  
 category: guide  
 tags: Lure 
+confidence: medium
 ---
 
 ## Full bottom track (Minors)

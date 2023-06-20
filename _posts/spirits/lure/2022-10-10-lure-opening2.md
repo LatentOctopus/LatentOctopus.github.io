@@ -3,6 +3,7 @@ layout: post
 title: "Openings: top track"  
 category: guide  
 tags: Lure 
+confidence: low
 ---
 
 ## Top track hybrid (Majors)
