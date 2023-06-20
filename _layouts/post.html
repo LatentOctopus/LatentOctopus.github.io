@@ -25,7 +25,7 @@ layout: default
         {% unless url %}
             {% assign exts = '.jpg .png' | split: ' ' %}
             {% for ext in exts %}
-                {% assign fn = link | strip | append: ext %}
+                {% assign fn = link | strip | replac: "’", "'" | append: ext %}
                 {% assign filepath = '/assets/images/' | append: fn %}
                 {% assign file_exists = site.static_files | where: "path", filepath %}
                 {% if file_exists.size > 0 %}
