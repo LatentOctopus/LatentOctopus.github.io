@@ -8,13 +8,15 @@
     {% for unique_abbrv in spirit_uniques_abbrv %}
         {% assign unique = site.data.abbreviations[spirit_tag].effects[unique_abbrv] %}
         {% unless unique %}
-            {% assign unique = unique_abbrv %}
+            {% assign unique = unique_abbrv | append: '.' | append: ext %}
         {% endunless %}
         {{unique}}|
     {% endfor %}
 {% endcapture %}
 {% assign spirit_uniques = raw_spirit_uniques | split:'|' | sort %}
 
-{% for unique in spirit_uniques %}
-<img src="/assets/images/{{unique | strip}}.{{ext}}" width="180"/> 
+{%- for unique in spirit_uniques -%}
+    {%- if unique -%}
+        <img src="/assets/images/{{- unique | strip -}}" width="180"/>
+    {%- endif -%}
 {% endfor %}
