@@ -7,14 +7,14 @@ confidence: medium
 ---
 {% include init.html %}
 
-## Full bottom track (Minors)
-
-General idea: use G3 for Elements and Energy, while placing presence from bottom track to gain CP. 
-
-### Unique Powers reminder
+## Unique Powers reminder
 
 {% assign spirit_tag = page.tags[0] %}
 {% include uniques.html spirit=spirit_tag %}
+
+## Full bottom track (Minors)
+
+General idea: use G3 for Elements and Energy, while placing presence from bottom track to gain CP. 
 
 ### Growth
 
