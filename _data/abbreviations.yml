@@ -37,7 +37,7 @@ Lightning:
 Lure:  
     name: Lure of the Deep Wilderness
     effects:
-        Softly beckon: Softly beckon ever inwards.png
+        Softly beckon: Softly beckon ever inward.png
         Perils: Perils of the deepest island.png
         Forsake society: Forsake society to chase after dreams.png
 Memory:  
