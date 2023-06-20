@@ -44,6 +44,7 @@ Memory:
     name: Shifting Memory of Ages
 Mist:  
     name: Shroud of Silent Mist
+    effects:
 MM:  
     name: Many Minds Move as One
 Mud:  
@@ -70,6 +71,8 @@ Trickster:
     name: Grinning Trickster Stirs Up Trouble
 TS:  
     name: Thunderspeaker
+    effects:
+        Manifestation: Manifestation of power and glory.jpg
 Vengeance:  
     name: Vengeance as a Burning Plague
 Voice:  
