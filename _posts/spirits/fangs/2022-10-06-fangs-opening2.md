@@ -5,6 +5,7 @@ category: guide
 tags: Fangs  
 confidence: high
 ---
+{% include init.html %}
 
 ## Full bottom track (Minors)
 
