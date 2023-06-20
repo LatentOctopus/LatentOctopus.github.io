@@ -5,12 +5,12 @@ category: guide
 tags: Mist 
 confidence: medium
 ---
+{% include init.html %}
 
 ## Unique Powers reminder
 
-<img src="/assets/images/Forms_dart_by.png" width="200"/> <img src="/assets/images/Unnerving_pall.png" width="200"/> <img src="/assets/images/Fog_closes_in.png" width="200"/> <img src="/assets/images/Dissolving_vapors.png" width="200"/>
-
-
+{% assign spirit_tag = page.tags[0] %}
+{% include uniques.html spirit=spirit_tag %}
 
 ## Opening: Early-reclaim bottom track (Minors)
 
