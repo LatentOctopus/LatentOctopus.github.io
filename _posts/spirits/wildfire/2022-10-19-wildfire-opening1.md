@@ -5,7 +5,7 @@ category: guide
 tags: Wildfire
 confidence: high
 ---
-
+{% include init.html %}
 
 ## Notes
 
@@ -14,7 +14,8 @@ As I mentioned in {% post_url 2022-10-14-wildfire-concepts %}, Wildfire's openin
 
 ## Unique Powers reminder
 
-<img src="/assets/images/Flame's fury.jpg" width="200"/> <img src="/assets/images/Threatening flames.jpg" width="200"/> <img src="/assets/images/Asphyxiating smoke.jpg" width="200"/> <img src="/assets/images/Flash fires.jpg" width="200"/>
+{% assign spirit_tag = page.tags[0] %}
+{% include uniques.html spirit=spirit_tag %}
 
 
 ## Full bottom track (Minors/Mixed)
