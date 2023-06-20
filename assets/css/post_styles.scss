@@ -14,12 +14,13 @@
   visibility: hidden;
    
   background-color: black;
-  padding: 5px;
-  border-radius: 6px;
+  padding: 3px;
+  border-radius: 4px;
 
   position: absolute;
   z-index: 99;
-  width: 160px;
+  max-width: 160px;
+  width: auto;
   bottom: 100%;
   left: 50%;
   margin-left: -80px; /* Use half of the width to center the tooltip */
@@ -41,8 +42,3 @@
   border-style: solid;
   border-color: black transparent transparent transparent;
 }
-
-/*
-.spirit_effect_image { display: none; }
-.spirit_effect_text:hover .spirit_effect_image { display: block; position: absolute; z-index:99; }
-*/
