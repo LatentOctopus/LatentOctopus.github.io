@@ -8,7 +8,7 @@ confidence: high
 
 ## Unique Powers reminder
 
-<img src="/assets/images/Prey on the builders.jpg" width="200"/> <img src="/assets/images/Terrifying chase.jpg" width="200"/> <img src="/assets/images/Teeth gleam.jpg" width="200"/> <img src="/assets/images/Too near the jungle.jpg" width="200"/>
+<img src="/assets/images/Prey on the builders.jpg" width="200"/> <img src="/assets/images/Terrifying chase.jpg" width="200"/> <img src="/assets/images/Teeth gleam from darkness.jpg" width="200"/> <img src="/assets/images/Too near the jungle.jpg" width="200"/>
 
 
 ## Top track hybrid (Mixed)
