@@ -9,14 +9,14 @@ confidence: high
 
 Note: the openings described below will cover more turns than usual, going as far as turn 10. While this would in general be overkill because games often end before that, Downpour's extraordinary stalling causes games to be longer, and reaching turn 10 is not unusual against Adversaries that keep the pressure up throughout mid and late game.
 
-## Bottom track hybrid (Minors)
-
-The idea is to unlock 2 CP as soon as possible and then going top track while taking frequent G2s to have as much Energy and {{w}} as possible to repeat your Powers.
-
-### Unique Powers reminder
+## Unique Powers reminder
 
 {% assign spirit_tag = page.tags[0] %}
 {% include uniques.html spirit=spirit_tag %}
+
+## Bottom track hybrid (Minors)
+
+The idea is to unlock 2 CP as soon as possible and then going top track while taking frequent G2s to have as much Energy and {{w}} as possible to repeat your Powers.
 
 ### Growth
 
