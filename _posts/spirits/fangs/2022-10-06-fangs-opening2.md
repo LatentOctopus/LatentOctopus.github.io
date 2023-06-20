@@ -7,12 +7,12 @@ confidence: high
 ---
 {% include init.html %}
 
-## Full bottom track (Minors)
-
-### Unique Powers reminder
+## Unique Powers reminder
 
 {% assign spirit_tag = page.tags[0] %}
 {% include uniques.html spirit=spirit_tag %}
+
+## Full bottom track (Minors)
 
 ### Growth
 
