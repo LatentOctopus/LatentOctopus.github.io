@@ -7,14 +7,14 @@ confidence: low
 ---
 {% include init.html %}
 
-## Top track hybrid (Majors)
-
-General idea: gain an early Major and alternate playing it with playing [[Softly beckon ever inward]] every reclaim cycle.
-
-### Unique Powers reminder
+## Unique Powers reminder
 
 {% assign spirit_tag = page.tags[0] %}
 {% include uniques.html spirit=spirit_tag %}
+
+## Top track hybrid (Majors)
+
+General idea: gain an early Major and alternate playing it with playing [[Softly beckon ever inward]] every reclaim cycle.
 
 ### Growth
 
