@@ -9,7 +9,7 @@ DUE:
 Downpour:  
     uniques:
         - Foundations sink
-        - Dark skies loose a stinging rain
+        - Dark skies
         - Unbearable deluge
         - Gift of abundance
 Earth:  
@@ -20,6 +20,8 @@ Fangs:
     uniques: 
         - Teeth gleam
         - Too near the jungle
+        - Prey on the builders
+        - Terrifying chase
 Finder:  
     uniques: 
 Fractured:  
@@ -103,7 +105,7 @@ Whirlwind:
     uniques: 
 Wildfire:  
     uniques: 
-        - Flash fires
+        - Flash-fires
         - Asphyxiating smoke
         - Flame's fury 
         - Threatening flames 
