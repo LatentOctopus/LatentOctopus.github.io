@@ -105,7 +105,7 @@ to contain its heavy building.
 6. Reclaim, gain Minor; G4.
 
 From turn 6 onwards, the standard growth is G1+G4. 
-If there is no need to reclaim use G3, 
+If there is no need to reclaim, then G1 can be replaced with G3, 
 or G2 (generally from bottom) 
 if there is need to place presence.
 
