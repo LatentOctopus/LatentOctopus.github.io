@@ -53,6 +53,13 @@ The columns of these table are:
 
 Other Spirit-specific columns may be added, but the above-mentioned ones will be present most of the time.
 
+### Confidence
+
+Not all the guides I'll write have been equally tested. I will use the following legend to indicate how confident in the guide:
+
+- confidence.red The guide is very tentative. I have used the strategy only a few times at best, or it's pure theorycrafting at worst! It will likely see some changes in the future, as I test more.
+- confidence.yellow I am somewhat confident in the guide. I have played it a few times, and have had success with it, but I either need to improve it in some aspects or I need to gather more data.
+- confidence.green I have tested the guide multiple times, and I think it's in a good spot. This doesn't mean that it's the best strategy in existence, but it achieves what it aims for.
 
 ### Credits
 
