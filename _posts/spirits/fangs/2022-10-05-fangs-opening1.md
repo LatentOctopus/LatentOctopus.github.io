@@ -13,7 +13,7 @@ confidence: high
 {% include uniques.html spirit=spirit_tag %}
 
 
-## Top track hybrid (Mixed)
+## Top track hybrid (Majors)
 
 ### Growth
 
@@ -59,6 +59,8 @@ From turn 5 on, growth is G2 bottom (unlocking 3 CP on turn 5) + any other, acco
 
 #### Remarks
 
+A Major can be gained on turn 2, if you don't mind Forgetting the Minor gained on turn 1 or one of your Uniques ([[Terrifying chase]] is usually the best option).
+
 Optionally, presence can be taken from the top track until turn 5 to unlock 3 Energy (**"Full" top track**). This is generally not recommended, as it delays 3 CP until very late and the second Animal is not too useful; extra Energy can be gained using G4, if needed.
 
 ### Stats
@@ -71,13 +73,14 @@ Turn | Growths | Owned cards | Cards in hand | CE
 4 | 1, 2 |   7   | 7 | 8
 5 | 2, 4 |   7   | 4 | 13
 
-### Pro and cons
+### Pros and cons
 
 Pros: 
 
 - Less variance in unlocking [[Ranging Hunt]]: from turn 2 onwards, only 1 Plant+Animal and 1 Animal is needed. This means that your starting hand alone is enough to activate your Innate for 2 turns without any reclaim.  
 - Good energy income and low growth restrictions that allow for more flexibility.  
-- Majors give Fangs a way to deal with blighted lands, which are otherwise not very accessible. Without Majors, Fangs can only deal with blighted lands via good Minor RNG (e.g. Dahan movement + Defend, or blight movement/removal), or with [[Terrifying chase]] if they don't have any City.
+- Majors give Fangs a way to deal with blighted lands, which are otherwise less accessible. 
+    - Without Majors, Fangs can only deal with blighted lands via [[Terrifying chase]] if they don't have any City, or with some Minors (e.g. Dahan movement + Defend, or blight movement/removal). Fangs can get many Minors, which reduces RNG variance, but bad luck might still make it hard to deal with blighted lands.
 
 Cons:
 
