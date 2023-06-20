@@ -15,7 +15,8 @@ That been said, Trickster is a... tricky Spirit to write an opening for, because
 
 ## Unique Powers reminder
 
-<img src="/assets/images/Incite the mob.png" width="200"/> <img src="/assets/images/Overenthusiastic arson.png" width="200"/> <img src="/assets/images/Impersonate authority.png" width="200"/> <img src="/assets/images/Unexpected tigers.png" width="200"/>
+{% assign spirit_tag = page.tags[0] %}
+{% include uniques.html spirit=spirit_tag %}
 
 ## Hybrid #1
 
