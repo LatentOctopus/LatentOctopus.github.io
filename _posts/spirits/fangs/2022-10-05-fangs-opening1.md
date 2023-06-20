@@ -93,7 +93,7 @@ This is an example of application of the
 [(G3>G3) -› (G4>G1) growth swap]({% post_url 2022-10-05-fangs-concepts %}) 
 to reclaim [[Prey on the builders]] often, 
 which can be useful against England
-To contain its heavy building.
+to contain its heavy building.
 
 ### Growth 
 
