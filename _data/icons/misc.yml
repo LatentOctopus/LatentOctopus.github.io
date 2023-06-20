@@ -1,0 +1,4 @@
+conf:
+  - low: "<img src='/assets/images/meter-red.png' width=20/>"
+  - medium: "<img src='/assets/images/meter-yellow.png' width=20/>"
+  - high: "<img src='/assets/images/meter-green.png' width=20/>"
