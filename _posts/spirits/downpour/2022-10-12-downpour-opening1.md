@@ -15,9 +15,6 @@ The idea is to unlock 2 CP as soon as possible and then going top track while ta
 
 ### Unique Powers reminder
 
-<!--
-<img src="/assets/images/Unbearable deluge.png" width="200"/> <img src="/assets/images/Dark skies loose a stinging rain.png" width="200"/> <img src="/assets/images/Gift of abundance.png" width="200"/> <img src="/assets/images/Foundations sink into mud.png" width="200"/>
--->
 {% assign spirit_tag = page.tags[0] %}
 {% include uniques.html spirit=spirit_tag %}
 
