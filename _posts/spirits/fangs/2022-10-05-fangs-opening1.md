@@ -7,7 +7,7 @@ confidence: medium
 ---
 {% include init.html %}
 
-The idea of top track openings is to have less variance in unlocking [[Ranging Hunt]]: from turn 2 onwards, only 1 {{n}} and 1 {{n}} is needed. This means that your starting hand alone is enough to activate the Innate for 2 turns without any reclaim.
+The idea of top track openings is to have less variance in unlocking [[Ranging hunt]]: from turn 2 onwards, only 1 {{n}} and 1 {{n}} is needed. This means that your starting hand alone is enough to activate the Innate for 2 turns without any reclaim.
 
 Another advantage is that the higher Energy gain granted by unlocking 2 Energy/turn allows to play low- and mid-cost Majors. Majors give Fangs a way to deal with blighted lands, which are otherwise less accessible. Without Majors, Fangs can only deal with blighted lands via [[Terrifying chase]] if they don't have any City, or with some Minors (e.g. Dahan movement + Defend, or blight movement/removal). Although Fangs can get many Minors, which reduces RNG variance, bad luck might still make it hard to deal with blighted lands.
 
