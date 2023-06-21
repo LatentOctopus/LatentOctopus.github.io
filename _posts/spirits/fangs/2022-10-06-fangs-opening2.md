@@ -3,7 +3,7 @@ layout: post
 title: "Openings: full bottom track"  
 category: guide  
 tags: Fangs  
-confidence: high
+confidence: medium
 ---
 {% include init.html %}
 
@@ -22,7 +22,7 @@ confidence: high
 
 G2 bottom; G3 Minor. 
 
-Play 2, keeping 2 {{p}}{{n}} and 1 {{n}} in hand. [[Ranging hunt]] movement only.
+Play 2, keeping 2 {{p}}{{n}} and 1 {{n}} in hand. Might activate [[Ranging hunt]] (movement only).
 
 
 #### Turn 2
@@ -101,6 +101,23 @@ Pros:
 Cons:
 
 - Can be tight in Energy if costly Minors have been gained.
-- [[Ranging hunt]] cannot reliably be activated on both turn 3 and 4 unless a {{p}} and an {{n}} Minors have been found (or a single {{p}}{{n}}).
+- [[Ranging hunt]] cannot reliably be activated on both turn 3 and 4 unless a {{p}} and a {{n}} Minors have been found (or a single {{p}}{{n}}).
 - Although Reclaim 1 is unlocked early, you often need to reclaim [[Too near the jungle]] to unlock [[Ranging hunt]], as other Powers 
-are too expensive and/or don't have good enough elements, leaving little to no room for flexibility in the reclaim choice. 
+are too expensive and/or don't have good enough elements, leaving little to no room for flexibility in the reclaim choice.
+
+
+## Variant: reclaim-heavy full bottom track (Minors)
+
+### Growth
+
+### Stats
+
+Turn | Growths | Owned cards | Cards in hand | CE
+:--: | :--: | :--: | :--: | :--: 
+1 | 2, 4 |   4   | 4 | 4
+2 | 1, 2 |   5   | 5 | 4
+3 | 1, 2 |   6   | 6 | 4
+4 | 2, 4 |   6   | 4 | 8
+5 | 1, 2 |   7   | 7 | 8
+6 | 2, 4 |   7   | 5 | 12
+7 | 1, 4 |   8   | 8 | 15
