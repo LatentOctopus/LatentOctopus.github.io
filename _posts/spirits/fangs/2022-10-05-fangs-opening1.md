@@ -64,7 +64,7 @@ From turn 6 on, select growth according to needs. Keep playing 1 {{p}}{{n}} and 
 
 #### Remarks
 
-If the Major is bad, it might be worth playing 1 {{p}}{{n}} and 1 {{n}} for [[Ranging hunt]] damage on turn 4, and Reclaim on turn 5 to replace it.
+If the Major is bad, it might be worth playing 1 {{p}}{{n}} and 1 {{n}} for [[Ranging hunt]] damage on turn 4, and Reclaim on turn 5 to replace it (it could be replaced with G3, but this would leave no options on what to play on turn 5).
 
 It's a good idea to unlock the Reclaim 1 on your bottom track on turn 6 or 7, but outside of that you won't normally need the rest of your tracks -- 4 CP will likely cost too much to be sustained when paired with a Major, and the rest of your top track is not too useful. Therefore, G3 or G4 will generally be better options than G2. It may be worth to take multiple G1+G4 to keep playing the Major, especially if you can threshold it.
 
@@ -83,6 +83,7 @@ Turn | Growths | Owned cards | Cards in hand | CE
 Pros: 
 
 - [[Ranging Hunt]] is used (with damage) every turn from turn 2 onwards, outside perhaps one turn when playing the Major on 2 CP.
+  - It is even possible to use it on turn 1, if a {{p}}{{n}} is found.
 - Gaining 2 Minors in the first 2 turns improves the chances to find good ones early on (e.g blight control or good elements).
 
 Cons:
@@ -131,7 +132,7 @@ Cons:
 
 ### Growth
 
-1. (same as above) G2 top; G3 Minor. Play the Minor/[[Terrifying chase]] and 1 more.
+1. G2 top; G3 Minor. Play the Minor/[[Terrifying chase]] and 1 more.
 2. G2 top; G3 Major (cost 2-5). Play 1 {{p}}{{n}} and 1 {{n}}.
 3. G2 top to to 2E; G4. Play the Major and 1 more.
    - If the Major is not good, G3 with Minor could be selected instead, although this will make Energy tight on following turns.   
