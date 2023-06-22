@@ -62,7 +62,7 @@ Play 3.
 
 From turn 6 on, select growth according to needs. Keep playing 1 {{p}}{{n}} and 1 {{n}} every turn to activate [[Ranging hunt]], except Major turns if the Major is off-element.
 
-#### Remarks
+### Remarks
 
 If the Major is bad, it might be worth playing 1 {{p}}{{n}} and 1 {{n}} for [[Ranging hunt]] damage on turn 4, and Reclaim on turn 5 to replace it (it could be replaced with G3, but this would leave no options on what to play on turn 5).
 
@@ -106,7 +106,7 @@ Cons:
 From turn 6 onwards, select growth as needed.
 
 
-## Stats
+### Stats
 
 Turn | Growths | Owned cards | Cards in hand | CE
 :--: | :--: | :--: | :--: | :--: 
@@ -147,7 +147,7 @@ When you gain the Major on turn 2, Forget from discard. The best options are usu
 
 Optionally, presence can be taken from the top track until turn 5 to unlock 3 Energy (**"Full" top track**). This is generally not recommended, as it delays 3 CP until very late and the second {{n}} is not too useful; extra Energy can be gained using G4, if needed.
 
-## Stats
+### Stats
 
 Turn | Growths | Owned cards | Cards in hand | CE
 :--: | :--: | :--: | :--: | :--: 
@@ -166,46 +166,3 @@ Pros:
 Cons:
 
 - Less reliable at activating [[Ranging hunt]].
-
-
-
-<!--
-## Variant: Reclaim-heavy top track hybrid 
-
-This is an example of application of the 
-[(G3>G3) -› (G4>G1) growth swap]({% post_url 2022-10-05-fangs-concepts %}) 
-to reclaim [[Prey on the builders]] often, 
-which can be useful against England
-to contain its heavy building.
-
-### Growth 
-
-1. G2 top; G4.  
-2. Reclaim, gain Minor; G2 top.  
-3. G2 top to unlock E2; G4.  
-4. Reclaim, gain Major; G2 bottom.  
-5. G2 bottom to unlock 3CP; G4.  
-6. Reclaim, gain Minor; G4.
-
-From turn 6 onwards, the standard growth is G1+G4. 
-If there is no need to reclaim, then G1 can be replaced with G3, 
-or G2 (generally from bottom) 
-if there is need to place presence.
-
-Note that [[Prey on the builders]] can be 
-played either in turn 2 or in 3, not both. 
-If there is need to, G1+G4 can be selected 
-on turn 3, delaying placing presence one turn.
-
-### Stats
-
-Turn | Growths | Owned cards | Cards in hand | CE
-:--: | :--: | :--: | :--: | :--: 
-1 | 2, 4 |   4   | 4 | 4
-2 | 1, 2 |   5   | 5 | 4
-3 | 2, 4 |   5   | 3 | 9
-4 | 1, 2 | **5** | 5 | 10
-5 | 2, 4 |   5   | 3 | 15
-6 | 1, 4 |   6   | 6 | 19
-7 | 1, 4 |   7   | 7 | 23
--->
