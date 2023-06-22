@@ -20,7 +20,7 @@ confidence: medium
 
 ![](/assets/images/Fangs%200-1.png)
 
-G2 bottom; G3 Minor. 
+G2 bottom; G3 Minor, prioritise {{p}} over {{n}}.
 
 Play 2, keeping 2 {{p}}{{n}} and 1 {{n}} in hand. Might activate [[Ranging hunt]] (movement only).
 
@@ -38,7 +38,7 @@ Play 3. [[Ranging hunt]] damage.
 
 ![](/assets/images/Fangs%200-3.png)
 
-Reclaim, gain Minor; G2 bottom, unlocking Reclaim 1.
+Reclaim, gain Minor, prioritising {{p}} if not found previously; G2 bottom, unlocking Reclaim 1.
 
 Play 3.
 
@@ -73,9 +73,11 @@ From turn 7 on, growth is G4 + any other, according to needs (G2 should only be 
 
 #### Remarks
 
-Optionally, on turn 4-6 G2 can be taken from top until 2 Energy to unlock extra elements and more Energy/turn (**Bottom track hybrid**), but this is generally not recommended because extra elements can be gained with more card plays by playing 0-cost Powers, and extra Energy can be gained by selecting G4 (and possibly G3 on top of that). 
+If a {{p}} but no {{n}} have been found, presence should be taken from the top track on turn 4 in order to unlock [[Ranging hunt]]. This delays 4 and 5 CP by one turn (the growth on turn 6 becomes G2+G4).
 
-If you have found costly Minors, you might need to delay the presence placement (and thus 5 CP) on turn 5, instead
+Optionally, on turn 4-6 presence can be taken from top until 2 Energy to unlock extra elements and more Energy/turn (**Bottom track hybrid**), to prepare for a late Major. However, this shouldn't be needed in most cases.
+
+If you haven't found any 0-cost Minors by turn 5, you need to delay the presence placement (and thus 5 CP), instead
 taking G1+G4. In that case, turn 6 will be G2+G3 or G2+G4.
 
 ### Stats
@@ -101,14 +103,24 @@ Pros:
 Cons:
 
 - Can be tight in Energy if costly Minors have been gained.
-- [[Ranging hunt]] cannot reliably be activated on both turn 3 and 4 unless a {{p}} and a {{n}} Minors have been found (or a single {{p}}{{n}}).
+- [[Ranging hunt]] cannot reliably be activated on both turn 3 and 4 unless a {{p}} and a {{n}} Minors have been found (or a single {{p}}{{n}}), or at least a {{p}} if delaying 4 CP by one turn by taking one presence from the top track.
 - Although Reclaim 1 is unlocked early, you often need to reclaim [[Too near the jungle]] to unlock [[Ranging hunt]], as other Powers 
 are too expensive and/or don't have good enough elements, leaving little to no room for flexibility in the reclaim choice.
 
 
 ## Variant: reclaim-heavy full bottom track (Minors)
 
+The idea is to reclaim your Uniques early to unlock [[Ranging hunt]] every single turn (except maybe turn 4 in case of exceptionally bad luck, i.e. no {{p}} found in 2 draws).
+
 ### Growth
+
+1. G2 top; G4. Play [[Too near the jungle]] and [[Teeth gleam]].
+2. Reclaim, gain Minor, prioritise {{p}}; G2 bottom. Play [[Too near the jungle]] and either [[Teeth gleam]] or the Minor if it has {{p}}{{n}}.
+3. Reclaim, gain Minor, prioritise {{p}} if not found; G2 bottom. Play [[Too near the jungle]] and {{p}}+{{n}}.
+4. G2 bottom; G4. Reclaim and play Play [[Too near the jungle]] and and {{p}}+{{n}}.
+5. Reclaim, gain Minor; G2 bottom. Play 4.
+6. G2 bottom to 5 CP; G4. Play 5.
+7. Reclaim, gain Minor; G4. Play 5.
 
 ### Stats
 
@@ -121,3 +133,9 @@ Turn | Growths | Owned cards | Cards in hand | CE
 5 | 1, 2 |   7   | 7 | 8
 6 | 2, 4 |   7   | 5 | 12
 7 | 1, 4 |   8   | 8 | 15
+
+### Pros and cons
+
+Pros:
+
+Cons:
