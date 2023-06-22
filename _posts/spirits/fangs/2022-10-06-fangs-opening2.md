@@ -138,4 +138,12 @@ Turn | Growths | Owned cards | Cards in hand | CE
 
 Pros:
 
+- Strong turn 1.
+- Playing [[Teeth gleam]] in all the first 2-3 turns allows to scale better into the mid game, thanks to the higher number of Beasts on the island.
+
 Cons:
+
+- Even more energy-starved than the standard bottom track.
+  - On turn 5+ it is impossible to play to max CP if no 0-cost Minors have been found.
+  - More susceptible to Events.
+- No flexibility in turn 1 card plays, and little to none in turn 2.
