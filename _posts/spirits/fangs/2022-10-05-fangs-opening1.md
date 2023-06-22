@@ -22,7 +22,7 @@ Another advantage is that the higher Energy gain granted by unlocking 2 Energy/t
 
 #### Turn 1
 
-![](/assets/images/Fangs%201-0.png)
+(((1-0)))
 
 G2 top; G3 Minor.
 
@@ -30,7 +30,7 @@ Play 2.
 
 #### Turn 2
 
-![](/assets/images/Fangs%202-0.png)
+(((2-0)))
 
 G2 top; G3 Minor. 
 
@@ -38,7 +38,7 @@ Play 1 {{p}}{{n}} and 1 {{n}}. [[Ranging hunt]] damage.
 
 #### Turn 3
 
-![](/assets/images/Fangs%203-0.png)
+(((3-0)))
 
 Reclaim, gain Major (cost 2-5); G2 top. 
 
@@ -46,7 +46,7 @@ Play 1 {{p}}{{n}} and 1 {{n}}. [[Ranging hunt]] damage.
 
 #### Turn 4
 
-![](/assets/images/Fangs%203-1.png)
+(((3-1)))
 
 G2 bottom; G4.
 
@@ -54,7 +54,7 @@ Play the Major and another card.
 
 #### Turn 5 onwards
 
-![](/assets/images/Fangs%203-2.png)
+(((3-2)))
 
 G2 bottom to 3CP; G3 Minor.
 
