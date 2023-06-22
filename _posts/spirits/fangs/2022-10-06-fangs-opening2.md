@@ -18,7 +18,7 @@ confidence: medium
 
 #### Turn 1
 
-![](/assets/images/Fangs%200-1.png)
+(((0-1)))
 
 G2 bottom; G3 Minor, prioritise {{p}} over {{n}}.
 
@@ -36,7 +36,7 @@ Play 3. [[Ranging hunt]] damage.
 
 #### Turn 3
 
-![](/assets/images/Fangs%200-3.png)
+(((0-3)))
 
 Reclaim, gain Minor, prioritising {{p}} if not found previously; G2 bottom, unlocking Reclaim 1.
 
@@ -45,7 +45,7 @@ Play 3.
 
 #### Turn 4
 
-![](/assets/images/Fangs%200-4.png)
+(((0-4)))
 
 G2 bottom; G4. Reclaim [[Too near the jungle]] or another 0-cost.
 
@@ -53,7 +53,7 @@ Play 4.
 
 #### Turn 5
 
-![](/assets/images/Fangs%200-5.png)
+(((0-5)))
 
 Reclaim, gain Minor; G2 bottom to unlock 5CP and the second Reclaim 1; G4.
 
@@ -61,7 +61,7 @@ Play 5.
 
 #### Turn 6
 
-![](/assets/images/Fangs%200-5.png)
+(((0-5)))
 
 G3, gain Minor; G4. 
 
