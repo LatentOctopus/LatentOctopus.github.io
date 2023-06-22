@@ -22,7 +22,7 @@ The idea is to unlock 2 CP as soon as possible and then going top track while ta
 
 #### Turn 1
 
-![](/assets/images/Downpour0-1.png)
+(((0-1)))
 
 G3 bottom, gain Minor. 
 
@@ -30,7 +30,7 @@ Play 1. [[Gift of abundance]] is a good default to scale better.
 
 #### Turn 2
 
-![](/assets/images/Downpour0-3.png)
+(((0-3)))
 
 G2 bottom.
 
@@ -38,7 +38,7 @@ Play 2.
 
 #### Turn 3
 
-![](/assets/images/Downpour0-3.png)
+(((0-3)))
 
 Reclaim, gain Minor.
 
@@ -46,7 +46,7 @@ Play 2.
 
 #### Turn 4
 
-![](/assets/images/Downpour2-3.png)
+(((2-3)))
 
 G2 top.
 
@@ -54,7 +54,7 @@ Play 2.
 
 #### Turn 5
 
-![](/assets/images/Downpour2-3.png)
+(((2-3)))
 
 Reclaim, gain Minor.
 
@@ -62,7 +62,7 @@ Play 2.
 
 #### Turn 6
 
-![](/assets/images/Downpour3-3.png)
+(((3-3)))
 
 G3 top, gain Minor.
 
@@ -70,7 +70,7 @@ Play 2.
 
 #### Turn 7
 
-![](/assets/images/Downpour5-3.png)
+(((5-3)))
 
 G2 top.
 
@@ -78,7 +78,7 @@ Play 2.
 
 #### Turn 8
 
-![](/assets/images/Downpour5-3.png)
+(((5-3)))
 
 Reclaim, gain Major.
 
@@ -86,7 +86,7 @@ Play 2.
 
 #### Turn 9
 
-![](/assets/images/Downpour7-3.png)
+(((7-3)))
 
 G2 top.
 
@@ -94,7 +94,7 @@ Play 2.
 
 #### Turn 10 onwards
 
-![](/assets/images/Downpour7-3.png)
+(((7-3)))
 
 Take G1 if needing to reclaim, G2 otherwise (even after you empty your tracks).
 
