@@ -51,6 +51,35 @@ layout: default
 {% endfor %}
 {% assign content = replacedcontent | markdownify %}
 
+<!-- Replace (((...))) in content  -->
+{% assign contentarray = content | split:'(((' %}
+{% for item in contentarray %}
+    {% if forloop.index > 1 %}
+        {% assign itemparts = item | split:')))' %}
+        {% assign link = itemparts[0] %}
+        {% if forloop.index == 2 %}
+            {% assign links = link %}
+        {% else %}
+            {% assign links = links | append: '|' | append: link %}
+        {% endif %}
+        {% assign url = spirit_tag | append: link | append: '.png' %}
+        {% if forloop.index == 2 %}
+            {% assign urls = url %}
+        {% else %}
+            {% assign urls = urls | append: '|' | append: url %}
+        {% endif %}
+    {% endif %}
+{% endfor %}
+{% assign urlarray = urls | split:'|' %}
+{% assign linkarray = links | split:'|' %}
+{% assign replacedcontent = page.content %}
+{% for item in linkarray %}
+    {% assign board_img = '<img class="spirit_board_image" src="/assets/images/' | append: urlarray[forloop.index0] | append: '"/>' %}
+    {% assign bracketlink = '(((' | append: item | append: ')))' %}
+    {% assign replacedcontent = replacedcontent | replace: bracketlink, board_img %}
+{% endfor %}
+{% assign content = replacedcontent | markdownify %}
+
 <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
 
   <header class="post-header">
