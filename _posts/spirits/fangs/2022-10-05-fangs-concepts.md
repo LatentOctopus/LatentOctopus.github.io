@@ -29,3 +29,7 @@ If you go top track (thus unlocking {{n}} and {{p}}), the only requirement for a
 If you go bottom track (getting neither {{n}} nor {{p}} from your presence track), prioritise {{p}}{{n}} > {{p}} > {{n}} > other, to have extra cards that reliably activate [[Ranging hunt]]. After 1 {{p}} and 1 {{n}} Minors have been found, elements cease being as much of a priority. If only uncovering the {{n}} on the top track, just one {{p}} is needed.
 
 Blight handling is excellent on Fangs, and it might be worth prioritising it over better Elements.
+
+## Reclaim 1
+
+[[Too near the jungle]] should probably be the Power you reclaim every turn after you uncover the Reclaim 1 spot on your bottom track, because it has great elements for [[Ranging hunt]] while costing 0. Energy is especially tight if going bottom track, but even when going top track it's better to use the energy to play a Major rather than reclaiming, say, [[Teeth gleam]] over [[Too near the jungle]].
