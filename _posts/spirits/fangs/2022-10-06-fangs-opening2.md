@@ -27,7 +27,7 @@ Play 2, keeping 2 {{p}}{{n}} and 1 {{n}} in hand. Might activate [[Ranging hunt]
 
 #### Turn 2
 
-![](/assets/images/Fangs%200-2.png)
+(((0-2)))
 
 G2 bottom to unlock 3 CP; G4.
 
