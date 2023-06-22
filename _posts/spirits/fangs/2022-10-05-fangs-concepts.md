@@ -24,8 +24,8 @@ Presence should be converted as much as possible into Beasts, ideally every turn
 
 ## Minors selection
 
-If going top track (thus unlocking {{n}} and {{p}}), the only requirement for activating [[Ranging hunt]] every turn from the 2nd onwards is to find 1 {{n}} Minor.
+If you go top track (thus unlocking {{n}} and {{p}}), the only requirement for activating [[Ranging hunt]] every turn from the 2nd onwards is to find 1 {{n}} Minor.
 
-If going full bottom track (getting neither {{n}} nor {{p}} from your presence track), prioritise {{p}}{{n}} > {{p}} > {{n}} > other, to have extra cards that reliably activate [[Ranging hunt]]. After 1 {{p}} and 1 {{n}} Minors have been found, elements cease being as much of a priority.
+If you go bottom track (getting neither {{n}} nor {{p}} from your presence track), prioritise {{p}}{{n}} > {{p}} > {{n}} > other, to have extra cards that reliably activate [[Ranging hunt]]. After 1 {{p}} and 1 {{n}} Minors have been found, elements cease being as much of a priority. If only uncovering the {{n}} on the top track, just one {{p}} is needed.
 
 Blight handling is excellent on Fangs, and it might be worth prioritising it over better Elements.
