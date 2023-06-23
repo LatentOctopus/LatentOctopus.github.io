@@ -20,7 +20,7 @@ That been said, Trickster is a... tricky Spirit to write an opening for, because
 
 ## Hybrid #1
 
-Available if found a [{{m}}+{{a}} Minor](https://sick.oberien.de/?query=Moon%2C%20air%2C%20type%3Aminor) (even better if it costs 0), referred to as [[{{m}}{{a}}]].
+Available if found a [{{m}}+{{a}} Minor](https://sick.oberien.de/?query=Moon%2C%20air%2C%20type%3Aminor) (even better if it costs 0).
 
 ### Growth
 
@@ -31,7 +31,7 @@ Available if found a [{{m}}+{{a}} Minor](https://sick.oberien.de/?query=Moon%2C%
 G3; G2 top. 
 
 Play either
-1. (if [[{{m}}{{a}}]] costs 0) [[{{m}}{{a}}]] and [[Overenthusiastic arson]], or
+1. (if {{m}}{{a}} costs 0) {{m}}{{a}} and [[Overenthusiastic arson]], or
 2. [[Impersonate authority]] and [[Incite the mob]]
 
 to unlock [[Let's see what happens]] level 2. Forget either from play or [[Unexpected tigers]] to gain the new Minor (forgetting from play is not recommended if playing pair 2).
@@ -291,4 +291,90 @@ Turn | Growths | Owned cards | Cards in hand | CE (growth only) | CE (including 
 4 | 2, 3   | **6** |  5  |  6 |  8 | {{m}}3
 5 | 2, 3   |   7   |  3  |  8 | 11 | {{m}},Any,3
 
+
+
+
+
+
+
+## Bottom track (Minors)
+
+### Growth
+
+#### Turn 1
+
+(((0-1)))
+
+G3; G2 bottom. Priorities forthe Minor are:
+
+1. {{m}}{{a}}, preferably 0-cost
+3. {{a}}
+4. {{m}} 
+5. anything else
+
+Depending on what you hav3 found, play:
+
+1. If {{m}}{{a}}, either:
+  a. (if the Minor costs 0) the Minor and [[Overenthusiastic arson]]
+  b. [[Impersonate authority]] and [[Incite the mob]]
+2. If found {{a}}: [[Overenthusiastic arson]] and the Minor if it costs 0, else [[Impersonate authority]]
+3. If found {{m}}: [[Unexpected tigers]] and [[Overenthusiastic arson]].
+
+[[Let's see what happens]] level 1 is unlocked in case 1.
+
+
+#### Turn 2
+
+(((0-2)))
+G2 bottom; G3.
+
+Play 3 with 2{{m}}1{{f}}2{{a}} to unlock [[Let's see what happens]] level 2. Forget, preferably from the discard, to gain the new Power.
+
+#### Turn 3
+
+(((1-2)))
+
+Reclaim; G2 top.
+
+Play 3. Make sure you have 2{{m}}1{{f}}2{{a}} to unlock [[Let's see what happens]] level 2.
+
+#### Turn 4
+
+(((1-3)))
+
+G2 bottom; G3 Minor.
+
+Play 3, unlocking [[Let's see what happens]] level 2.
+    
+    
+#### Turn 5
+
+(((1-4)))
+
+Reclaim, G2 bottom.
+
+Play 4.
+
+#### Turn 6 onwards
+
+Reclaim loop by taking G1 every turn, with G4 if needing Energy and G2 otherwise (usually from bottom).
+
+
+### Remarks
+
+This opening cannot reliably sustain a hand whose overall cost is more than 3. Trickster's starting hand costs 2, which means you can only use 1 extra 1-cost Minor per Reclaim cycle (2 turns), assuming you unlock [[Let's see what happens]] level 2 every turn except the first. It's therefore important to balance hand cost carefully. Failure to do so might result in having to select G4 instead of G2 (delaying 4 CP) or G3 (playing only 2 cards) on turn 4.
+
+Never forget [[Incite the mob]] or [[Impersonate authority]]. Your other 2 starting cards can be Forgotten if the circumstances call for it.
+
+### Stats
+
+The following assumes that the card for [[Let's see what happens]] is forgotten from hand. Higher cards in hand can be achieved by forgetting from play or discard.
+
+Turn | Growths | Owned cards | Cards in hand | CE (growth only) | CE (including previous [[Let's see what happens]]) | Ele+CP 
+:--: | :--: | :--: | :--: | :--: | :--: | :--:
+1 | 2, 3   |   5   |  5  |  1 |  1 | 2
+2 | 2, 4   |   5   |  3  |  5 |  5 | 3
+3 | 1, 2   |   5   |  5  |  5 |  6 | {{m}}3
+4 | 2, 3   |   6   |  3  |  6 |  8 | {{m}}3
+5 | 1, 2   |   6   |  6  |  6 |  9 | {{m}}4
 
