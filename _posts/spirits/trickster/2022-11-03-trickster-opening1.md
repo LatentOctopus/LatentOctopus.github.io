@@ -99,7 +99,7 @@ Turn | Growths | Owned cards | Cards in hand | CE (growth only) | CE (including 
 
 Pros:
 
-- Comfortable in Energy, meaning that G3 and [[A real flair for discord]] can be used often, and missing out on a [[Let's see what happens]] level 2 is not too bad.
+- Comfortable in Energy, meaning that G3 and [[A real flair for discord]] can be used often, and missing out for any reason on a [[Let's see what happens]] level 2 is not too bad.
 - Allows playing Majors in the mid/late game while having high CP.
 - No reclaim loop.
 
