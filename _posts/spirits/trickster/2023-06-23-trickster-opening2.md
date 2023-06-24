@@ -15,7 +15,6 @@ confidence: medium
 {% include uniques.html spirit=spirit_tag %}
 
 
-
 ## Bottom track (Minors)
 
 ### Growth
@@ -24,20 +23,21 @@ confidence: medium
 
 (((0-1)))
 
-G3; G2 bottom. Priorities forthe Minor are:
+G3; G2 bottom. Priorities for the Minor are:
 
 1. {{m}}{{a}}, preferably 0-cost
-3. {{a}}
-4. {{m}} 
-5. anything else
+2. {{a}}
+3. {{m}} 
+4. anything else
 
-Depending on what you hav3 found, play:
+Depending on what you have found, play:
 
 1. If {{m}}{{a}}, either:
   a. (if the Minor costs 0) the Minor and [[Overenthusiastic arson]]
   b. [[Impersonate authority]] and [[Incite the mob]]
 2. If found {{a}}: [[Overenthusiastic arson]] and the Minor if it costs 0, else [[Impersonate authority]]
 3. If found {{m}}: [[Unexpected tigers]] and [[Overenthusiastic arson]].
+4. If found neither: [[Impersonate authority]] and the Minor.
 
 [[Let's see what happens]] level 1 is unlocked in case 1.
 
@@ -109,9 +109,9 @@ Pros:
 
 Cons:
 
-- Very tight on Energy in early and mid game.
+- Very tight on Energy in early and mid game,thus being extremely reliant on Energy from [[Let's see what happens]].
   - Forced to take an early G4 unless lucky in Minor draw, which in turn means fewer G3.
-  - Extremely reliant on Energy from [[Let's see what happens]].
+  - Limited usages of your Special Rule [[A real flair for discord]].
   - Easily affected by Events.
 - Reclaim-looping can be boring.
 
