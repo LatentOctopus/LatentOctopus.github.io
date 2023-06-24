@@ -45,6 +45,7 @@ Depending on what you have found, play:
 #### Turn 2
 
 (((0-2)))
+
 G2 bottom; G3.
 
 Play 3 with 2{{m}}1{{f}}2{{a}} to unlock [[Let's see what happens]] level 2. Forget, preferably from the discard, to gain the new Power.
