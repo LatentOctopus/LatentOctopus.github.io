@@ -8,82 +8,102 @@ confidence: low
 
 {%- include init.html -%}
 
-The idea of the following openings is to get to 2/3 and unlocking the Any element on its top track as well.
-
-That been said, Trickster is a... tricky Spirit to write an opening for, because its growth path depends on the cards that it gains via [[Let's see what happens]] and G3. All of the following openings assume gaining a Minor via G3 as first thing on turn 1, and then choosing the option based on the elements and cost of the gained Power.
-
-Note: stats table assume that the card for [[Let's see what happens]] is forgotten from hand. Higher cards in hand can be achieved by forgetting from play or discard.
-
-
 ## Unique Powers reminder
 
 {% assign spirit_tag = page.tags[0] %}
 {% include uniques.html spirit=spirit_tag %}
 
-## Bottom track hybrid (Minors)
-
-The following assumes that the card for [[Let's see what happens]] is forgotten from hand. Higher cards in hand can be achieved by forgetting from play or discard.
-
-(((1-2)))
+## Hybrid (Minors)
 
 ### Growth
 
-#### Turns 1-3
+#### Turn 1
 
-##### #1
+(((1-0)))
 
-Available if found a [{{m}}{{a}} Minor](https://sick.oberien.de/?query=Moon%2C%20air%2C%20type%3Aminor) (even better if it costs 0).
+1. {{m}}{{a}}, preferably 0-cost ([possible Minors](https://sick.oberien.de/?query=Moon%2C%20air%2C%20type%3Aminor))
+2. {{a}}
+3. anything else
 
-1. G3; G2 top. Unlock [[Let's see what happens]] level 2 by playing either:
+Depending on what you have found, play:
+
+1. The following to unlock [[Let's see what happens]] level 2, otherwise any 2:
  
-  a. (if {{m}}{{a}} costs 0) {{m}}{{a}} and [[Overenthusiastic arson]]
+   a. (if the Minor costs 0) the Minor and [[Overenthusiastic arson]]
 
-  b. [[Impersonate authority]] and [[Incite the mob]]
-  
-4. G2 bottom; G3. Play the other pair to unlock [[Let's see what happens]] level 2.
-5. Reclaim; G2 bottom. Play 3. Make sure you have 2{{m}}1{{f}}2{{a}} to unlock [[Let's see what happens]] level 2.
+   b. [[Impersonate authority]] and [[Incite the mob]] (you'll have to forget [[Unexpected tigers]])
+   
+2. The Minor/[[Impersonate authority]] and [[Overenthusiastic arson]] to unlock [[Let's see what happens]] level 1.
+4. The Minor and [[Unexpected tigers]]/[[Impersonate authority]]/[[Overenthusiastic arson]].
 
-Turn | Growths | Owned cards | Cards in hand | CE (growth only) | CE (including previous [[Let's see what happens]]) | Ele+CP 
-:--: | :--: | :--: | :--: | :--: | :--: | :--:
-1 | 2, 3   |   5   |  5  |  1 |  1 | {{m}}2
-2 | 2, 3   |   6   |  4  |  2 |  3 | {{m}}2
-3 | 1, 2   |   6   |  6  |  2 |  4 | {{m}}3
+#### Turn 2
 
-##### #2
+(((2-0)))
 
-Available if found a 0-cost Minor.
+G2 top; G3 Minor.
 
-1. G3; G2 top. Play the 0-cost Minor and [[Overenthusiastic arson]].
-2. G2 bottom; G3. Play [[Unexpected tigers]], [[Impersonate authority]] and [[Incite the mob]] to unlock [[Let's see what happens]] level 2.
-3. Reclaim; G2 top. Play 3. Make sure you have 2{{m}}1{{f}}2{{a}} to unlock [[Let's see what happens]] level 2.
+Play 1{{m}}1{{f}}2{{a}} (plus the {{m}} on your top track) to unlock [[Let's see what happens]] level 2.
 
-Turn | Growths | Owned cards | Cards in hand | CE (growth only) | CE (including previous [[Let's see what happens]]) | Ele+CP 
-:--: | :--: | :--: | :--: | :--: | :--: | :--:
-1 | 2, 3   |   5   |  5  |  1 |  1 | 2
-2 | 2, 3   |   6   |  4  |  2 |  2 | 3
-3 | 1, 2   |   6   |  6  |  2 |  3 | {{m}}3
+#### Turn 3
 
+(((2-1)))
 
-##### #3
+Reclaim; G2 bottom.
 
-Always available.
-
-1. G3; G2 bottom. Play [[Unexpected tigers]] and [[Overenthusiastic arson]]/Minor.
-2. G2 top; G3. Play [[Impersonate authority]] and [[Incite the mob]] to unlock [[Let's see what happens]] level 2.
-3. Reclaim; G2 bottom. Play 3. Make sure you have 2{{m}}1{{f}}2{{a}} to unlock [[Let's see what happens]] level 2.
-
-Turn | Growths | Owned cards | Cards in hand | CE (growth only) | CE (including previous [[Let's see what happens]]) | Elements and CP 
-:--: | :--: | :--: | :--: | :--: | :--: | :--:
-1 | 2, 3   |   5   |  5  |  1 |  1 | 2
-2 | 2, 3   |   6   |  4  |  2 |  2 | {{m}}2
-3 | 1, 2   |   6   |  6  |  2 |  3 | {{m}}3
+Play to unlock [[Let's see what happens]] level 2, e.g. [[Impersonate authority]] and [[Incite the mob]].
 
 #### Turn 4
 
+(((2-2)))
+
+G2 bottom; G4.
+
+Play 3.
+
+#### Turn 5
+
+(((2-3)))
+
+Reclaim; G2 bottom.
+
+Play 3.
+
+#### Turn 6
+
+(((2-4)))
+
+G2 bottom; G3 Minor.
+
+Play 4.
+
 ### Remarks
 
+A Major can be gained on turn 6, as placing presence has less of a priority and thus G1+G4 can be used on turn 7.
 
+### Stats
 
+The following assumes that the card for [[Let's see what happens]] is forgotten from hand. Higher cards in hand can be achieved by forgetting from play or discard. It's also assumed that the level 2 of [[Let's see what happens]] is not unlocked on turn 1, although it rarely can be.
+
+Turn | Growths | Owned cards | Cards in hand | CE (growth only) | CE (including previous [[Let's see what happens]]) | Ele+CP 
+:--: | :--: | :--: | :--: | :--: | :--: | :--:
+1 | 2, 3 |   5   |  5  |  1 |  1 | {{m}}2
+2 | 2, 3 |   6   |  4  |  3 |  3 | {{m}}2
+3 | 1, 2 |   6   |  6  |  4 |  6 | {{m}}2
+4 | 2, 4 |   6   |  4  |  9 | 12 | {{m}}3
+5 | 1, 2 |   6   |  6  | 10 | 14 | {{m}}3
+6 | 2, 3 |   7   |  4  | 12 | 17 | {{m}}4
+
+### Pros and cons
+
+Pros:
+
+- Comfortable in Energy, meaning that G3 and [[A real flair for discord]] can be used often, and missing out on a [[Let's see what happens]] level 2 is not too bad.
+- Allows playing Majors in the mid/late game while having high CP.
+- No reclaim loop.
+
+Cons:
+
+- Low CP: 3 only unlocked on turn 4, and 4 on turn 6.
 
 
 ## Top track hybrid (Majors)
