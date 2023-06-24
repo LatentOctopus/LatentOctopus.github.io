@@ -32,12 +32,15 @@ G3; G2 bottom. Priorities for the Minor are:
 
 Depending on what you have found, play:
 
-1. If {{m}}{{a}}, either:
-  a. (if the Minor costs 0) the Minor and [[Overenthusiastic arson]]
-  b. [[Impersonate authority]] and [[Incite the mob]]
-2. If found {{a}}: [[Overenthusiastic arson]] and the Minor if it costs 0, else [[Impersonate authority]]
-3. If found {{m}}: [[Unexpected tigers]] and [[Overenthusiastic arson]].
-4. If found neither: [[Impersonate authority]] and the Minor.
+1. Either:
+ 
+    a. (if the Minor costs 0) the Minor and [[Overenthusiastic arson]]
+
+   b. [[Impersonate authority]] and [[Incite the mob]]
+   
+3. [[Overenthusiastic arson]] and the Minor if it costs 0, else [[Impersonate authority]]
+4. [[Unexpected tigers]] and [[Overenthusiastic arson]].
+5. [[Impersonate authority]] and the Minor.
 
 [[Let's see what happens]] level 1 is unlocked in case 1.
 
