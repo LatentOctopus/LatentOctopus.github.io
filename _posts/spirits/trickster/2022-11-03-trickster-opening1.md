@@ -21,6 +21,8 @@ confidence: low
 
 (((1-0)))
 
+G3; G2 top. Priorities for the Minor are
+
 1. {{m}}{{a}}, preferably 0-cost ([possible Minors](https://sick.oberien.de/?query=Moon%2C%20air%2C%20type%3Aminor))
 2. {{a}}
 3. anything else
@@ -118,7 +120,7 @@ G3; G2 top.
 
 Play:
 
-- If drawn another {{a}}: [[Impersonate authority]]] and [[Overenthusiastic arson]] to unlock [[Let's see what happens]] level 1.
+- If drawn another {{a}}: [[Impersonate authority]] and [[Overenthusiastic arson]] to unlock [[Let's see what happens]] level 1.
 - Otherwise: substitute either with [[Unexpected tigers]].
 
 
@@ -128,7 +130,7 @@ Play:
 
 G2 bottom; G3.
 
-Play [[Incite the mob]] and another {{a}} to unlock [[Let's see what happens]] level 2. Forget to gain the new Power.
+Play [[Incite the mob]] and another {{a}} to unlock [[Let's see what happens]] level 2.
 
 #### Turn 3
 
@@ -153,17 +155,20 @@ Play 3, preferably unlocking [[Let's see what happens]] level 2.
 
 G2 top; G3 Minor.
 
-Play the Major and 1 or 2 more.
+Play 3.
 
 
 ### Remarks
 
-G4 can be taken on turn 5, if Energy is needed, but in that case only 2 cards can be played.
+On turn 5 there are a few options:
+
+- G2+G4 if Energy is needed, but in that case only 2 cards can be played
+- G1+G2 if needing to reclaim.
 
 
 ### Stats
 
-Turn | Growths | Owned cards | Cards in hand | CE (growth only) | CE (including previous [[Let's see what happens]]) | Elements and CP 
+Turn | Growths | Owned cards | Cards in hand | CE (growth only) | CE (including previous [[Let's see what happens]]) | Ele+CP 
 :--: | :--: | :--: | :--: | :--: | :--: | :--:
 1 | 2, 3   |   5   |  5  |  1 |  1 | {{m}}2
 2 | 2, 3   |   6   |  4  |  3 |  3 | {{m}}2
