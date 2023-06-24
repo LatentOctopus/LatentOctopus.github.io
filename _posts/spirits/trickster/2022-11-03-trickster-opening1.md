@@ -35,10 +35,13 @@ The following assumes that the card for [[Let's see what happens]] is forgotten 
 Available if found a [{{m}}{{a}} Minor](https://sick.oberien.de/?query=Moon%2C%20air%2C%20type%3Aminor) (even better if it costs 0).
 
 1. G3; G2 top. Unlock [[Let's see what happens]] level 2 by playing either:
+ 
   a. (if {{m}}{{a}} costs 0) {{m}}{{a}} and [[Overenthusiastic arson]]
+
   b. [[Impersonate authority]] and [[Incite the mob]]
-2. G2 bottom; G3. Play the other pair to unlock [[Let's see what happens]] level 2.
-3. Reclaim; G2 bottom. Play 3. Make sure you have 2{{m}}1{{f}}2{{a}} to unlock [[Let's see what happens]] level 2.
+  
+4. G2 bottom; G3. Play the other pair to unlock [[Let's see what happens]] level 2.
+5. Reclaim; G2 bottom. Play 3. Make sure you have 2{{m}}1{{f}}2{{a}} to unlock [[Let's see what happens]] level 2.
 
 Turn | Growths | Owned cards | Cards in hand | CE (growth only) | CE (including previous [[Let's see what happens]]) | Ele+CP 
 :--: | :--: | :--: | :--: | :--: | :--: | :--:
