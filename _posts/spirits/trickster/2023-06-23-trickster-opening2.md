@@ -25,7 +25,7 @@ confidence: medium
 
 G3; G2 bottom. Priorities for the Minor are:
 
-1. {{m}}{{a}}, preferably 0-cost
+1. {{m}}{{a}}, preferably 0-cost ([possible Minors](https://sick.oberien.de/?query=Moon%2C%20air%2C%20type%3Aminor))
 2. {{a}}
 3. {{m}} 
 4. anything else
@@ -34,7 +34,7 @@ Depending on what you have found, play:
 
 1. Either:
  
-    a. (if the Minor costs 0) the Minor and [[Overenthusiastic arson]]
+   a. (if the Minor costs 0) the Minor and [[Overenthusiastic arson]]
 
    b. [[Impersonate authority]] and [[Incite the mob]]
    
@@ -55,9 +55,9 @@ Play 3 with 2{{m}}1{{f}}2{{a}} to unlock [[Let's see what happens]] level 2. For
 
 #### Turn 3
 
-(((1-2)))
+(((0-3)))
 
-Reclaim; G2 top.
+Reclaim; G2 bottom.
 
 Play 3. Make sure you have 2{{m}}1{{f}}2{{a}} to unlock [[Let's see what happens]] level 2.
 
@@ -65,7 +65,7 @@ Play 3. Make sure you have 2{{m}}1{{f}}2{{a}} to unlock [[Let's see what happens
 
 (((1-3)))
 
-G2 bottom; G3 Minor.
+G2 top; G3 Minor.
 
 Play 3, unlocking [[Let's see what happens]] level 2.
     
@@ -87,7 +87,7 @@ Reclaim loop by taking G1 every turn, with G4 if needing Energy and G2 otherwise
 
 This opening cannot reliably sustain a hand whose overall cost is more than 3. Trickster's starting hand costs 2, which means you can only use 1 extra 1-cost Minor per Reclaim cycle (2 turns), assuming you unlock [[Let's see what happens]] level 2 every turn except the first. It's therefore important to balance hand cost carefully. Failure to do so might result in having to select G4 instead of G2 (delaying 4 CP) or G3 (playing only 2 cards) on turn 4.
 
-On turn 3, presence can be taken from the bottom track if the extra {{m}} is not needed to unlock [[Let's see what happens]] level 2. This can allow to get 4 CP on turn 4 (although only 3 will be played, unless Forgetting from play on turn 3), and starting the Reclaim loop from turn 5 by taking G1+G4.
+On turn 4, presence can be taken from the bottom track if the extra {{m}} is not needed to unlock [[Let's see what happens]] level 2. This can allow to get 4 CP on turn 4 (although only 3 will be played, unless Forgetting from play on turn 3), and starting the Reclaim loop from turn 5 by taking G1+G4.
 
 If a 0-cost is found on turn 1, G3 can be selected on turn 2 instead of G4, and G4 can be delayed until turn 4. This restricts the cards that can be played on turn 3, but enables gaining 2 Minors in the first two turns, which is better for planning and for options to Forget for [[Let's see what happens]].
 
@@ -101,7 +101,7 @@ Turn | Growths | Owned cards | Cards in hand | CE (growth only) | CE (including 
 :--: | :--: | :--: | :--: | :--: | :--: | :--:
 1 | 2, 3   |   5   |  5  |  1 |  1 | 2
 2 | 2, 4   |   5   |  3  |  5 |  5 | 3
-3 | 1, 2   |   5   |  5  |  5 |  6 | {{m}}3
+3 | 1, 2   |   5   |  5  |  5 |  6 | 3
 4 | 2, 3   |   6   |  3  |  6 |  8 | {{m}}3
 5 | 1, 2   |   6   |  6  |  6 |  9 | {{m}}4
 
