@@ -8,7 +8,7 @@ tags: Wildfire
 
 ## Growth and card economy
 
-Wildfire needs both Energy and cards to play: Energy because it has an awful Energy track but fairly costly Uniques (cost 4-1=3, since [[Flame's fury]] gives 1); cards because its Reclaim turns are extremely weak, as placing presence is the main way of dealing damage. Thus, G3 needs to be used in between Reclaim turns, and G2 should be used a few times, especially early. When to use one or the other depends on the game state and the range of presence placement needed.
+Wildfire needs both Energy and cards to play: Energy because it has an awful Energy track but fairly costly Uniques (cost 4-1=3, since [[Flame's fury]] gives 1); cards because its Reclaim turns are extremely weak, as placing presence is the main way of dealing damage via [[Blazing presence]]. Thus, G3 needs to be used in between Reclaim turns, and G2 should be used a few times, especially early. When to use one or the other depends on the game state and the range of presence placement needed.
 
 Since Reclaim turns are a lot more passive, they need to be delayed as much as possible. The main way to do that, besides using G2 to gain extra Powers as mentioned above, is being very mindful of card economy, i.e. not playing cards if they are not needed. This might even mean not playing any card at all in the first turn(s)! For the same reason, if the situation is under control this turn it might be worth reclaiming even with cards still left to play, in order to be able to place presence in the following turns.
 
@@ -33,4 +33,4 @@ For Minors, element priorities are {{f}}{{p}} > {{p}} > {{f}}.
 A Power that only grants {{p}} is better than one that only grants {{f}} because getting to 3{{p}} doubles the effectiveness of 
 all {{f}} you have. For example, assuming 2{{f}} from presence tracks are unlocked, playing Powers for 3{{f}}1{{p}} (totalling 5{{f}}{{1p}}) gives 2 damage for [[Firestorm]], while playing 1{{f}}3{{p}} gives 3 damage.
 
-Blight management is extremely useful on Wildfire, and Powers that help that should likely be drafted over Powers with better elements (many such Powers even give {{p}}, which is great). For example, getting a Power like [Entrap the forces of corruption](https://sick.oberien.de/?query=Entrap) can make the game a lot easier. Defend effects are also very good, since Wildfire can move Dahan with its Special Rule when adding Presence, and with [[Asphyxiating smoke]].
+Blight management is extremely useful on Wildfire, and Powers that help that should likely be drafted over Powers with better elements (many such Powers even give {{p}}, which is great). For example, getting a Power like [Entrap the forces of corruption](https://sick.oberien.de/?query=Entrap) can make the game a lot easier. Defend effects are also very good, since Wildfire can move Dahan with [[Blazing presence]], and with [[Asphyxiating smoke]].
