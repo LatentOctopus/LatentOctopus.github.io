@@ -25,7 +25,7 @@ This is the standard opening for River. It exploits River's strong, perfect-elem
 
 #### Turn 1
 
-![](/assets/images/River0-2.png)
+(((0-2)))
 
 G2 bottom. 
 
@@ -33,7 +33,7 @@ Play [[River's bounty]] and another card. 1{{s}}2{{w}} elements (you could have 
 
 #### Turn 2
 
-![](/assets/images/River0-4.png)
+(((0-4)))
 
 G2 bottom. Reclaim [[River's bounty]].
 
@@ -41,7 +41,7 @@ Play 3. 2{{s}}3{{w}} elements.
 
 #### Turn 3
 
-![](/assets/images/River0-4.png)
+(((0-4)))
 
 Reclaim, gain Minor.
 
@@ -49,7 +49,7 @@ Play [[River's bounty]] and the Minor. The Minor can be swapped as long as you k
 
 #### Turn 4
 
-![](/assets/images/River0-6.png)
+(((0-6)))
 
 G2 bottom. Reclaim [[River's bounty]].
 
@@ -57,13 +57,13 @@ Play [[River's bounty]] and 3 more to have 3{{s}}4{{w}}1{{e}} and unlock a max-l
 
 #### Turn 5+
 
-![](/assets/images/River0-6.png)
+(((0-6)))
 
 Reclaim loop, gaining Minors every turn and playing the cards you need to unlock your Innate.
 
 If at any point you don't need to reclaim (this usually happens somewhere around turn 7-9), take a G3 top and gain a Major (forgetting [[Flash floods]] is usually the best option if you have gained other cards with good elements, as it is too expensive for what it does), then keep reclaim looping.
 
-![](/assets/images/River1-6.png)
+(((1-6)))
 
 
 #### Remarks
