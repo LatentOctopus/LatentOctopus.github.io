@@ -7,7 +7,7 @@ confidence: high
 ---
 {% include init.html %}
 
-I recommend reading {% post_url 2022-10-14-wildfire-concepts %} before continuing here. Understanding Wildfire's peculiarities and limitations is extremely important to play the Spirit effectively -- even more so than other Spirits, as you are actively progressing the main loss condition (running out of blight) by simply putting Presence down.
+I recommend reading [Wildfire's general concepts](guides/2022-10-14-wildfire-concepts) before continuing here. Understanding Wildfire's peculiarities and limitations is extremely important to play the Spirit effectively -- even more so than other Spirits, as you are actively progressing the main loss condition (running out of blight) by simply putting Presence down.
 
 Wildfire's openings are very situational and harder to plan than most Spirit's: placing presence is effectively one of Wildfire's actions, so the sequence of card plays and Reclaim turns is much more impactful and subject to variation than with most other Spirits. It's hard to capture this flexibility in an opening, but keep in mind that other choices may be valid depending on the game state and Power draws (this is generally true, but even more so for Wildfire). Some suggestions are provided below, but you will have to go off the beaten path more often than usual.
 
