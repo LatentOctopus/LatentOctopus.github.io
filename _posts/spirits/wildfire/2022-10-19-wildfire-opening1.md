@@ -7,9 +7,9 @@ confidence: high
 ---
 {% include init.html %}
 
-## Notes
+I recommend reading {% post_url 2022-10-14-wildfire-concepts %} before continuing here. Understanding Wildfire's peculiarities and limitations is extremely important to play the Spirit effectively -- even more so than other Spirits, as you are actively progressing the main loss condition (running out of blight) by simply putting Presence down.
 
-As I mentioned in {% post_url 2022-10-14-wildfire-concepts %}, Wildfire's openings are very situational and harder to plan than most Spirit's. Some suggestions are provided below, but you will have to go off the beaten path more often than usual.
+Wildfire's openings are very situational and harder to plan than most Spirit's: placing presence is effectively one of Wildfire's actions, so the sequence of card plays and Reclaim turns is much more impactful and subject to variation than with most other Spirits. It's hard to capture this flexibility in an opening, but keep in mind that other choices may be valid depending on the game state and Power draws (this is generally true, but even more so for Wildfire). Some suggestions are provided below, but you will have to go off the beaten path more often than usual.
 
 
 ## Unique Powers reminder
@@ -24,7 +24,7 @@ As I mentioned in {% post_url 2022-10-14-wildfire-concepts %}, Wildfire's openin
 
 #### Turn 1
 
-![](/assets/images/Wildfire0-1.png)
+(((0-1)))
 
 G3 bottom. 
 
@@ -32,7 +32,7 @@ Play [[Asphyxiating smoke]].
 
 #### Turn 2
 
-![](/assets/images/Wildfire1-1.png)
+(((1-1)))
 
 G2 top, gain Minor.
 
@@ -40,23 +40,23 @@ Play [[Threatening flames]].
 
 #### Turn 3
 
-![](/assets/images/Wildfire1-2.png)
+(((1-2)))
 
 G3 bottom.
 
-Play [[Flame's fury]] and [[Flash fires]]/Minor.
+Play [[Flame's fury]] and [[Flash-fires]]/Minor.
 
 #### Turn 4
 
-![](/assets/images/Wildfire1-2.png)
+(((1-2)))
 
-Reclaim, gain Minor, or Major forgetting [[Flash fires]].
+Reclaim, gain Minor, or Major forgetting [[Flash-fires]].
 
 Play 2.
 
 #### Turn 5
 
-![](/assets/images/Wildfire1-3.png)
+(((1-3)))
 
 G3 bottom.
 
@@ -68,7 +68,7 @@ Turn 1 and 2 plays can be changed to [[Flame's fury]]/[[Threatening flames]] > [
 
 ### Stats
 
-Turn | Growth | Owned cards | Cards in hand | CE | Fire and CP
+Turn | Growth | Owned cards | Cards in hand | CE | Ele+CP
 :--: | :--: | :--: | :--: | :--: | :--:
 1 | 3 |   4   |  4  |  3 | {{f}}1
 2 | 2 |   5   |  4  |  3 | {{f}}{{f}}1
@@ -89,13 +89,13 @@ Cons:
 
 
 
-## Variant: Flash Fire (Minors/Mixed)
+## Variant: delayed 2{{f}} (Minors/Mixed)
 
 ### Growth
 
 #### Turn 1
 
-![](/assets/images/Wildfire0-1.png)
+(((0-1)))
 
 G2 bottom, gain Minor. 
 
@@ -103,15 +103,15 @@ Play [[Flame's fury]] to deal overall 3 damage between Special Rule and [[Firest
 
 #### Turn 2
 
-![](/assets/images/Wildfire0-2.png)
+(((0-2)))
 
 G3 bottom.
 
-Play [[Asphyxiating smoke]] and [[Flash fires]].
+Play [[Asphyxiating smoke]] and [[Flash-fires]].
 
 #### Turn 3
 
-![](/assets/images/Wildfire0-3.png)
+(((0-3)))
 
 G2 bottom.
 
@@ -119,15 +119,9 @@ Play [[Threatening flames]] and up to 2 Minors.
 
 #### Turn 4
 
-![](/assets/images/Wildfire0-3.png)
+(((0-3)))
 
-Reclaim, gain Minor, or Major forgetting [[Flash fires]].
-
-#### Turn 5
-
-![](/assets/images/Wildfire0-4.png)
-
-G3 bottom.
+Reclaim, gain Minor, or Major forgetting [[Flash-fires]].
 
 
 #### Remarks
@@ -139,13 +133,12 @@ Presence can be taken from the top track on turn 3 if needed, although it's gene
 
 ### Stats
 
-Turn | Growth | Owned cards | Cards in hand | CE | Fire and CP
+Turn | Growth | Owned cards | Cards in hand | CE | Ele+CP
 :--: | :--: | :--: | :--: | :--: | :--:
 1 | 2 |   5   |  5  |  0 | {{f}}1
 2 | 3 |   5   |  4  |  4 | {{f}}2
 3 | 2 |   6   |  3  |  4 | {{f}}3
 4 | 1 |7/**6**| 7/6 |  5 | {{f}}3
-5 | 3 |  7/6  |  ?  |  9 | {{f}}{{f}}3
 
 
 ### Pro and cons
@@ -167,15 +160,15 @@ Cons:
 
 #### Turn 1
 
-![](/assets/images/Wildfire0-1.png)
+(((0-1)))
 
-G2 bottom, gain Major, forget [[Flash fires]]. 
+G2 bottom, gain Major, forget [[Flash-fires]]. 
 
 Play [[Threatening flames]].
 
 #### Turn 2
 
-![](/assets/images/Wildfire1-1.png)
+(((1-1)))
 
 G3 top.
 
@@ -183,7 +176,7 @@ Play the Major or [[Asphyxiating smoke]].
 
 #### Turn 3
 
-![](/assets/images/Wildfire1-2.png)
+(((1-2)))
 
 G2 bottom, gain Minor or replace Major.
 
@@ -191,7 +184,7 @@ Play [[Flame's fury]] and possibly the remaining Power.
 
 #### Turn 4
 
-![](/assets/images/Wildfire1-2.png)
+(((1-2)))
 
 Reclaim, gain Minor.
 
@@ -199,11 +192,11 @@ Play 2.
 
 #### Turn 5
 
-![](/assets/images/Wildfire1-3.png)
+(((1-3)))
 
 G3 bottom.
 
-Play 2.
+Play 3.
 
 #### Remarks
 
@@ -212,7 +205,7 @@ G3 can be used in turn 3 if playing the Major in turn 2/3 and planning on playin
 
 ### Stats
 
-Turn | Growth | Owned cards | Cards in hand | CE | Fire and CP
+Turn | Growth | Owned cards | Cards in hand | CE | Ele+CP
 :--: | :--: | :--: | :--: | :--: | :--:
 1 | 2 | **4** |  4  |  0 | {{f}}1
 2 | 3 |   4   |  3  |  4 | {{f}}{{f}}1
@@ -223,5 +216,5 @@ Turn | Growth | Owned cards | Cards in hand | CE | Fire and CP
 
 ### Pro and cons
 
-Mostly same as the bottom track opening above. Majors are a gamble as usual, but [[Flash fires]] is very overcosted and replacing it early on gives time to plan around the Major.
+Mostly same as the bottom track opening above. Majors are a gamble as usual, but [[Flash-fires]] is very overcosted and replacing it early on gives time to plan around the Major.
 
