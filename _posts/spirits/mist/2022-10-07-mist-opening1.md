@@ -23,7 +23,7 @@ confidence: medium
 
 G2 top+bottom. 
 
-Play [[Fog closes in]] + [[Forms dart by]]. 2{{m}}2{{a}}2{{w}} elements (left and right Innate level 1).
+Play [[The fog closes in]] + [[Forms dart by]]. 2{{m}}2{{a}}2{{w}} elements (left and right Innate level 1).
 
 Try to have 2 lands with damaged Invaders by the end of the turn.
 
@@ -133,7 +133,7 @@ The idea is to take a weaker early game (namely turn 2 and 3) to scale faster in
 
 G2 top+bottom. 
 
-Play [[Fog closes in]] + [[Forms dart by]]. 2{{m}}2{{a}}2{{w}} elements (left and right Innate level 1).
+Play [[The fog closes in]] + [[Forms dart by]]. 2{{m}}2{{a}}2{{w}} elements (left and right Innate level 1).
 
 Try to have 2 lands with damaged Invaders by the end of the turn.
 
