@@ -19,7 +19,7 @@ confidence: medium
 
 #### Turn 1
 
-![](/assets/images/Mist1-1.png)
+(((1-1)))
 
 G2 top+bottom. 
 
@@ -30,7 +30,7 @@ Try to have 2 lands with damaged Invaders by the end of the turn.
 
 #### Turn 2
 
-![](/assets/images/Mist1-1.png)
+(((1-1)))
 
 Reclaim, gain Minor. 
 
@@ -41,7 +41,7 @@ Try to use the Dahan counterattack and/or your Innate to have a 3rd land with a 
 
 #### Turn 3
 
-![](/assets/images/Mist1-2.png)
+(((1-2)))
 
 G3 bottom, gain Minor. 
 
@@ -50,7 +50,7 @@ Play 2.
 
 #### Turn 4
 
-![](/assets/images/Mist1-4.png)
+(((1-4)))
 
 G2 bottom. 
 
@@ -58,7 +58,7 @@ Play 2.
 
 #### Turn 5
 
-![](/assets/images/Mist1-4.png)
+(((1-4)))
 
 Reclaim, gain Minor. 
 
@@ -66,7 +66,7 @@ Play 3.
 
 #### Turn 6
 
-![](/assets/images/Mist1-6.png)
+(((1-6)))
 
 G2 bottom.
 
@@ -129,7 +129,7 @@ The idea is to take a weaker early game (namely turn 2 and 3) to scale faster in
 
 #### Turn 1
 
-![](/assets/images/Mist1-1.png)
+(((1-1)))
 
 G2 top+bottom. 
 
@@ -140,7 +140,7 @@ Try to have 2 lands with damaged Invaders by the end of the turn.
 
 #### Turn 2
 
-![](/assets/images/Mist1-2.png)
+(((1-2)))
 
 G3 bottom, gain Minor. 
 
@@ -151,7 +151,7 @@ If possible, use the Dahan counterattack to have a 3rd land with a damaged Invad
 
 #### Turn 3
 
-![](/assets/images/Mist1-4.png)
+(((1-4)))
 
 G2 bottom. 
 
@@ -160,7 +160,7 @@ Play [[Dissolving vapors]] and possibly a 0-cost Minor (if not played previously
 
 #### Turn 4
 
-![](/assets/images/Mist1-4.png)
+(((1-4)))
 
 Reclaim, gain Minor. 
 
@@ -168,7 +168,7 @@ Play 3.
 
 #### Turn 5
 
-![](/assets/images/Mist1-6.png)
+(((1-6)))
 
 G2 bottom. 
 
@@ -176,7 +176,7 @@ Play 4.
 
 #### Turn 6
 
-![](/assets/images/Mist1-6.png)
+(((1-6)))
 
 Reclaim, gain Minor.
 

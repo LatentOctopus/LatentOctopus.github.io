@@ -20,17 +20,17 @@ General idea: gain an early Major and alternate playing it with playing [[Softly
 
 #### Turn 1
 
-![](/assets/images/Lure0-1.png)
+(((0-1)))
 
-G2 bottom; G3 Plant. 
+G2 bottom; G3 {{p}}. 
 
 Play [[Gift of the untamed wild]] and [[Perils of the deepest island]]. Unlock left innate level 2 and right Innate level 1+2.
     
 #### Turn 2
 
-![](/assets/images/Lure1-1.png)
+(((1-1)))
 
-G2 top; G4 Major, prioritise cost <= 4 and with at least one of Moon or Plant, forget from discard ([[Perils of the deepest island]] is recommended if cost > 3).
+G2 top; G4 Major, prioritise cost <= 4 and with at least one of {{m}} or {{p}}, forget from discard ([[Perils of the deepest island]] is recommended if cost > 3).
 
 Play [[Softly beckon ever inward]] and [[Swallowed by the wilderness]]. Unlock left innate level 2.
 
@@ -38,7 +38,7 @@ Optionally, if the Major is good and costs 2 or 3, it can be played instead of [
 
 #### Turn 3
 
-![](/assets/images/Lure1-1.png)
+(((1-1)))
 
  Reclaim; G4 Major if needing to replace, otherwise Minor to threshold. 
  
@@ -46,23 +46,23 @@ Optionally, if the Major is good and costs 2 or 3, it can be played instead of [
 
 #### Turn 4
 
-![](/assets/images/Lure1-2.png)
+(((1-2)))
 
- G2 bottom; G3 Moon/Plant.
+ G2 bottom; G3 {{m}}/{{p}}.
     
 Play [[Softly beckon ever inward]] and [[Swallowed by the wilderness]]. Unlock left or right innate level 2.
     
 #### Turn 5
 
-![](/assets/images/Lure1-2.png)
+(((1-2)))
 
  Reclaim; G3.
  
- Play 2 so as to keep cards to threshold the Major next turn, if possible. [[Softly beckon ever inward]] and  [[Gift of the untamed wild]] is a good option, unlocking left innate level 3 if picked Moon with G3.
+ Play 2 so as to keep cards to threshold the Major next turn, if possible. [[Softly beckon ever inward]] and  [[Gift of the untamed wild]] is a good option, unlocking left innate level 3 if picked {{m}} with G3.
 
 #### Turn 6
 
-![](/assets/images/Lure1-3.png)
+(((1-3)))
 
 G2 bottom; G4 Minor if < 5 owned cards, else G3.
 
@@ -70,7 +70,7 @@ Play Major and 2 more.
 
 #### Turn 7
 
-![](/assets/images/Lure1-3.png)
+(((1-3)))
     
  Reclaim; G4 Minor. 
  
@@ -78,7 +78,7 @@ Play Major and 2 more.
 
 #### Turn 8 onwards
 
-![](/assets/images/Lure2-3.png)
+(((2-3)))
 
 G2 top; G3. 
  
@@ -136,21 +136,21 @@ This has the same 3 turns as the previous opening, but keeps taking presence fro
 
 #### Turn 1, 2 and 3
 
-![](/assets/images/Lure1-1.png)
+(((1-1)))
 
 Same as above, but take G3 on turn 3 if not replacing Major.
 
 #### Turn 4
 
-![](/assets/images/Lure2-1.png)
+(((2-1)))
 
- G2 top; G3 Moon.
+ G2 top; G3 {{m}}.
     
 Play [[Softly beckon ever inward]] and [[Swallowed by the wilderness]]. Unlock left innate level 3.
     
 #### Turn 5
 
-![](/assets/images/Lure2-1.png)
+(((2-1)))
 
  Reclaim; G3.
  
@@ -158,7 +158,7 @@ Play [[Softly beckon ever inward]] and [[Swallowed by the wilderness]]. Unlock l
 
 #### Turn 6
 
-![](/assets/images/Lure3-1.png)
+(((3-1)))
 
 G2 top; G4 for second Major (forgetting [[Gift of the untamed wild]]).
 
@@ -166,7 +166,7 @@ Play 2.
 
 #### Turn 7
 
-![](/assets/images/Lure3-1.png)
+(((3-1)))
     
  Reclaim; G4 if previous Major is bad and DID NOT redraw on turn 3, else G3. 
  

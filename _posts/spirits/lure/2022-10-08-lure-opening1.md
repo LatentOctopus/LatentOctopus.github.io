@@ -20,39 +20,39 @@ General idea: use G3 for Elements and Energy, while placing presence from bottom
 
 #### Turn 1
 
-![](/assets/images/Lure0-1.png)
+(((0-1)))
 
-G2 bottom; G4 Minor, prioritise Moon+Air(+Plant) > Moon > rest. 
+G2 bottom; G4 Minor, prioritise {{m}}{{a}}({{p}}) > {{m}} > rest. 
 
 Play [[Gift of the untamed wild]] and [[Perils of the deepest island]]. Unlock left innate level 2. And right Innate level 2.
     
 #### Turn 2
 
-![](/assets/images/Lure0-2.png)
+(((0-2)))
 
-G2 bottom; G3 Moon.
+G2 bottom; G3 {{m}}.
 
 Play [[Softly beckon ever inward]] and [[Swallowed by the wilderness]]. Unlock left innate level 2.
 
 #### Turn 3
 
-![](/assets/images/Lure0-2.png)
+(((0-2)))
 
- Reclaim; G3 Moon if needing to deal with City, otherwise G4 Minor. 
+ Reclaim; G3 {{m}} if needing to deal with City, otherwise G4 Minor. 
  
  Play 2.
 
 #### Turn 4
 
-![](/assets/images/Lure0-3.png)
+(((0-3)))
 
- G2 bottom; G3 Moon/Plant or G4 Minor, the _opposite_ of what selected in the previous turn.
+ G2 bottom; G3 {{m}}/{{p}} or G4 Minor, the _opposite_ of what selected in the previous turn.
     
 Play 3.
     
 #### Turn 5
 
-![](/assets/images/Lure0-3.png)
+(((0-3)))
 
  Reclaim; G4 Minor.
  
@@ -60,7 +60,7 @@ Play 3.
 
 #### Turn 6
 
-![](/assets/images/Lure0-4.png)
+(((0-4)))
 
 G2 bottom; G3.
 
@@ -68,7 +68,7 @@ Play 4.
 
 #### Turn 7
 
-![](/assets/images/Lure0-4.png)
+(((0-4)))
     
  Reclaim; G3. 
  
@@ -76,7 +76,7 @@ Play 4.
 
 #### Turn 8
 
-![](/assets/images/Lure0-5.png)
+(((0-5)))
 
  G2 bottom to unlock reclaim 1; G3. 
  
@@ -84,7 +84,7 @@ Play 4.
 
 #### Turn 9 onwards
 
-![](/assets/images/Lure0-5.png)
+(((0-5)))
 
 Reclaim; G3.
 
@@ -107,9 +107,9 @@ Turn | Growths | Owned cards | Cards in hand | CE
 3 | 1, 3/4 |  5/6  | 5/6 | 8/6
 4 | 2, 4/3 |   6   |  4  | 9
 5 | 1, 4   |   7   |  7  | 11
-6 | 2, 3   |   7   |  4  | 15
-7 | 1, 3   |   7   |  7  | 19
-8 | 2, 3   |   7   | 3/4 | 23
+6 | 2, 3   |   7   |  4  | 14
+7 | 1, 3   |   7   |  7  | 18
+8 | 2, 3   |   7   | 4/5 | 21
 
 
 ### Pro and cons
