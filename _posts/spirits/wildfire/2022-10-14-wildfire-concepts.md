@@ -11,6 +11,8 @@ Wildfire needs both Energy and cards to play: Energy because it has an awful Ene
 
 Since Reclaim turns are a lot more passive, they need to be delayed as much as possible. The main way to do that, besides using G2 to gain extra Powers as mentioned above, is being very mindful of card economy, i.e. not playing cards if they are not needed. This might even mean not playing any card at all in the first turn(s)! For the same reason, if the situation is under control this turn it might be worth reclaiming even with cards still left to play, in order to be able to place presence in the following turns.
 
+For all of the reasons mentioned above (bad Energy from track, needing G2, card economy), [[Flash-fires]] should only be played if really needed, because it's a terrible card: weak effect (particularly if not thresholded), high cost, bad elements (no {{p}}). All low-cost Majors have much better effects. 
+
 Card economy is less important when going the Majors route because reclaiming allows you to re-play the Major, but should still be kept in mind.
 
 ## Presence tracks
