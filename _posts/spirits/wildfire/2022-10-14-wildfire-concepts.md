@@ -31,6 +31,6 @@ It's hard to access blighted lands once 2{{f}} are unlocked, as you'll either ha
 For Minors, element priorities are {{f}}{{p}} > {{p}} > {{f}}. 
 
 A Power that only grants {{p}} is better than one that only grants {{f}} because getting to 3{{p}} doubles the effectiveness of 
-all {{f}} you have. For example, assuming 2{{f}} from presence tracks are unlocked, playing Powers for 3{{f}}1{{p}} (totalling 5{{f}}{{1p}}) gives 2 damage for [[Firestorm]], while playing 1{{f}}3{{p}} gives 3 damage.
+all {{f}} you have. For example, assuming 2{{f}} from presence tracks are unlocked, playing Powers for 3{{f}}1{{p}} (totalling 5{{f}}1{{p}}) gives 2 damage for [[Firestorm]], while playing 1{{f}}3{{p}} gives 3 damage.
 
 Blight management is extremely useful on Wildfire, and Powers that help that should likely be drafted over Powers with better elements (many such Powers even give {{p}}, which is great). For example, getting a Power like [Entrap the forces of corruption](https://sick.oberien.de/?query=Entrap) can make the game a lot easier. Defend effects are also very good, since Wildfire can move Dahan with [[Blazing presence]], and with [[Asphyxiating smoke]].

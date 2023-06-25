@@ -18,18 +18,18 @@ confidence: medium
 
 #### Turn 1
 
-![](/assets/images/Thunderspeaker0-1.png)
+(((0-1)))
 
 G3 bottom. 
 
 Play 2. 
 - [[Sudden ambush]] and [[Manifestation]] is often good against BP as you'll still have a target for next turn's [[Words of warning]].
-- [[Manifestation]] and [[Voice of thunder]] is another option if [[Sudden ambush]] doesn't solve a land, and will unlock level 2 of [[Lead the furious assault]]]. 
+- [[Manifestation]] and [[Voice of thunder]] is another option if [[Sudden ambush]] doesn't solve a land, and will unlock level 2 of [[Lead the furious assault]]. 
 - [[Voice of thunder]] and [[Sudden ambush]] is generally worse, but it is an option if there is no good target for [[Manifestation]] due to awkward Dahan starting locations, and allows to unlock level 2 of the right Innate in the next turn.
 
 #### Turn 2
 
-![](/assets/images/Thunderspeaker2-1.png)
+(((2-1)))
 
 G2 top.
 
@@ -37,7 +37,7 @@ Play [[Words of Warning]] and the remaining card.
 
 #### Turn 3
 
-![](/assets/images/Thunderspeaker2-1.png)
+(((2-1)))
 
 Reclaim, gain 2 Minors.
 
@@ -45,7 +45,7 @@ Play 2.
 
 #### Turn 4
 
-![](/assets/images/Thunderspeaker2-2.png)
+(((2-2)))
 
 G3 bottom.
 
@@ -53,7 +53,7 @@ Play 2.
 
 #### Turn 5
 
-![](/assets/images/Thunderspeaker2-4.png)
+(((2-4)))
 
 G2 bottom.
 
@@ -61,7 +61,7 @@ Play 3.
 
 #### Turn 6
 
-![](/assets/images/Thunderspeaker2-4.png)
+(((2-4)))
 
 Reclaim, gain 2 Minors.
 
@@ -69,7 +69,7 @@ Play 3.
 
 #### Turn 7
 
-![](/assets/images/Thunderspeaker4-4.png)
+(((4-4)))
 
 G2 top.
 
@@ -83,7 +83,7 @@ Play 3.
 ### Stats
 
 
-Turn | Growth | Owned cards | Cards in hand | CE | Track elements and CP
+Turn | Growth | Owned cards | Cards in hand | CE | Ele+CP
 :--: | :--: | :--: | :--: | :--: | :--:
 1 | 3 |   4   |  4  |  5 | 2
 2 | 2 |   4   |  2  |  7 | {{a}}2
@@ -99,10 +99,10 @@ Turn | Growth | Owned cards | Cards in hand | CE | Track elements and CP
 Pros:
 - Strong turn 1.
 - Good Energy while still placing double presence often.
-- 4 Air unlock on turn 5.
+- 4 {{a}} unlock on turn 5.
 
 Cons:
-- 4 Sun only unlocked on turn 7.
+- 4 {{s}} only unlocked on turn 7.
 
 
 
@@ -114,7 +114,7 @@ Cons:
 
 #### Turn 1
 
-![](/assets/images/Thunderspeaker0-1.png)
+(((0-1)))
 
 G3 bottom. 
 
@@ -122,7 +122,7 @@ Play 2 (see above).
 
 #### Turn 2
 
-![](/assets/images/Thunderspeaker0-2.png)
+(((0-2)))
 
 G3 bottom.
 
@@ -131,7 +131,7 @@ Play [[Words of Warning]] and the remaining card.
 
 #### Turn 3
 
-![](/assets/images/Thunderspeaker0-2.png)
+(((0-2)))
 
 Reclaim, gain 2 Minors.
 
@@ -139,7 +139,7 @@ Play 2.
 
 #### Turn 4
 
-![](/assets/images/Thunderspeaker0-4.png)
+(((0-4)))
 
 G2 bottom.
 
@@ -147,7 +147,7 @@ Play 3.
 
 #### Turn 5
 
-![](/assets/images/Thunderspeaker0-5.png)
+(((0-5)))
 
 G3 bottom.
 
@@ -155,7 +155,7 @@ Play 3.
 
 #### Turn 6
 
-![](/assets/images/Thunderspeaker0-5.png)
+(((0-5)))
 
 Reclaim, gain 2 Minors.
 
@@ -163,7 +163,7 @@ Play 3.
 
 #### Turn 7
 
-![](/assets/images/Thunderspeaker0-6.png)
+(((0-6)))
 
 G3 bottom.
 
@@ -173,7 +173,7 @@ Play 4.
 ### Stats
 
 
-Turn | Growth | Owned cards | Cards in hand | CE | Track elements and CP
+Turn | Growth | Owned cards | Cards in hand | CE | Ele+CP
 :--: | :--: | :--: | :--: | :--: | :--:
 1 | 3 |   4   |  4  |  5 | 2
 2 | 3 |   4   |  2  | 10 | 2
@@ -192,7 +192,7 @@ Pros:
 Cons:
 - Dependant on G3 for Energy, thus being limited in presence placement for both number and range.
 - No elements on presence track makes it harder to activate your Innates.
-- 4 Air and 4 Sun power spikes come very late in the game.
+- 4 {{a}} and 4 {{s}} power spikes come very late in the game.
 
 
 
