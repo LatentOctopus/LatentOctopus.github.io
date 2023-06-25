@@ -4,6 +4,7 @@ title: "General concepts"
 category: guide
 tags: Wildfire
 ---
+{% include init.html %}
 
 ## Growth and card economy
 
