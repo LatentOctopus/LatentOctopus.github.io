@@ -3,6 +3,7 @@ layout: post
 title: "Openings: full bottom track"  
 category: guide  
 tags: River
+aspects: base, travel
 confidence: high
 ---
 {% include init.html %}
@@ -13,7 +14,7 @@ confidence: high
 {% include uniques.html spirit=spirit_tag %}
 
 
-## Full bottom track (Minors | Base, Travel)
+## Full bottom track (Minors)
 
 **Similar to [RedReVenge](https://youtube.com/channel/UCdVLtmFObyfW9-ADPXaSrSg)'s guide.**
 
@@ -67,13 +68,13 @@ If at any point you don't need to reclaim (this usually happens somewhere around
 
 #### Remarks
 
-You might be tempted to reclaim something else than [[River's bounty]], but that is a mistake most of the time. [[River's bounty]] is an excellent card (which is even better if you're playing Travel River), plus you need the Energy. One exception is in multiplayer if you receive any kind of Energy support, in which case you can consider reclaiming [[Boon of vigor]] to give back tons of Energy instead.
+You might be tempted to reclaim something else than [[River's bounty]], but that is a mistake most of the time. [[River's bounty]] is an excellent card (which is even better if you're playing Travel River), plus you need the Energy. In multiplayer you can consider reclaiming [[Boon of vigor]] instead to give a lot of Energy to your teammates, which is very valuable.
 
-On turn 5 an alternative is taking presence top+bottom to get to 2-4 instead of 1-5. This is generally a bad idea: you need to play your full starting hand for max-level [[Massive flooding]], and having only 4 CP means you have no room to play anything else. If you have had luck with your draws you might have found another {{s}}+{{w}} to replace [[Flash floods]], but even then you're still restricted in what cards you can play, and you'll accumulate a lot of Energy that you can't use. The only time you should consider going 2-4 is if you want to go for Majors on turn 6, which will however limit your ability to unlock level 3 of [[Massive flooding]] unless you are lucky with your card draws (you'd either need to find one of the [7 {{s}}+{{w}} Majors with cost <= 4](https://sick.oberien.de/?query=Type%3AMajor%2C%20elements%3ASun%2Cwater%2C%20cost%3A%3C%3D4), or [Cleansing floods](https://sick.oberien.de/?query=Cleansing) if you've found a 0-cost {{w}}+{{e}} Minor to replace [[Wash away]]).
+On turn 5 an alternative is taking presence top+bottom to get to 2-4 instead of 1-5. This is generally a bad idea: you need to play your full starting hand for max-level [[Massive flooding]], and having only 4 CP means you have no room to play anything else. If you have had luck with your draws you might have found another {{s}}{{w}} to replace [[Flash floods]], but even then you're still restricted in what cards you can play, and you'll accumulate a lot of Energy that you can't use. The only time you should consider going 2-4 is if you want to go for Majors on turn 6, which will however limit your ability to unlock level 3 of [[Massive flooding]] unless you are lucky with your card draws (you'd either need to find one of the [7 {{s}}{{w}} Majors with cost <= 4](https://sick.oberien.de/?query=Type%3AMajor%2C%20elements%3ASun%2Cwater%2C%20cost%3A%3C%3D4), or [Cleansing floods](https://sick.oberien.de/?query=Cleansing) if you've found a 0-cost {{w}}{{e}} Minor to replace [[Wash away]]).
 
 ### Stats
 
-Note that the Energy gained from [[Boon of vigor]] is _not_ included, so the table works for multiplayer games as well.
+Note that the Energy gained from [[Boon of vigor]] is _not_ included, so the table works for multiplayer games as well (where it's assumed you're playing it on your teammates).
 
 This table assumes playing 5 cards from turn 5 onwards, and forgetting from discard when gaining the Major.
 
@@ -99,5 +100,5 @@ Pros:
  - Consistent usage of max [[Massive flooding]] from turn 4 on while still allowing off-elements Minors thanks to 5 CP.
 
 Cons:
-- Tight on Energy in multiplayer.
+- Can be tight on Energy in multiplayer, especially if Events cause Energy loss.
 - Little presence placement past turn 4 requires careful planning on first turns.
