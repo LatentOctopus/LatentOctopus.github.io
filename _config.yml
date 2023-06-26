@@ -18,9 +18,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Spirit Island Guides
+title: Spirit Island Hub
 description: >- # this means to ignore newlines until "baseurl:"
-  Tips, strategies and openings for Spirit Island.
+  A hub for all content discussing Spirit Island.
 baseurl: ""
 url: "https://latentoctopus.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 domain: latentoctopus.github.io
