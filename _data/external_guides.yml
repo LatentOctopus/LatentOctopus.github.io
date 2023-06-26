@@ -1,8 +1,28 @@
+- author: Kalen Noreth
+  site: YouTube
+  type: channel
+  link: https://www.youtube.com/@kalennoreth
+
+- author: Spirit Island - Second Wave
+  site: Discord
+  type: guide channel
+  link: https://discord.com/channels/846580409050857493/958602652026036264
+
+- author: Penguyen
+  site: YouTube
+  type: channel
+  link: https://www.youtube.com/c/Penguyen
+
 - author: RedReVenge
   site: YouTube
   type: channel
   depth: advanced
   link: https://youtube.com/channel/UCdVLtmFObyfW9-ADPXaSrSg
+
+- author: Ryan Lackie 
+  site: YouTube
+  type: channel
+  link: https://www.youtube.com/@ryanlackie1129
 
 - author: Rei
   site: BGG
@@ -17,6 +37,14 @@
     - depth: advanced
       spirit: Vengeance
       link: https://boardgamegeek.com/thread/2709070/advanced-guide-vengeance-burning-plague
+
+- author: Sarusta
+  site: Google Docs
+  type: guides
+  items:
+    - depth: advanced
+      spirit: Downpour
+      link: https://docs.google.com/document/d/1rggttmXAr8BgWWf9RfS7csKmz9eAWopH271oU6FLBu4/mobilebasic
 
 - author: Jeremy Lennert
   site: BGG
@@ -99,5 +127,6 @@
     - depth: intermediate
       spirit: Wildfire
       link: https://boardgamegeek.com/thread/2313791/openings-heart-wildfire
- 
-  
+
+
+
