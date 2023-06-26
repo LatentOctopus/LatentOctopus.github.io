@@ -44,13 +44,13 @@ layout: default
     </ul>
   {% endfor %}
   
-  <!-- External Resources -->
+  <!-- External Guides -->
   <h1 class="post-content">Other guides</h1>
 
-  {% assign resources = site.data.resources | sort: "author" %}
+  {% assign external_guides = site.data.external_guides | sort: "author" %}
 
   <ul>  <!-- Channels -->
-    {% for entry in resources %}
+    {% for entry in external_guides %}
       {% unless entry.items %}
         <li><a href="{{entry.link}}">{{ entry.author }}'s {{entry.type}} on {{entry.site}}</a></li>
       {% endunless %}
@@ -58,7 +58,7 @@ layout: default
   </ul>
   
   <ul> <!-- Posts -->
-    {% for entry in resources %}
+    {% for entry in external_guides %}
       {% if entry.items %}
         <li>{{ entry.author }}'s {{entry.type}} on {{entry.site}}:</li>
         <ul>
@@ -70,7 +70,8 @@ layout: default
       {% endif %}
     {% endfor %}
   </ul>
-  
+
+  <!-- External Resources TODO -->
   
   <!-- Latest posts -->
   
