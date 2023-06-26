@@ -7,7 +7,7 @@ layout: default
 
 <div class="home">
   {%- if page.title -%}
-    <h1 class="page-heading">{{ page.title }}</h1>
+    <h1>{{ page.title }}</h1>
   {%- endif -%}
 
   {{ content }}
@@ -45,7 +45,8 @@ layout: default
   {% endfor %}
   
   <!-- External Guides -->
-  <h1 class="post-content">Other guides</h1>
+  <br/>
+  <h1>Other guides</h1>
 
   {%- assign external_guides = site.data.external_guides | sort: "author" -%}
 
@@ -72,7 +73,8 @@ layout: default
   </ul>
 
   <!-- External Resources TODO -->
-  <h1 class="post-content">External resources</h1>
+  <br/>
+  <h1>External resources</h1>
 
   {%- assign external_resources = site.data.external_resources | sort: "name" -%}
   
@@ -101,6 +103,7 @@ layout: default
   {% endif %}
 
   {%- if posts.size > 0 -%}
+    <br/>
     <h1>Latest posts</h1>
     {%- if page.list_title -%}
       <h2 class="post-list-heading">{{ page.list_title }}</h2>
@@ -108,7 +111,7 @@ layout: default
     <ul class="post-list">
       {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
       {%- for post in posts -%}
-          {% assign tag = post.tags[0] %}
+          {%- assign tag = post.tags[0] -%}
           <li>
               <span class="post-meta">{{ post.date | date: date_format }}</span>
               <a href="{{ post.url | relative_url }}">
