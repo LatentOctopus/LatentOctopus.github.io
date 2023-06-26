@@ -16,7 +16,6 @@
 - author: RedReVenge
   site: YouTube
   type: channel
-  depth: advanced
   link: https://youtube.com/channel/UCdVLtmFObyfW9-ADPXaSrSg
 
 - author: Ryan Lackie 
@@ -38,104 +37,76 @@
   site: BGG
   type: guides
   items:
-    - depth: advanced
-      spirit: Mist
+    - spirit: Mist
       link: https://boardgamegeek.com/thread/2722115/advanced-guide-shroud-silent-mist
-    - depth: advanced 
-      spirit: MM
+    - spirit: MM
       link: https://boardgamegeek.com/thread/2774198/advanced-guide-many-minds-move-one  
-    - depth: advanced
-      spirit: Vengeance
+    - spirit: Vengeance
       link: https://boardgamegeek.com/thread/2709070/advanced-guide-vengeance-burning-plague
 
 - author: Sarusta
   site: Google Docs
   type: guides
   items:
-    - depth: advanced
-      spirit: Downpour
+    - spirit: Downpour
       link: https://docs.google.com/document/d/1rggttmXAr8BgWWf9RfS7csKmz9eAWopH271oU6FLBu4/mobilebasic
 
 - author: Jeremy Lennert
   site: BGG
   type: guides
   items:
-    - depth: intermediate
-      spirit: Bringer
+    - spirit: Bringer
       link: https://boardgamegeek.com/thread/1971193/openings-bringer-dreams-and-nightmares
-    - depth: intermediate
-      spirit: Earth
+    - spirit: Earth
       link: https://boardgamegeek.com/thread/1974592/openings-vital-strength-earth  
-    - depth: intermediate
-      spirit: Fangs
+    - spirit: Fangs
       link: https://boardgamegeek.com/thread/1978097/openings-sharp-fangs-behind-leaves
-    - depth: intermediate
-      spirit: Green
+    - spirit: Green
       link: https://boardgamegeek.com/thread/1965751/openings-spread-rampant-green  
-    - depth: intermediate
-      spirit: Keeper
+    - spirit: Keeper
       link: https://boardgamegeek.com/thread/1978655/openings-keeper-forbidden-wilds  
-    - depth: intermediate
-      spirit: Lightning
+    - spirit: Lightning
       link: https://boardgamegeek.com/thread/1969985/openings-lightnings-swift-strike  
-    - depth: intermediate
-      spirit: Ocean
+    - spirit: Ocean
       link: https://boardgamegeek.com/thread/1970506/openings-oceans-hungry-grasp 
-    - depth: intermediate
-      spirit: River
+    - spirit: River
       link: https://boardgamegeek.com/thread/1967085/openings-river-surges-sunlight  
-    - depth: intermediate
-      spirit: Shadows
+    - spirit: Shadows
       link: https://boardgamegeek.com/thread/1971694/openings-shadows-flicker-flame  
-    - depth: intermediate
-      spirit: TS
+    - spirit: TS
       link: https://boardgamegeek.com/thread/1966212/openings-thunderspeaker
   
 - author: Jonah Yonker
   site: BGG
   type: guides
   items:
-    - depth: intermediate
-      spirit: Vengeance
+    - spirit: Vengeance
       link: https://boardgamegeek.com/thread/2484534/openings-vengeance-burning-plague
-    - depth: intermediate
-      spirit: Fractured
+    - spirit: Fractured
       link: https://boardgamegeek.com/thread/2486927/openings-fractured-days-split-sky  
-    - depth: intermediate
-      spirit: Mist
+    - spirit: Mist
       link: https://boardgamegeek.com/thread/2488254/openings-shroud-silent-mist  
-    - depth: intermediate
-      spirit: Downpour
+    - spirit: Downpour
       link: https://boardgamegeek.com/thread/2496834/openings-dowpour-drenches-world  
-    - depth: intermediate
-      spirit: Finder
+    - spirit: Finder
       link: https://boardgamegeek.com/thread/2493091/openings-finder-paths-unseen  
-    - depth: intermediate
-      spirit: MM
+    - spirit: MM
       link: https://boardgamegeek.com/thread/2502110/openings-many-minds-move-one  
-    - depth: intermediate
-      spirit: Trickster
+    - spirit: Trickster
       link: https://boardgamegeek.com/thread/2502216/openings-grinning-trickster-stirs-trouble  
-    - depth: intermediate
-      spirit: Memory
+    - spirit: Memory
       link: https://boardgamegeek.com/thread/2506389/openings-shifting-memory-ages
-    - depth: intermediate
-      spirit: Volcano
+    - spirit: Volcano
       link: https://boardgamegeek.com/thread/2508259/openings-volcano-looming-high
-    - depth: intermediate
-      spirit: Lure
+    - spirit: Lure
       link: https://boardgamegeek.com/thread/2510069/openings-lure-deep-wilderness
-    - depth: intermediate
-      spirit: Stone
+    - spirit: Stone
       link: https://boardgamegeek.com/thread/2512536/openings-stones-unyielding-defiance
-    - depth: intermediate
-      spirit: Starlight
+    - spirit: Starlight
       link: https://boardgamegeek.com/thread/2518429/openings-starlight-seeks-its-form
-    - depth: intermediate 
-      spirit: Serpent
+    - spirit: Serpent
       link: https://boardgamegeek.com/thread/2282835/openings-serpent-slumbering-beneath-island
-    - depth: intermediate
-      spirit: Wildfire
+    - spirit: Wildfire
       link: https://boardgamegeek.com/thread/2313791/openings-heart-wildfire
 
 
