@@ -47,7 +47,7 @@ The columns of these table are:
 * **Growth(s)**: the growth option that is typically selected.
 * **Owned cards**: the total number of cards owned by the player, including the discard, _after_ all cards gained during growth. A number in **bold** denotes a Major gain.
 * **Cards in hand**: the number cards available to play, _after_ gaining and reclaiming. Note that, unless otherwise specified in the opening, this assumes that all card plays are used on the previous turn.
-* **CE (Cumulative energy)**: the total amount of energy gained so far in the game _via growth_, i.e. escluding gains from other sources like Powers, unless otherwise specified.
+* **CE (Cumulative energy)**: the total amount of energy gained so far in the game _via growth_, i.e. escluding gains from other sources like Powers, unless otherwise specified. Note that this _includes_ costs for Growth options (e.g. Fangs' G1), but not for other Spirit phase effects (e.g. MM's "Pay 2 to gain a Power).
     * _Why do you not report the energy available on that turn?_ Because that depends on gained cards cost and order of play, thus being too variable to reliably report.
 * **Ele+CP (Elements and Card Plays)**: the elements that are unlocked *during the Spirit phase* (e.g. on Presence tracks or via Growth, but not via played Powers), followed by the Card Plays available that turn. These two things combined give a rough idea of which Innate thresholds can be unlocked on a given turn.
 
