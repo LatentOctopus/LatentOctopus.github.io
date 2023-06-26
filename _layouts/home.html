@@ -43,19 +43,18 @@ layout: default
     {% endfor %}
     </ul>
   {% endfor %}
+
   
   <!-- External Guides -->
   <br/>
   <h1>Other guides</h1>
-
   {%- assign external_guides = site.data.external_guides | sort: "author" -%}
-
   <ul>  <!-- Channels -->
-    {% for entry in external_guides %}
-      {% unless entry.items %}
+    {%- for entry in external_guides -%}
+      {%- unless entry.items -%}
         <li><a href="{{entry.link}}">{{ entry.author }}'s {{entry.type}} on {{entry.site}}</a></li>
-      {% endunless %}
-    {% endfor %}
+      {%- endunless -%}
+    {%- endfor -%}
   </ul>
   
   <ul> <!-- Posts -->
@@ -72,18 +71,17 @@ layout: default
     {% endfor %}
   </ul>
 
-  <!-- External Resources TODO -->
+  
+  <!-- External Resources -->
   <br/>
   <h1>External resources</h1>
-
-  {%- assign external_resources = site.data.external_resources | sort: "name" -%}
-  
+  {%- assign external_resources = site.data.external_resources | sort: "name" -%} 
   <ul>  <!-- Official -->
-    {% for entry in external_resources %}
-      {% if entry.official %}
+    {%- for entry in external_resources -%}
+      {%- if entry.official -%}
         <li><a href="{{entry.link}}">[Official] {{ entry.name }}</a></li>
-      {% endif %}
-    {% endfor %}
+      {%- endif -%}
+    {%- endfor -%}
   </ul>
   
   <ul>  <!-- Unofficial -->
