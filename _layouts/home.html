@@ -46,9 +46,19 @@ layout: default
   
   <!-- External Resources -->
   <h1 class="post-content">Other guides</h1>
+
+  {% assign resources = site.data.resources | sort: "author" %}
+
+  <ul>  <!-- Channels -->
+    {% for entry in resources %}
+      {% unless entry.items %}
+        <li><a href="{{entry.link}}">{{ entry.author }}'s {{entry.type}} on {{entry.site}}</a></li>
+      {% endunless %}
+    {% endfor %}
+  </ul>
   
-  <ul>
-    {% for entry in site.data.resources %}
+  <ul> <!-- Posts -->
+    {% for entry in resources %}
       {% if entry.items %}
         <li>{{ entry.author }}'s {{entry.type}} on {{entry.site}}:</li>
         <ul>
@@ -57,8 +67,6 @@ layout: default
             <li><a href="{{ item.link }}">{{site.data.icons.spirits[item.spirit].small}}{{ spirit_name }}</a></li>
           {% endfor %}
         </ul>
-      {% else %}
-        <li><a href="{{entry.link}}">{{ entry.author }}'s {{entry.type}} on {{entry.site}}</a></li>
       {% endif %}
     {% endfor %}
   </ul>
