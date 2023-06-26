@@ -36,7 +36,7 @@ Referring to Power cards gains: **Minor** (no Major, or only gain Majors late in
 
 I'll often report stats in an opening in a table like this:
 
-Turn | Growth | Owned cards | Cards in hand | CE | PE+CP
+Turn | Growth | Owned cards | Cards in hand | CE | Ele+CP
 :--: | :--: | :--: | :--: | :--: | :--:
 1 | 2 |   5   | 5 | 2 | {{p}}1
 2 | 3 |   5   | 3 | 6 | {{p}}{{n}}2
