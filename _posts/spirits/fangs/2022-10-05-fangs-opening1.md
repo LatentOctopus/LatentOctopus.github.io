@@ -134,16 +134,17 @@ Cons:
 
 1. G2 top; G3 Minor. Play the Minor/[[Terrifying chase]] and 1 more.
 2. G2 top; G3 Major (cost 2-5). Play 1 {{p}}{{n}} and 1 {{n}}.
-3. G2 top to to 2E; G4. Play the Major and 1 more.
-   - If the Major is not good, G3 with Minor could be selected instead, although this will make Energy tight on following turns.   
-5. Reclaim, gain Minor (or replace Major); G2 bottom. Play 1 {{p}}{{n}} and 1 {{n}}.
-6. G2 bottom to 3CP; G4 (or G3 Minor if Energy is not needed). Play the Major and 2 more.
+3. G2 top to to 2E; G4. Play the Major and 1 more.  
+4. Reclaim, gain Minor (or replace Major); G2 bottom. Play 1 {{p}}{{n}} and 1 {{n}}.
+5. G2 bottom to 3CP; G4 (or G3 Minor if Energy is not needed). Play the Major and 2 more.
    
 From turn 6 onwards, select growth as needed.
 
 ### Remarks
 
-When you gain the Major on turn 2, Forget from discard. The best options are usually either the the Minor gained on turn 1, or [[Terrifying chase]]. If the Major does not have {{n}}, this will make activating [[Ranging hunt]] on turn 3 impossible, but playing a Major should compensate for it.
+When you gain the Major on turn 2, Forget from discard. The best options are usually either the Minor gained on turn 1, or [[Terrifying chase]]. If the Major does not have {{n}}, this will make activating [[Ranging hunt]] on turn 3 impossible, but playing a Major should compensate for it.
+
+If the first Major is bad, consider Reclaiming on turn 3 to replace it sooner, rather than playing it.
 
 Optionally, presence can be taken from the top track until turn 5 to unlock 3 Energy (**"Full" top track**). This is generally not recommended, as it delays 3 CP until very late and the second {{n}} is not too useful; extra Energy can be gained using G4, if needed.
 
