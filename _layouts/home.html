@@ -13,7 +13,7 @@ layout: default
   {{ content }}
   
   <!-- Post links -->
-  <h1 class="post-content">My Guides</h1>
+  <h1 class="post-content">My notes/guides</h1>
 
   {% capture raw_names_with_tags %}
     {% for raw_tag in site.tags %}
@@ -47,7 +47,7 @@ layout: default
   <!-- External Guides -->
   <h1 class="post-content">Other guides</h1>
 
-  {% assign external_guides = site.data.external_guides | sort: "author" %}
+  {%- assign external_guides = site.data.external_guides | sort: "author" -%}
 
   <ul>  <!-- Channels -->
     {% for entry in external_guides %}
@@ -72,6 +72,25 @@ layout: default
   </ul>
 
   <!-- External Resources TODO -->
+  <h1 class="post-content">External resources</h1>
+
+  {%- assign external_resources = site.data.external_resources | sort: "name" -%}
+  
+  <ul>  <!-- Official -->
+    {% for entry in external_resources %}
+      {% if entry.official %}
+        <li><a href="{{entry.link}}">[Official] {{ entry.name }}</a></li>
+      {% endif %}
+    {% endfor %}
+  </ul>
+  
+  <ul>  <!-- Unofficial -->
+    {% for entry in external_resources %}
+      {% unless entry.official %}
+        <li><a href="{{entry.link}}">{{ entry.name }}</a></li>
+      {% endunless %}
+    {% endfor %}
+  </ul>
   
   <!-- Latest posts -->
   
