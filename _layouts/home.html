@@ -60,11 +60,23 @@ layout: default
   <ul> <!-- Posts -->
     {% for entry in external_guides %}
       {% if entry.items %}
+    
+        {% capture raw_names_with_tags_and_links %}
+          {% for item in  entry.items %}
+            {% assign tag = item.spirit %}
+            {{site.data.abbreviations[tag].name}}:{{tag}}:{{item.link}};
+          {% endfor %}
+        {% endcapture %}
+        {% assign names_with_tags_and_links = raw_names_with_tags_and_links | split:';' | sort %}
+
         <li>{{ entry.author }}'s {{entry.type}} on {{entry.site}}:</li>
         <ul>
-          {% for item in entry.items %}
-            {% assign spirit_name = site.data.abbreviations[item.spirit].name %}
-            <li><a href="{{ item.link }}">{{site.data.icons.spirits[item.spirit].small}}{{ spirit_name }}</a></li>
+          {% for name_with_tag_and_link in names_with_tags_and_links %}
+            {% assign ntl = name_with_tag_and_link | split:':' %}
+            {% assign spirit_name = ntl[0] %}
+            {% assign spirit_tag = ntl[1] %}
+            {% assign link = ntl[2] %}
+            <li><a href="{{ link }}">{{site.data.icons.spirits[spirit_tag].small}}{{ spirit_name }}</a></li>
           {% endfor %}
         </ul>
       {% endif %}
