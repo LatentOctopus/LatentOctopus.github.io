@@ -72,11 +72,13 @@ layout: default
         <li>{{ entry.author }}'s {{entry.type}} on {{entry.site}}:</li>
         <ul>
           {% for name_with_tag_and_link in names_with_tags_and_links %}
-            {% assign ntl = name_with_tag_and_link | split:':' %}
-            {% assign spirit_name = ntl[0] %}
-            {% assign spirit_tag = ntl[1] %}
-            {% assign link = ntl[2] %}
-            <li><a href="{{ link }}">{{site.data.icons.spirits[spirit_tag].small}}{{ spirit_name }}</a></li>
+            {% if name_with_tag_and_link %}
+              {% assign ntl = name_with_tag_and_link | split:':' %}
+              {% assign spirit_name = ntl[0] %}
+              {% assign spirit_tag = ntl[1] %}
+              {% assign link = ntl[2] %}
+              <li><a href="{{ link }}">{{site.data.icons.spirits[spirit_tag].small}}{{ spirit_name }}</a></li>
+            {% endif %}
           {% endfor %}
         </ul>
       {% endif %}
