@@ -64,7 +64,7 @@ layout: default
         {% capture raw_names_with_tags_and_links %}
           {% for item in  entry.items %}
             {% assign tag = item.spirit %}
-            {{site.data.abbreviations[tag].name}}:{{tag}}:{{item.link}};
+            {{site.data.abbreviations[tag].name}}||{{tag}}||{{item.link}};
           {% endfor %}
         {% endcapture %}
         {% assign names_with_tags_and_links = raw_names_with_tags_and_links | strip | split:';' | sort %}
@@ -73,7 +73,7 @@ layout: default
         <ul>
           {% for name_with_tag_and_link in names_with_tags_and_links %}
             {% if name_with_tag_and_link | strip %}
-              {% assign ntl = name_with_tag_and_link | strip | split:':' %}
+              {% assign ntl = name_with_tag_and_link | strip | split:'||' %}
               {% assign spirit_name = ntl[0] %}
               {% assign spirit_tag = ntl[1] %}
               {% assign link = ntl[2] %}
