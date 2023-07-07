@@ -5,7 +5,7 @@ Downpour:
 Earth: 
   small: "<img src='/assets/images/earth-small.webp' width=20/>"
 Eyes: 
-  small: "<img src='/assets/images/eyes-small.jpg' width=20/>"
+  small: "<img src='/assets/images/eyes-small.webp' width=20/>"
 Fangs: 
   small: "<img src='/assets/images/fangs-small.webp' width=20/>"
 Finder: 
@@ -15,7 +15,7 @@ Fractured:
 Green: 
   small: "<img src='/assets/images/green-small.webp' width=20/>"
 Heat: 
-  small: "<img src='/assets/images/heat-small.jpg' width=20/>"
+  small: "<img src='/assets/images/heat-small.webp' width=20/>"
 Keeper: 
   small: "<img src='/assets/images/keeper-small.webp' width=20/>"
 Lightning: 
@@ -29,7 +29,7 @@ Mist:
 MM: 
   small: "<img src='/assets/images/mm-small.webp' width=20/>"
 Mud: 
-  small: "<img src='/assets/images/mud-small.jpg' width=20/>"
+  small: "<img src='/assets/images/mud-small.webp' width=20/>"
 Ocean: 
   small: "<img src='/assets/images/ocean-small.webp' width=20/>"
 River: 
@@ -43,7 +43,7 @@ Starlight:
 Stone: 
   small: "<img src='/assets/images/stone-small.webp' width=20/>"
 Teeth: 
-  small: "<img src='/assets/images/teeth-small.jpg' width=20/>"
+  small: "<img src='/assets/images/teeth-small.webp' width=20/>"
 Trickster: 
   small: "<img src='/assets/images/trickster-small.webp' width=20/>"
 TS: 
@@ -53,6 +53,6 @@ Vengeance:
 Volcano: 
   small: "<img src='/assets/images/volcano-small.webp' width=20/>"
 Whirlwind: 
-  small: "<img src='/assets/images/whirlwind-small.jpg' width=20/>"
+  small: "<img src='/assets/images/whirlwind-small.webp' width=20/>"
 Wildfire: 
   small: "<img src='/assets/images/wildfire-small.webp' width=20/>"
