@@ -98,7 +98,7 @@ Pros:
 
 -   High card plays: 3 on turn 2, 5 on turn 5.
 -   Unlock reclaim 1 on turn 3.
-	-   This is very useful to either reclaim [[Too near the jungle]] as a 0-cost Plant+Animal to activate [[Ranging hunt]], or [[Prey on the builders]] against build-heavy adversaries such as England.
+	-   This is very useful to either reclaim [[Too near the jungle]] as a 0-cost {{p}}{{n} to activate [[Ranging hunt]], or [[Prey on the builders]] against build-heavy adversaries such as England.
 
 Cons:
 
