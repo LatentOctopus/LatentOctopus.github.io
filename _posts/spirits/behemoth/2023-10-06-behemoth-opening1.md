@@ -63,6 +63,8 @@ Play 3.
 
 #### Turn 6
 
+(((3-3)))
+
 G3 top, discard BEFORE gaining, then gain Major and forget from discard.
 
 Play 3.
@@ -80,4 +82,4 @@ Turn | Growths | Owned cards | Cards in hand | CE
 3 | 4 |   5   | 4/5 | 7
 4 | 2 |   5   | 2/3 | 9
 5 | 1 |   6   |   6   | 11
-6 | 3 |   7   |   3   | 17
+6 | 3 | **6** |   3   | 17
