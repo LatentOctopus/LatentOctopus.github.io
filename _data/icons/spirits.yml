@@ -1,7 +1,13 @@
+Behemoth: 
+  small: "<img src='/assets/images/behemoth-small.webp' width=20/>"
 Bringer: 
   small: "<img src='/assets/images/bringer-small.webp' width=20/>"
+Darkness: 
+  small: "<img src='/assets/images/darkness-small.webp' width=20/>"
 Downpour: 
   small: "<img src='/assets/images/downpour-small.webp' width=20/>"
+DUE: 
+  small: "<img src='/assets/images/due-small.webp' width=20/>"
 Earth: 
   small: "<img src='/assets/images/earth-small.webp' width=20/>"
 Eyes: 
@@ -16,6 +22,8 @@ Green:
   small: "<img src='/assets/images/green-small.webp' width=20/>"
 Heat: 
   small: "<img src='/assets/images/heat-small.webp' width=20/>"
+HV: 
+  small: "<img src='/assets/images/hv-small.webp' width=20/>"
 Keeper: 
   small: "<img src='/assets/images/keeper-small.webp' width=20/>"
 Lightning: 
@@ -34,6 +42,8 @@ Ocean:
   small: "<img src='/assets/images/ocean-small.webp' width=20/>"
 River: 
   small: "<img src='/assets/images/river-small.webp' width=20/>"
+Roots: 
+  small: "<img src='/assets/images/roots-small.webp' width=20/>"
 Serpent: 
   small: "<img src='/assets/images/serpent-small.webp' width=20/>"
 Shadows: 
@@ -42,6 +52,8 @@ Starlight:
   small: "<img src='/assets/images/starlight-small.webp' width=20/>"
 Stone: 
   small: "<img src='/assets/images/stone-small.webp' width=20/>"
+Sun: 
+  small: "<img src='/assets/images/sun-small.webp' width=20/>"
 Teeth: 
   small: "<img src='/assets/images/teeth-small.webp' width=20/>"
 Trickster: 
@@ -50,9 +62,13 @@ TS:
   small: "<img src='/assets/images/ts-small.webp' width=20/>"
 Vengeance: 
   small: "<img src='/assets/images/vengeance-small.webp' width=20/>"
+Voice: 
+  small: "<img src='/assets/images/voice-small.webp' width=20/>"
 Volcano: 
   small: "<img src='/assets/images/volcano-small.webp' width=20/>"
 Whirlwind: 
   small: "<img src='/assets/images/whirlwind-small.webp' width=20/>"
 Wildfire: 
   small: "<img src='/assets/images/wildfire-small.webp' width=20/>"
+Waters: 
+  small: "<img src='/assets/images/waters-small.webp' width=20/>"
