@@ -90,3 +90,86 @@ Turn | Growths | Owned cards | Cards in hand | CE
 4 | 2 |   5   | 2/3 | 9
 5 | 1 |   6   |   6   | 11
 6 | 3 | **6** |   3   | 17
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## WIP 1-CP-start hybrid (Major)
+
+### Growth
+
+#### Turn 1
+
+(((2-0)))
+
+#### Turn 2
+
+(((2-1)))
+
+G3 bottom. 
+
+#### Turn 3
+
+(((2-1)))
+
+G4, reclaiming and empowering your Incarna. 
+
+#### Turn 4
+
+(((2-3)))
+
+G2 bottom to 3 CP.
+
+
+#### Turn 5
+
+(((2-3)))
+
+Reclaim.
+
+#### Turn 6
+
+(((3-3)))
+
+
+### Remarks
+
+
+### Stats
+
+Turn | Growths | Owned cards | Cards in hand | CE
+:--: | :--: | :--: | :--: | :--: 
+1 | 2 |   4   |   4   | 2
+2 | 3 | **4** |   3   | 7
+3 | 4 |   4   |  3/4  | 9
+4 | 2 |   4   |  2/3  | 11
+5 | 1 |   5   |   5   | 13
+6 | 3 | **5** |   3   | 19
+
