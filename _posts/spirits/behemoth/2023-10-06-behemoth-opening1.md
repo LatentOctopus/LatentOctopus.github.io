@@ -25,9 +25,16 @@ confidence: low
 
 (((0-1)))
 
-G3 bottom, gain Minor. If you gained a 1-cost, make sure to keep [[Grasping roots]], or you won't be able to play to max CP. [[Blazing intimidation]] is usually the best option to discard.
+G3 bottom, gain Minor. If you gained a 1-cost, make sure to keep [[Grasping roots]] in hand, or you won't be able to play to max CP.
 
-Play 2 with 2{{f}}{{e}} to unlock [[Smash, stomp, and flatten]]. It's recommended to play [[Surging lahar]] if possible, as having Badlands down early helps a lot with damage.
+Play 2 with 2{{f}}1{{e}} to unlock [[Smash, stomp, and flatten]]. If you only consider your Uniques, since [[Terrifying rampage]] is useless on turn 1 and you don't have 4 Energy, you have two options:
+
+1. [[Surging lahar]] and [[Grasping roots]]
+2. [[Blazing intimidation]] and [[Grasping roots]]
+
+Option 1, if you have good targets for [[Surging lahar]], is generally superior, as having Badlands down early helps a lot with damage in later turns.
+
+If the Minor you gained has {{f}}, it can replace any of the above. If you keep a {{f}}{{p}} in hand, such as [[Grasping roots]], you will be able to unlock level 2 of your Innate next turn.
 
 #### Turn 2
 
@@ -35,7 +42,7 @@ Play 2 with 2{{f}}{{e}} to unlock [[Smash, stomp, and flatten]]. It's recommende
 
 G2 top. 
 
-Play 2. Depending on your draws and plays, you might be able to unlock the second level of your innate, but you should always be able to unlock the first level.
+Play 2. Depending on your draws and plays, you might be able to unlock the second level of your Innate, but you should always be able to unlock the first level.
 
 #### Turn 3
 
@@ -51,7 +58,7 @@ Play 2.
 
 G2 bottom to 3 CP.
 
-Play 3.
+Play 2 or 3 (if you have not found a card with {{f}}, you won't have 3 cards to play, but it's still worth getting to 3 CP to play 3 cards next turn.
 
 #### Turn 5
 
@@ -65,7 +72,7 @@ Play 3.
 
 (((3-3)))
 
-G3 top, discard BEFORE gaining, then gain Major and forget from discard.
+G3 top gain Major and forget from discard. If you are planning on forgetting a card with {{f}} from your hand, discard that card BEFORE gaining the Major.
 
 Play 3.
 
