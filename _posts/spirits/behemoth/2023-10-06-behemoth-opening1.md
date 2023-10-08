@@ -80,7 +80,7 @@ Play 3.
 
 If keeping [[Blazing intimidation]] on turn 1, or if having found a 1-cost Minor on turn 1, Energy might be tight later on, and you might need to swap turn 4 and turn 6 to unlock 3 Energy/turn on turn 4 and 3 CP on turn 6.
 
-
+Swapping the growths of first two turns is also an option. Turn 1 will be slightly weaker (but still good, since you unlock your level 1 Innate), but the extra Energy will make the mid game easier.
 
 ### Stats
 
