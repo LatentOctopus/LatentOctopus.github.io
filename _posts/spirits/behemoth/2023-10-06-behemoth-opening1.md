@@ -58,7 +58,7 @@ Play 2.
 
 G2 bottom to 3 CP.
 
-Play 2 or 3 (if you have not found a card with {{f}}, you won't have 3 cards to play, but it's still worth getting to 3 CP to play 3 cards next turn.
+Play 2 or 3 (if you have not found a card with {{f}}, you won't have 3 cards to play, but it's still worth getting to 3 CP to play 3 cards next turn).
 
 #### Turn 5
 
