@@ -3,7 +3,7 @@ layout: post
 title: "Openings: hybrid"  
 category: guide  
 tags: Behemoth
-confidence: low
+confidence: medium
 ---
 {% include init.html %}
 
