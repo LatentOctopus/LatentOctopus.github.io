@@ -64,7 +64,7 @@ Play 2 or 3 (if you have not found a card with {{f}}, you won't have 3 cards to 
 
 (((2-3)))
 
-Reclaim, gain Minor.
+Reclaim, gain Major or Minor.
 
 Play 3.
 
@@ -72,13 +72,15 @@ Play 3.
 
 (((3-3)))
 
-G3 top gain Major and forget from discard. If you are planning on forgetting a card with {{f}} from your hand, discard that card BEFORE gaining the Major.
+G3 top, gain Major or Minor (whichever you didn't in the previous turn). If you gain a Major forget from discard, and if you are planning on forgetting a card with {{f}} from your hand, discard that card BEFORE gaining the Major, so that you still have 3 cards left in your hand.
 
 Play 3.
 
 ### Remarks
 
-If keeping [[Blazing intimidation]] on turn 1, energy might be tight later on, and you might need to swap turn 4 and turn 6 to unlock 3 Energy/turn on turn 4 and 3 CP on turn 6.
+If keeping [[Blazing intimidation]] on turn 1, or if having found a 1-cost Minor on turn 1, Energy might be tight later on, and you might need to swap turn 4 and turn 6 to unlock 3 Energy/turn on turn 4 and 3 CP on turn 6.
+
+
 
 ### Stats
 
@@ -86,10 +88,10 @@ Turn | Growths | Owned cards | Cards in hand | CE
 :--: | :--: | :--: | :--: | :--: 
 1 | 3 |   5   |   4   | 3
 2 | 2 |   5   |   2   | 5
-3 | 4 |   5   | 4/5 | 7
-4 | 2 |   5   | 2/3 | 9
-5 | 1 |   6   |   6   | 11
-6 | 3 | **6** |   3   | 17
+3 | 4 |   5   |  4/5  | 7
+4 | 2 |   5   |  2/3  | 9
+5 | 1 | **6** |   6   | 11
+6 | 3 |   6   |   3   | 17
 
 
 
