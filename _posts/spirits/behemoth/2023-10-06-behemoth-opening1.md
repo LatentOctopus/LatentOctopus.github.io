@@ -17,7 +17,7 @@ confidence: low
 
 
 
-## 2-CP-start hybrid (Mixed)
+## Hybrid (Mixed)
 
 ### Growth
 
@@ -123,7 +123,7 @@ Turn | Growths | Owned cards | Cards in hand | CE
 
 
 
-## 1-CP-start hybrid (Majors)
+## Hybrid (Majors)
 
 ### Growth
 
