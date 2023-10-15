@@ -2,7 +2,8 @@
 layout: post  
 title: "Openings: bottom track"  
 category: guide  
-tags: Mist 
+tags: Mist
+aspects: Base, Stranded
 confidence: medium
 ---
 {% include init.html %}
