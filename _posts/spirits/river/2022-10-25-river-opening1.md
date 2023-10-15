@@ -3,7 +3,7 @@ layout: post
 title: "Openings: full bottom track"  
 category: guide  
 tags: River
-aspects: base, travel
+aspects: Base, Travel
 confidence: high
 ---
 {% include init.html %}
