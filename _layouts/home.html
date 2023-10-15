@@ -34,11 +34,16 @@ layout: default
     {% for post in sorted_posts %}
       {% if post.categories contains "guide" and post.tags contains tag %}
         {% if post.confidence %}
-          {% assign conf_str = confidence[post.confidence] | append: ' ' %}
+          {% assign conf = confidence[post.confidence] | append: ' ' %}
         {% else %}
-          {% assign conf_str = '' %}
+          {% assign conf = '' %}
         {% endif %}
-        <li><a href="{{ post.url }}">{{conf_str}}{{post.title}}</a></li>
+        {% if post.aspects %}
+          {% assign aspects_str = '[' | append: post.aspects] | append: '] ' %}
+        {% else %}
+          {% assign aspects_str = '' %}
+        {% endif %}
+        <li><a href="{{ post.url }}">{{conf}}{{aspects_str}}{{post.title}}</a></li>
       {% endif %}
     {% endfor %}
     </ul>
