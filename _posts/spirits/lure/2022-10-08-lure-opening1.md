@@ -2,7 +2,8 @@
 layout: post  
 title: "Openings: full bottom track"  
 category: guide  
-tags: Lure 
+tags: Lure
+aspects: Base
 confidence: medium
 ---
 {% include init.html %}
