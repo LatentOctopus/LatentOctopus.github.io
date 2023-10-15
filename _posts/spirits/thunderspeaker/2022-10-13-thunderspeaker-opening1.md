@@ -1,6 +1,6 @@
 ---  
 layout: post  
-title: "Openings: Hybrid (Minor Powers)"  
+title: "Opening: Hybrid (Minor Powers)"  
 category: guide  
 tags: TS
 aspects: Base

@@ -1,6 +1,6 @@
 ---  
 layout: post  
-title: "Openings: Full bottom track (Minor or Mixed Powers)"  
+title: "Opening: Full bottom track (Minor or Mixed Powers)"  
 category: guide  
 tags: Wildfire
 aspects: Base

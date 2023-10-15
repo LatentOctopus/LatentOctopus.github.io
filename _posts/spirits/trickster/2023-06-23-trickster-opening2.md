@@ -1,6 +1,6 @@
 ---  
 layout: post  
-title: "Openings: Bottom track (Minor Powers)"  
+title: "Opening: Bottom track (Minor Powers)"  
 category: guide  
 tags: Trickster 
 confidence: medium
