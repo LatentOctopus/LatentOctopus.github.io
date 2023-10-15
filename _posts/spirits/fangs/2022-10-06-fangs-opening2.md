@@ -1,6 +1,6 @@
 ---  
 layout: post  
-title: "Openings: full bottom track"  
+title: "Opening: Full bottom track (Minor Powers)"  
 category: guide  
 tags: Fangs
 aspects: Base
@@ -13,7 +13,7 @@ confidence: medium
 {% assign spirit_tag = page.tags[0] %}
 {% include uniques.html spirit=spirit_tag %}
 
-## Full bottom track (Minors)
+## Opening
 
 ### Growth
 
@@ -109,7 +109,7 @@ Cons:
 are too expensive and/or don't have good enough elements, leaving little to no room for flexibility in the reclaim choice.
 
 
-## Variant: reclaim-heavy full bottom track (Minors)
+## Variant: reclaim-heavy full bottom track (Minor Powers)
 
 The idea is to reclaim your Uniques early to unlock [[Ranging hunt]] every single turn (except maybe turn 4 in case of exceptionally bad luck, i.e. no {{p}} found in 2 draws).
 

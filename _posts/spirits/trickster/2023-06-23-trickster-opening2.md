@@ -1,6 +1,6 @@
 ---  
 layout: post  
-title: "Openings: bottom track"  
+title: "Openings: Bottom track (Minor Powers)"  
 category: guide  
 tags: Trickster 
 confidence: medium
@@ -15,7 +15,7 @@ confidence: medium
 {% include uniques.html spirit=spirit_tag %}
 
 
-## Bottom track (Minors)
+## Opening
 
 ### Growth
 

@@ -1,6 +1,6 @@
 ---  
 layout: post  
-title: "Openings: bottom track hybrid"  
+title: "Opening: Bottom track hybrid (Minor Powers)"  
 category: guide  
 tags: Downpour
 confidence: high
@@ -14,7 +14,7 @@ Note: the openings described below will cover more turns than usual, going as fa
 {% assign spirit_tag = page.tags[0] %}
 {% include uniques.html spirit=spirit_tag %}
 
-## Bottom track hybrid (Minors)
+## Opening
 
 The idea is to unlock 2 CP as soon as possible and then going top track while taking frequent G2s to have as much Energy and {{w}} as possible to repeat your Powers.
 
@@ -135,7 +135,7 @@ Cons:
 - Cannot consistently repeat Majors until very late.
 
 
-## Variant: 3CP bottom track hybrid (Minors)
+## Variant: 3CP bottom track hybrid (Minor Powers)
 
 This variant aims at unlocking 3CP before going deep in the top track. It follows the above until turn 5:
 

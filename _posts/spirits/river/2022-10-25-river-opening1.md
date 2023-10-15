@@ -1,6 +1,6 @@
 ---  
 layout: post  
-title: "Openings: full bottom track"  
+title: "Opening: Full bottom track (Minor Powers)"  
 category: guide  
 tags: River
 aspects: Base, Travel
@@ -14,7 +14,7 @@ confidence: high
 {% include uniques.html spirit=spirit_tag %}
 
 
-## Full bottom track (Minors)
+## Opening
 
 **Similar to [RedReVenge](https://youtube.com/channel/UCdVLtmFObyfW9-ADPXaSrSg)'s guide.**
 

@@ -1,6 +1,6 @@
 ---  
 layout: post  
-title: "Openings: slow start"  
+title: "Opening: Top track (Minor or Mixed Powers)"  
 category: guide  
 tags: TS
 aspects: Base
@@ -8,14 +8,14 @@ confidence: medium
 ---
 {% include init.html %}
 
-These openings trade early game power for better scaling. This is typically useful against slower Adversaries, most notably England.
+This opening trade early game power for better scaling. This is typically useful against slower Adversaries, most notably England.
 
 ## Unique Powers reminder
 
 {% assign spirit_tag = page.tags[0] %}
 {% include uniques.html spirit=spirit_tag %}
 
-## Top track (Minors/Mixed)
+## Opening
 
 ### Growth
 

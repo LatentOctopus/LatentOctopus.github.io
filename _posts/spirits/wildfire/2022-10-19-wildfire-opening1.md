@@ -1,6 +1,6 @@
 ---  
 layout: post  
-title: "Openings: full bottom track"  
+title: "Openings: Full bottom track (Minor or Mixed Powers)"  
 category: guide  
 tags: Wildfire
 aspects: Base
@@ -8,7 +8,7 @@ confidence: high
 ---
 {% include init.html %}
 
-I recommend reading [Wildfire's general concepts](guides/2022-10-14-wildfire-concepts) before continuing here. Understanding Wildfire's peculiarities and limitations is extremely important to play the Spirit effectively -- even more so than other Spirits, as you are actively progressing the main loss condition (running out of blight) by simply putting Presence down.
+I recommend reading [Wildfire's general concepts](/guide/wildfire-concepts) before continuing here. Understanding Wildfire's peculiarities and limitations is extremely important to play the Spirit effectively -- even more so than other Spirits, as you are actively progressing the main loss condition (running out of blight) by simply putting Presence down.
 
 Wildfire's openings are very situational and harder to plan than most Spirit's: placing presence is effectively one of Wildfire's actions, so the sequence of card plays and Reclaim turns is much more impactful and subject to variation than with most other Spirits. It's hard to capture this flexibility in an opening, but keep in mind that other choices may be valid depending on the game state and Power draws (this is generally true, but even more so for Wildfire). Some suggestions are provided below, but you will have to go off the beaten path more often than usual.
 
@@ -19,7 +19,7 @@ Wildfire's openings are very situational and harder to plan than most Spirit's: 
 {% include uniques.html spirit=spirit_tag %}
 
 
-## Full bottom track (Minors/Mixed)
+## Opening
 
 ### Growth
 
@@ -153,69 +153,4 @@ Pros:
 Cons:
 - Late 2{{f}} unlock.
 - Low on blight means fewer targets for [[Firestorm]]
-
-
-## Early Major (Majors)
-
-### Growth
-
-#### Turn 1
-
-(((0-1)))
-
-G2 bottom, gain Major, forget [[Flash-fires]]. 
-
-Play [[Threatening flames]].
-
-#### Turn 2
-
-(((1-1)))
-
-G3 top.
-
-Play the Major or [[Asphyxiating smoke]].
-
-#### Turn 3
-
-(((1-2)))
-
-G2 bottom, gain Minor or replace Major.
-
-Play [[Flame's fury]] and possibly the remaining Power.
-
-#### Turn 4
-
-(((1-2)))
-
-Reclaim, gain Minor.
-
-Play 2.
-
-#### Turn 5
-
-(((1-3)))
-
-G3 bottom.
-
-Play 3.
-
-#### Remarks
-
-G3 can be used in turn 3 if playing the Major in turn 2/3 and planning on playing it in turn 4.
-
-
-### Stats
-
-Turn | Growth | Owned cards | Cards in hand | CE | Ele+CP
-:--: | :--: | :--: | :--: | :--: | :--:
-1 | 2 | **4** |  4  |  0 | {{f}}1
-2 | 3 |   4   |  3  |  4 | {{f}}{{f}}1
-3 | 2 |5/**4**|  2  |  4 | {{f}}{{f}}2
-4 | 1 |  6/5  | 6/5 |  5 | {{f}}{{f}}2
-5 | 3 |  6/5  | 4/3 |  9 | {{f}}{{f}}3
-
-
-### Pro and cons
-
-Mostly same as the bottom track opening above. Majors are a gamble as usual, but [[Flash-fires]] is very overcosted and replacing it early on gives time to plan around the Major.
 

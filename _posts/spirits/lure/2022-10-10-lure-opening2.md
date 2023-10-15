@@ -1,6 +1,6 @@
 ---  
 layout: post  
-title: "Openings: top track"  
+title: "Opening: Hybrid (Major Powers)"  
 category: guide  
 tags: Lure
 aspects: Base
@@ -13,7 +13,7 @@ confidence: low
 {% assign spirit_tag = page.tags[0] %}
 {% include uniques.html spirit=spirit_tag %}
 
-## Top track hybrid (Majors)
+## Opening
 
 General idea: gain an early Major and alternate playing it with playing [[Softly beckon ever inward]] every reclaim cycle.
 
