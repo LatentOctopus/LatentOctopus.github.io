@@ -15,12 +15,12 @@ layout: default
   <!-- Post links -->
   <h1>My notes/guides</h1>
 
-  {% capture raw_names_with_tags %}
-    {% for raw_tag in site.tags %}
-      {% assign tag = raw_tag[0] %}
-      {{site.data.abbreviations[tag].name}}@{{tag}};
-    {% endfor %}
-  {% endcapture %}
+  {%- capture raw_names_with_tags -%}
+    {%- for raw_tag in site.tags -%}
+      {%- assign tag = raw_tag[0] -%}
+      {{-site.data.abbreviations[tag].name}}@{{tag}};
+    {%- endfor -%}
+  {%- endcapture -%}
   {% assign names_with_tags = raw_names_with_tags | split:';' | sort %}
 
   {% assign sorted_posts = site.posts | sort: 'title' %}
@@ -39,7 +39,7 @@ layout: default
           {% assign conf = '' %}
         {% endif %}
         {% if post.aspects %}
-          {% assign aspects_str = '[' | append: post.aspects] | append: '] ' %}
+          {% assign aspects_str = '[' | append: post.aspects | append: '] ' %}
         {% else %}
           {% assign aspects_str = '' %}
         {% endif %}
@@ -66,19 +66,20 @@ layout: default
     {% for entry in external_guides %}
       {% if entry.items %}
     
-        {% capture raw_names_with_tags_and_links %}
-          {% for item in  entry.items %}
-            {% assign tag = item.spirit %}
-            {{site.data.abbreviations[tag].name}}||{{tag}}||{{item.link}};
-          {% endfor %}
-        {% endcapture %}
-        {% assign names_with_tags_and_links = raw_names_with_tags_and_links | strip | split:';' | sort %}
+        {%- capture raw_names_with_tags_and_links -%}
+          {%- for item in  entry.items -%}
+            {%- assign tag = item.spirit -%}
+            {{-site.data.abbreviations[tag].name}}||{{tag}}||{{item.link}};
+          {%- endfor -%}
+        {%- endcapture -%}
+        {% assign names_with_tags_and_links = raw_names_with_tags_and_links | split:';' | sort %}
 
         <li>{{ entry.author }}'s {{entry.type}} on {{entry.site}}:</li>
         <ul>
           {% for name_with_tag_and_link in names_with_tags_and_links %}
-            {% if name_with_tag_and_link | strip %}
-              {% assign ntl = name_with_tag_and_link | strip | split:'||' %}
+            {% assign name_with_tag_and_link = name_with_tag_and_link | strip %}
+            {% if name_with_tag_and_link %}
+              {% assign ntl = name_with_tag_and_link | split:'||' %}
               {% assign spirit_name = ntl[0] %}
               {% assign spirit_tag = ntl[1] %}
               {% assign link = ntl[2] %}
