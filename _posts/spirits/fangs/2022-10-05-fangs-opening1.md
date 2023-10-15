@@ -2,7 +2,8 @@
 layout: post  
 title: "Openings: top track hybrid"  
 category: guide  
-tags: Fangs  
+tags: Fangs
+aspects: Base
 confidence: high
 ---
 {% include init.html %}
