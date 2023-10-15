@@ -3,6 +3,7 @@ layout: post
 title: "Openings: fast start"  
 category: guide  
 tags: TS
+aspects: Base
 confidence: medium
 ---
 {%- include init.html -%}
