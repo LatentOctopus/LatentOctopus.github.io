@@ -124,8 +124,9 @@ Cons:
 
 
 
-## Variant: Slow start hybrid (Minors/Mixed)
+## Variant: Early 3CP (Minors/Mixed)
 
+This variant trades getting to 3 CP earlier for fewer unlocks of [[Lead the furious assault]] (skipping in on turn 2 and possibly turn 3 as well).
 
 #### Turn 1
 
@@ -167,29 +168,9 @@ G2 top.
 
 Play 3.
 
-#### Turn 6
+#### Turn 6+
 
-(((4-3)))
-
-Reclaim, gain 2 Minors.
-
-Play 3.
-
-#### Turn 7
-
-(((4-4)))
-
-G3 bottom.
-
-Play 3.
-
-#### Turn 8
-
-(((4-6)))
-
-G2 bottom.
-
-Play 4.
+Same as above.
 
 #### Remarks
 
@@ -204,20 +185,5 @@ Turn | Growth | Owned cards | Cards in hand | CE | Ele+CP
 3 | 2 |   4   |  2  | 10 | {{a}}3
 4 | 1 |   6   |  6  | 12 | {{a}}3
 5 | 2 |   6   |  3  | 14 | {{a}}{{f}}{{s}}3
-6 | 1 |   8   |  8  | 16 | {{a}}{{f}}{{s}}3
-7 | 3 |   8   |  6  | 22 | {{a}}{{f}}{{s}}3
-8 | 2 |   8   |  4  | 24 | {{a}}{{f}}{{s}}4
 
-
-### Pros and cons
-
-Pros:
-- Good Energy while still placing double presence often.
-- Earliest 3 CP.
-- 4 {{a}} unlock on turn 4.
-- 4 {{s}} unlock on turn 5.
-
-Cons:
-- Weakest turn 1 and 2.
-- Latest unlock of right Innate (turn 3 at the earliest if giving up left innate, else turn 4).
-
+Turn 6+ are the same as above.
