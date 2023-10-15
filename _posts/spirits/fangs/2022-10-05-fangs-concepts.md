@@ -3,6 +3,7 @@ layout: post
 title: "General Concepts"
 category: guide
 tags: Fangs
+aspects: Base
 ---
 {%- include init.html -%}
 
