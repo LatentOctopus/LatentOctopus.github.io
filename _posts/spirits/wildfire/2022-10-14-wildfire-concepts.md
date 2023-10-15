@@ -3,6 +3,7 @@ layout: post
 title: "General concepts"
 category: guide
 tags: Wildfire
+aspects: Base
 ---
 {% include init.html %}
 
