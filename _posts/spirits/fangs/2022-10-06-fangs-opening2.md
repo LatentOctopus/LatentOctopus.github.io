@@ -2,7 +2,8 @@
 layout: post  
 title: "Openings: full bottom track"  
 category: guide  
-tags: Fangs  
+tags: Fangs
+aspects: Base
 confidence: medium
 ---
 {% include init.html %}
