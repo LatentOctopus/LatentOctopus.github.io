@@ -3,6 +3,7 @@ layout: post
 title: "Openings: full bottom track"  
 category: guide  
 tags: Wildfire
+aspects: Base
 confidence: high
 ---
 {% include init.html %}
