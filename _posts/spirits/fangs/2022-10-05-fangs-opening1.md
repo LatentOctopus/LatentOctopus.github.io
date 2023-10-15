@@ -71,7 +71,7 @@ Be careful not to draft too many 1-cost Minors. This build can handle 1 or 2, bu
 
 [[Too near the jungle]] is probably the best candidate to Reclaim every turn from 5 on, as it provides great elements for [[Ranging hunt]] at cost 0.
 
-On turn 3, 2 energy/turn can be unlocked to pivot to a Mixed strategy (see below).
+On turn 3, 2 energy/turn can be unlocked to pivot to a [Mixed strategy](/guide/fangs-opening3/).
 
 ### Stats
 
@@ -96,7 +96,7 @@ Cons:
 
 
 
-## Variant: early-reclaim top track (Minor Powers)
+## Variant: Early-reclaim top track (Minor Powers)
 
 ### Growth
 
