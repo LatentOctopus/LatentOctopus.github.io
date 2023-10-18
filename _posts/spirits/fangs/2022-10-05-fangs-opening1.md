@@ -75,13 +75,13 @@ On turn 3, 2 energy/turn can be unlocked to pivot to a [Mixed strategy](/guide/f
 
 ### Stats
 
-Turn | Growths | Owned cards | Cards in hand | CE
-:--: | :--: | :--: | :--: | :--: 
-1 | 2, 3 |   5   | 5 | 2
-2 | 2, 3 |   6   | 4 | 4
-3 | 1, 2 |   7   | 7 | 4
-4 | 2, 4 |   7   | 5 | 8
-5 | 2, 4 |   7   | 3 | 12
+Turn | Growths | Owned cards | Cards in hand | CE | Ele+CP
+:--: | :--: | :--: | :--: | :--: | :--:
+1 | 2, 3 |   5   | 5 | 2 | {{n}}2
+2 | 2, 3 |   6   | 4 | 4 | {{p}}{{n}}2
+3 | 1, 2 |   7   | 7 | 4 | {{p}}{{n}}2
+4 | 2, 4 |   7   | 5 | 8 | {{p}}{{n}}3
+5 | 2, 4 |   7   | 3 | 12 | {{p}}{{n}}3
 
 ### Pros and cons
 
@@ -111,13 +111,13 @@ From turn 6 onwards, select growth as needed.
 
 ### Stats
 
-Turn | Growths | Owned cards | Cards in hand | CE
-:--: | :--: | :--: | :--: | :--: 
-1 | 2, 4 |   4   | 4 | 4
-2 | 1, 2 |   5   | 5 | 4
-3 | 2, 3 |   6   | 4 | 6
-4 | 1, 2 |   7   | 7 | 6
-5 | 2, 4 |   7   | 4 | 10
+Turn | Growths | Owned cards | Cards in hand | CE | Ele+CP
+:--: | :--: | :--: | :--: | :--: | :--:
+1 | 2, 4 |   4   | 4 | 4 | {{n}}2
+2 | 1, 2 |   5   | 5 | 4 | {{p}}{{n}}2
+3 | 2, 3 |   6   | 4 | 6 | {{p}}{{n}}2
+4 | 1, 2 |   7   | 7 | 6 | {{p}}{{n}}3
+5 | 2, 4 |   7   | 5 | 10 | {{p}}{{n}}3
 
 ### Pros and cons
 
