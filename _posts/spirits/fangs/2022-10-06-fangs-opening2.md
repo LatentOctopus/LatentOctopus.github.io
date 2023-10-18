@@ -83,15 +83,15 @@ taking G1+G4. In that case, turn 6 will be G2+G3 or G2+G4.
 
 ### Stats
 
-Turn | Growths | Owned cards | Cards in hand | CE
-:--: | :--: | :--: | :--: | :--: 
-1 | 2, 3 |   5   | 5 | 2
-2 | 2, 4 |   5   | 3 | 6
-3 | 1, 2 |   6   | 6 | 6
-4 | 2, 4 |   6   | 4 | 10
-5 | 1, 2 |   7   | 7 | 10
-6 | 3, 4 |   8   | 5 | 14
-7 | 1, 4 |   9   | 7 | 17
+Turn | Growths | Owned cards | Cards in hand | CE | Ele+CP
+:--: | :--: | :--: | :--: | :--: | :--:
+1 | 2, 3 |   5   | 5 | 2 | 2
+2 | 2, 4 |   5   | 3 | 6 | 3
+3 | 1, 2 |   6   | 6 | 6 | 3
+4 | 2, 4 |   6   | 4 | 10 | 4
+5 | 1, 2 |   7   | 7 | 10 | 5
+6 | 3, 4 |   8   | 5 | 14 | 5
+7 | 1, 4 |   9   | 7 | 17 | 5
 
 ### Pros and cons
 
@@ -125,15 +125,15 @@ The idea is to reclaim your Uniques early to unlock [[Ranging hunt]] every singl
 
 ### Stats
 
-Turn | Growths | Owned cards | Cards in hand | CE
-:--: | :--: | :--: | :--: | :--: 
-1 | 2, 4 |   4   | 4 | 4
-2 | 1, 2 |   5   | 5 | 4
-3 | 1, 2 |   6   | 6 | 4
-4 | 2, 4 |   6   | 4 | 8
-5 | 1, 2 |   7   | 7 | 8
-6 | 2, 4 |   7   | 5 | 12
-7 | 1, 4 |   8   | 8 | 15
+Turn | Growths | Owned cards | Cards in hand | CE | Ele+CP
+:--: | :--: | :--: | :--: | :--: | :--:
+1 | 2, 4 |   4   | 4 | 4 | {{n}}2
+2 | 1, 2 |   5   | 5 | 4 | {{n}}2
+3 | 1, 2 |   6   | 6 | 4 | {{n}}3
+4 | 2, 4 |   6   | 4 | 8 | {{n}}3
+5 | 1, 2 |   7   | 7 | 8 | {{n}}4
+6 | 2, 4 |   7   | 5 | 12 | {{n}}5
+7 | 1, 4 |   8   | 8 | 15 | {{n}}5
 
 ### Pros and cons
 
