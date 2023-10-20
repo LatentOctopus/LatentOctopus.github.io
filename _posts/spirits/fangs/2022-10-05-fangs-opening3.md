@@ -8,7 +8,16 @@ confidence: medium
 ---
 {% include init.html %}
 
-The idea of top track openings is to have less variance in unlocking [[Ranging hunt]]: from turn 2 onwards, only 1 {{p}} and 2 {{n}} are needed. This means that your starting hand alone is enough to activate the Innate for 2 turns without any reclaim.
+Use this opening if:
+
+- [[Ranging hunt]] is not going to be as effective, either because of Health increase or too much Blight on the island (for Base Fangs, at least).
+- You want to play Major Powers while still using [[Ranging hunt]] often and reaching 3 CP.
+  - Majors give Fangs an alternative way to deal with blighted lands (the other one being 
+drafting Minors with effects such as Dahan movement + Defend, or blight movement/removal), as with its starting hand Fangs can only deal with blighted lands via [[Terrifying chase]] if they don't have any City.
+
+Consider this opening especially against:
+
+- [Base] England, Sweden, Habsburg Livestock, Habsburg Mining.
 
 ## Unique Powers reminder
 
@@ -19,9 +28,6 @@ The idea of top track openings is to have less variance in unlocking [[Ranging h
 
 ## Opening
 
-Thanks to unlocking 2 Energy/turn, this opening allows Fangs to play Majors in the mid game.
-Majors give Fangs an alternative way to deal with blighted lands (the other one being 
-drafting Minors with effects such as Dahan movement + Defend, or blight movement/removal), as with its starting hand Fangs can only deal with blighted lands via [[Terrifying chase]] if they don't have any City.
 
 
 ### Growth
