@@ -12,9 +12,13 @@ Use this opening if:
 
 - You want to use [[Ranging hunt]] consistently, except for maybe one of the first two turns (there is a chance you can use in in both turns with the standard opening, and it is guaranteed with the variant).
   - From turn 2 onwards, you only need to play 1 {{p}} and 2 {{n}}, therefore your starting hand alone is enough to activate the Innate for 2 turns without any reclaim.
-- You want to gain many Powers early on, to maximise the chance to find useful ones (e.g. blight removal, defend, good elements, etc)
+- You want to gain many Powers early on, to maximise the chance to find useful ones (e.g. blight removal, defend, good elements, etc).
 - You want to be able to pivot to a Major strategy if need be.
 - You don't want to be forced to reclaim often.
+
+Consider this opening especially against:
+
+- [Base] BP, Sweden, France, Scotland, Russia.
 
 
 ## Unique Powers reminder
