@@ -8,6 +8,18 @@ confidence: medium
 ---
 {% include init.html %}
 
+Use this opening if:
+
+- You want to use [[Ranging hunt]] every turn.
+- You want to add as many Beasts early on as you can, to increase [[Ranging hunt]] damage and flexibility in the mid and late game.
+- Either [[Too near the jungle]] is enough to disrupt the Invader cycle, or you don't mind [[Ranging hunt]] being the only board-impacting Power you play in the first 3 turns.
+- You don't mind reclaiming often.
+
+Consider this opening especially against: 
+- [Base] BP, Scotland, Russia.
+- [Unconstrained] BP, Scotland, Habsburg-Livestock, Russia, Habsburg-Mining.
+
+
 ## Unique Powers reminder
 
 {% assign spirit_tag = page.tags[0] %}
@@ -45,7 +57,7 @@ Play [[Too near the jungle]] and either [[Teeth gleam]] or the Minor if it has {
 
 Reclaim, gain Minor, prioritise {{p}} if not found; G2 bottom.
 
-Play [[Too near the jungle]] and {{p}}+{{n}}.
+Play 3.
 
 
 #### Turn 4
@@ -54,7 +66,7 @@ Play [[Too near the jungle]] and {{p}}+{{n}}.
 
 G2 bottom; G4.
 
-Play [[Too near the jungle]] and and {{p}}+{{n}}.
+Play 3.
 
 #### Turn 5
 
@@ -80,7 +92,7 @@ From turn 7 on, growth is G4 + any other, according to needs (G2 should only be 
 
 ### Remarks
 
-
+You will most likely have to always reclaim [[Too near the jungle]], as it provides good elements and you have to be very mindful of Energy.
 
 ### Stats
 
@@ -98,17 +110,17 @@ Turn | Growths | Owned cards | Cards in hand | CE | Ele+CP
 
 Pros:
 
-- Strong turn 1.
+- Able to use [[Ranging hunt]] in all the first 3 turns.
 - Playing [[Teeth gleam]] in all the first 2-3 turns allows to scale better into the mid game, thanks to the higher number of Beasts on the island.
 
 Cons:
 
-- Even more energy-starved than the standard bottom track.
+- Very energy-starved.
   - On turn 5+ it's impossible to play to max CP if no 0-cost Minors have been found.
   - More susceptible to Events.
 - No flexibility in turn 1 card plays, and little to none in turn 2 and 3.
   - Harder to adapt to the board state.
   - The early game can be boring.
-- Little impact on the board in the first 3 turns outside of [[Ranging hunt]]
+- Possibly little impact on the board in the first 3 turns outside of [[Ranging hunt]]
   - [[Teeth gleam]] does not affect Invaders directly, and [[Too near the jungle]] does little in cases where it cannot prevent a build.
   
