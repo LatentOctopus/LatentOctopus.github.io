@@ -4,7 +4,7 @@ title: "Opening: Full bottom track (Minor Powers)"
 category: guide  
 tags: Fangs
 aspects: Base
-confidence: medium
+confidence: low
 ---
 {% include init.html %}
 
