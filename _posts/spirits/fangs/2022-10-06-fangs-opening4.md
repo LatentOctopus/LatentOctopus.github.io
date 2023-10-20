@@ -17,7 +17,7 @@ Use this opening if:
 
 Consider this opening especially against: 
 - [Base] BP, Scotland, Russia.
-- [Unconstrained] BP, Scotland, Habsburg-Livestock, Russia, Habsburg-Mining.
+- [Unconstrained] BP, Scotland, Habsburg Livestock, Russia, Habsburg Mining.
 
 
 ## Unique Powers reminder
