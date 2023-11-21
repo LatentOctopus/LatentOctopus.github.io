@@ -33,7 +33,7 @@ Play [[Gift of the untamed wild]] and [[Perils of the deepest island]]. Unlock l
 
 G2 top; G4 Major, prioritise cost <= 4 and with at least one of {{m}} or {{p}}, forget from discard ([[Perils of the deepest island]] is recommended if cost > 3).
 
-Play [[Softly beckon ever inward]] and [[Swallowed by the wilderness]]. Unlock left innate level 2.
+Play [[Softly beckon ever inward]] and [[Swallowed by the wilderness]].
 
 Optionally, if the Major is good and costs 2 or 3, it can be played instead of [[Softly beckon ever inward]].
 
