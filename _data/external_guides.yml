@@ -53,14 +53,7 @@
       link: https://boardgamegeek.com/thread/2774198/advanced-guide-many-minds-move-one  
     - spirit: Vengeance
       link: https://boardgamegeek.com/thread/2709070/advanced-guide-vengeance-burning-plague
-
-- author: Sarusta
-  site: Google Docs
-  type: guides
-  items:
-    - spirit: Downpour
-      link: https://docs.google.com/document/d/1rggttmXAr8BgWWf9RfS7csKmz9eAWopH271oU6FLBu4/mobilebasic
-
+      
 - author: Jeremy Lennert
   site: BGG
   type: guides
@@ -159,6 +152,8 @@
   site: Google Docs
   type: guides
   items:
+    - spirit: Downpour
+      link: https://docs.google.com/document/d/1rggttmXAr8BgWWf9RfS7csKmz9eAWopH271oU6FLBu4/mobilebasic
     - spirit: Darkness
       link: https://docs.google.com/document/u/0/d/1r2K_cjZ64vCszBI72bO0XYFnkyPLnPTuVYtrLPhidOc
 
