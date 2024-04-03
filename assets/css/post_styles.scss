@@ -1,6 +1,23 @@
 ---
 ---
 
+.spirit_board_div {
+  width: 600px;
+  position: relative;
+  display: flex;
+}
+
+.spirit_board_div .board {
+  width: 100%;
+}
+
+.spirit_board_div .presence {
+  position: absolute;
+  background-color: rgba(255, 255, 255, 0.0);
+  padding: 0px;
+}
+
+/* Legacy. Remove when converted all to div */
 .spirit_board_image {
   width: 600px;
 }

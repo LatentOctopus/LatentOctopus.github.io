@@ -1,7 +1,7 @@
 Behemoth: 
     name: Ember-Eyed Behemoth
     effects:
-        Grasping roots: Exaltation of grasping roots.png
+        Grasping roots: Exaltation of grasping roots
 Bringer: 
     name: Bringer of Dreams and Nightmares
 Darkness: 
@@ -11,9 +11,9 @@ DUE:
 Downpour:  
     name: Downpour Drenches the World
     effects:
-        Foundations sink: Foundations sink into mud.png
-        Dark skies: Dark skies loose a stinging rain.png
-        Pour down: Pour down power across the island.png 
+        Foundations sink: Foundations sink into mud
+        Dark skies: Dark skies loose a stinging rain
+        Pour down: Pour down power across the island
 Earth:  
     name: Vital Strength of the Earth
 Eyes:  
@@ -21,7 +21,7 @@ Eyes:
 Fangs:  
     name: Sharp Fangs Behind the Leaves
     effects:
-        Teeth gleam: Teeth gleam from darkness.jpg
+        Teeth gleam: Teeth gleam from darkness
 Finder:  
     name: Finder of Paths Unseen
 Fractured:  
@@ -39,9 +39,9 @@ Lightning:
 Lure:  
     name: Lure of the Deep Wilderness
     effects:
-        Softly beckon: Softly beckon ever inward.png
-        Perils: Perils of the deepest island.png
-        Forsake society: Forsake society to chase after dreams.png
+        Softly beckon: Softly beckon ever inward
+        Perils: Perils of the deepest island
+        Forsake society: Forsake society to chase after dreams
 Memory:  
     name: Shifting Memory of Ages
 Mist:  
@@ -74,7 +74,7 @@ Trickster:
 TS:  
     name: Thunderspeaker
     effects:
-        Manifestation: Manifestation of power and glory.jpg
+        Manifestation: Manifestation of power and glory
 Vengeance:  
     name: Vengeance as a Burning Plague
 Voice:  

@@ -10,7 +10,7 @@ confidence: high
 
 Use this opening if:
 
-- You want to use [[Ranging hunt]] consistently, except for maybe one of the first two turns (there is a chance you can use in in both turns with the standard opening, and it is guaranteed with the variant).
+- You want to use [[Ranging hunt]] consistently, except for maybe one of the first two turns (there is a chance you can use it in both turns with the standard opening, and it is guaranteed with the variant).
   - From turn 2 onwards, you only need to play 1 {{p}} and 2 {{n}}, therefore your starting hand alone is enough to activate the Innate for 2 turns without any reclaim.
 - You want to gain many Powers early on, to maximise the chance to find useful ones (e.g. blight removal, defend, good elements, etc).
 - You want to be able to pivot to a Major strategy if need be.
@@ -38,7 +38,7 @@ Consider this opening especially against:
 
 G2 top; G3 Minor.
 
-Play 2. You can play 2 {{p}}{{n}} to unlock the damage part of [[Ranging hunt]], but if you do you won't be able to do it in the next turn unless you have found or will find a {p}}{{n}} Minor.
+Play 2. You can play 2 {{p}}{{n}} to unlock the damage part of [[Ranging hunt]], but if you do you won't be able to do it in the next turn unless you have found or will find a {{p}}{{n}} Minor.
 
 #### Turn 2
 

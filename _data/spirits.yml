@@ -4,21 +4,19 @@ Behemoth:
         - Blazing intimidation
         - Surging lahar
         - Terrifying rampage
-    uniques_ext: png
-Bringer: 
+Bringer:
     uniques:        
 Darkness: 
     uniques:        
-DUE:  
-    uniques:        
-Downpour:  
+Downpour:
     uniques:
         - Foundations sink
         - Dark skies
         - Unbearable deluge
         - Gift of abundance
-    uniques_ext: png
-Earth:  
+DUE:
+    uniques:
+Earth:
     uniques:
 Eyes:  
     uniques: 
@@ -28,8 +26,7 @@ Fangs:
         - Too near the jungle
         - Prey on the builders
         - Terrifying chase
-    uniques_ext: jpg
-Finder:  
+Finder:
     uniques: 
 Fractured:  
     uniques: 
@@ -49,8 +46,7 @@ Lure:
         - Perils
         - Swallowed by the wilderness
         - Gift of the untamed wild
-    uniques_ext: png
-Memory:  
+Memory:
     uniques: 
 Mist:  
     uniques:
@@ -58,16 +54,14 @@ Mist:
         - The fog closes in
         - Forms dart by
         - Dissolving vapors
-    uniques_ext: png
-MM:  
+MM:
     uniques:
         - Boon of bedevilment
         - Pursue
         - Dreadful tide
         - Guide the way
         - Ever-multiplying swarm
-    uniques_ext: png
-Mud:  
+Mud:
     uniques: 
 Ocean:  
     uniques: 
@@ -77,8 +71,7 @@ River:
         - Boon of vigor
         - Wash away
         - Flash floods
-    uniques_ext: jpg
-Roots:  
+Roots:
     uniques: 
 Serpent:  
     uniques: 
@@ -98,15 +91,13 @@ Trickster:
         - Incite the mob
         - Overenthusiastic arson
         - Unexpected tigers
-    uniques_ext: png 
-TS:  
+TS:
     uniques: 
         - Manifestation
         - Sudden ambush
         - Words of warning
         - Voice of thunder
-    uniques_ext: jpg
-Vengeance:  
+Vengeance:
     uniques: 
 Voice:  
     uniques: 
@@ -122,5 +113,4 @@ Wildfire:
         - Asphyxiating smoke
         - Flame's fury 
         - Threatening flames
-    uniques_ext: jpg
 

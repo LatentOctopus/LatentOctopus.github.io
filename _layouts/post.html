@@ -6,10 +6,14 @@ layout: default
 {%- include init.html -%}
 
 {% assign content = page.content %}
-{% assign replacedcontent = page.content %}
+{% assign replaced_content = page.content %}
 {% assign spirit_tag = page.tags[0] %}
 {% assign spirit_name = site.data.abbreviations[spirit_tag].name %}
 {% assign spirit_effects = site.data.abbreviations[spirit_tag].effects %}
+
+{% assign spirit_board_img_filename_no_ext = spirit_tag | append: '_spirit_board' %}
+{% capture spirit_board_img_filename %}{% include find_image.html filename=spirit_board_img_filename_no_ext %}{% endcapture %}
+{% assign spirit_board_img = '<img class="board" src="/assets/images/' | append: spirit_board_img_filename | append: '"/>' %}
 
 <!-- Replace [[...]] in content  -->
 {% assign contentarray = content | split:'[[' %}
@@ -22,19 +26,12 @@ layout: default
         {% else %}
             {% assign links = links | append: '|' | append: link %}
         {% endif %}
-        {% assign url = spirit_effects[link] %}
-        {% unless url %}
-            {% assign exts = '.jpg .png' | split: ' ' %}
-            {% for ext in exts %}
-                {% assign fn = link | strip | replace: "’", "'" | capitalize| append: ext %}
-                {% assign filepath = '/assets/images/' | append: fn %}
-                {% assign file_exists = site.static_files | where: "path", filepath %}
-                {% if file_exists.size > 0 %}
-                    {% assign url = fn %}
-                    {% break %}
-                {% endif %}
-             {% endfor %}
+        {% assign fn = spirit_effects[link] %}
+        {% unless fn %}
+            {% assign fn = link %}
         {% endunless %}
+        {% assign fn = fn | strip | replace: "’", "'" | capitalize %}
+        {% capture url %}{% include find_image.html filename=fn %}{% endcapture %}
         {% if forloop.index == 2 %}
             {% assign urls = url %}
         {% else %}
@@ -47,37 +44,43 @@ layout: default
 {% for item in linkarray %}
     {% assign linktext = '<span class="spirit_effect_text">' | append: item | append: '<img class="spirit_effect_image" src="/assets/images/' | append: urlarray[forloop.index0] | append: '">' | append: '</span>' %}
     {% assign bracketlink = '[[' | append: item | append: ']]' %}
-    {% assign replacedcontent = replacedcontent | replace: bracketlink,linktext %}
+    {% assign replaced_content = replaced_content | replace: bracketlink,linktext %}
 {% endfor %}
-{% assign content = replacedcontent | markdownify %}
+{% assign content = replaced_content | markdownify %}
 
 <!-- Replace (((...))) in content  -->
 {% assign contentarray = content | split:'(((' %}
 {% for item in contentarray %}
     {% if forloop.index > 1 %}
         {% assign itemparts = item | split:')))' %}
-        {% assign link = itemparts[0] %}
+        {% assign tracks = itemparts[0] %}
         {% if forloop.index == 2 %}
-            {% assign links = link %}
+            {% assign all_tracks = tracks %}
         {% else %}
-            {% assign links = links | append: '|' | append: link %}
-        {% endif %}
-        {% assign url = spirit_tag | append: link | append: '.png' %}
-        {% if forloop.index == 2 %}
-            {% assign urls = url %}
-        {% else %}
-            {% assign urls = urls | append: '|' | append: url %}
+            {% assign all_tracks = all_tracks | append: '|' | append: tracks %}
         {% endif %}
     {% endif %}
 {% endfor %}
-{% assign urlarray = urls | split:'|' %}
-{% assign linkarray = links | split:'|' %}
-{% for item in linkarray %}
-    {% assign board_img = '<img class="spirit_board_image" src="/assets/images/' | append: urlarray[forloop.index0] | append: '"/>' %}
-    {% assign bracketlink = '(((' | append: item | append: ')))' %}
-    {% assign replacedcontent = replacedcontent | replace: bracketlink, board_img %}
+
+{% assign all_tracks_array = all_tracks | split:'|' %}
+{% for tracks_states in all_tracks_array %}
+
+    {% assign board_div = '<div class="spirit_board_div">' | append: spirit_board_img %}
+
+    {% assign track_states_array = tracks_states | split:'-' %}
+    {% for num_uncovered in track_states_array %}
+        {%- capture presence_tokens -%}
+            {%- include presence_track.html spirit=spirit_tag track=forloop.index num_uncovered=num_uncovered -%}
+        {%- endcapture -%}
+        {% assign board_div = board_div | append: presence_tokens %}
+    {% endfor %}
+
+    {% assign board_div = board_div | append: '</div>' %}
+
+    {% assign bracketlink = '(((' | append: tracks_states | append: ')))' %}
+    {% assign replaced_content = replaced_content | replace: bracketlink, board_div %}
 {% endfor %}
-{% assign content = replacedcontent | markdownify %}
+{% assign content = replaced_content | markdownify %}
 
 <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
 
