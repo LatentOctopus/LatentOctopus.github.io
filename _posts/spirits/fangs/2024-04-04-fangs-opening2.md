@@ -11,7 +11,7 @@ creation_date: 2022-10-06
 
 Use this opening if:
 
-- Consistently using the damage threshold of [[Raging hunt]] is not a priority.
+- Consistently using the damage threshold of [[Ranging hunt]] is not a priority.
 - You want to gain many Powers to find useful effects and compensate for the lack of damage.
 - You don't want to use Majors.
 - You want to unlock high card plays and reclaim-one as soon as possible.
