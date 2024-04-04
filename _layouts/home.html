@@ -122,12 +122,12 @@ layout: default
 
   {%- if posts.size > 0 -%}
     <br/>
-    <h1>Latest posts</h1>
+    <h1>Latest post updates</h1>
     {%- if page.list_title -%}
       <h2 class="post-list-heading">{{ page.list_title }}</h2>
     {%- endif -%}
     <ul class="post-list">
-      {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+      {%- assign date_format = site.minima.date_format | default: "%d %b %Y" -%}
       {%- for post in posts -%}
           {%- assign tag = post.tags[0] -%}
           <li>
