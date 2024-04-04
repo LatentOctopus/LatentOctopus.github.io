@@ -4,6 +4,7 @@ title: "Opening: Early Major"
 category: guide  
 tags: Behemoth
 confidence: low
+creation_date: 2023-10-06
 ---
 {% include init.html %}
 

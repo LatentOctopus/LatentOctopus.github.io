@@ -4,6 +4,7 @@ title: "General concepts"
 category: guide
 tags: Wildfire
 aspects: Base
+creation_date: 2022-10-14
 ---
 {% include init.html %}
 

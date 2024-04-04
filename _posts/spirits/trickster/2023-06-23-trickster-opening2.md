@@ -4,6 +4,7 @@ title: "Opening: Bottom track (Minor Powers)"
 category: guide  
 tags: Trickster 
 confidence: medium
+creation_date: 2023-06-23
 ---
 
 {%- include init.html -%}

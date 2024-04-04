@@ -4,6 +4,7 @@ title: "Opening: Bottom track hybrid (Minor Powers)"
 category: guide  
 tags: Downpour
 confidence: high
+creation_date: 2022-10-12
 ---
 {%- include init.html -%}
 

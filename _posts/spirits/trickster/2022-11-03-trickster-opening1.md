@@ -4,6 +4,7 @@ title: "Opening: Hybrid (Minor Powers)"
 category: guide  
 tags: Trickster 
 confidence: low
+creation_date: 2022-11-03
 ---
 
 {%- include init.html -%}

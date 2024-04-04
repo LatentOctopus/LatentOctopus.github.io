@@ -5,6 +5,7 @@ category: guide
 tags: Wildfire
 aspects: Base
 confidence: high
+creation_date: 2022-10-19
 ---
 {% include init.html %}
 

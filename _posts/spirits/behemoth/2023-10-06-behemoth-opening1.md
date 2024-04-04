@@ -4,6 +4,7 @@ title: "Opening: Hybrid (Mixed Powers)"
 category: guide  
 tags: Behemoth
 confidence: medium
+creation_date: 2023-10-06
 ---
 {% include init.html %}
 
