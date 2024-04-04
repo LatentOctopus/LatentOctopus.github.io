@@ -15,9 +15,21 @@
 - name: Spirit Island Builder for custom content 
   link: https://spiritislandbuilder.com
 
-- name: Jagged Earth rulebook and PnP
+- name: "Rulebook: Base game"
+  official: True
+  link: https://www.dropbox.com/s/yxvh2k8yo54vsy3/SI_CORE_Rulebook.pdf?e=1&dl=0
+
+- name: "Rulebook: Branch & Claw"
+  official: True
+  link: https://www.dropbox.com/s/r34mf26ir0eeha2/SI_B%26C_Rulebook.pdf?e=1&dl=0
+
+- name: "Rulebook: Jagged Earth"
   official: True
   link: https://drive.google.com/drive/mobile/folders/1NRxztXRkjFa3ugWeP0-6gJ7S9VKsXW73
+
+- name: "Rulebook: Nature Incarnate"
+  official: True
+  link: https://boardgamegeek.com/filepage/261150/nature-incarnate-rulebook
 
 - name: Spirit Island subreddit (r/spiritisland)
   link: https://www.reddit.com/r/spiritisland/
