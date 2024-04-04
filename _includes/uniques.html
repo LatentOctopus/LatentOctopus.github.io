@@ -9,7 +9,7 @@
         {%- unless unique -%}
             {%- assign unique = unique_abbrv -%}
         {%- endunless -%}
-        {% capture unique %}{% include find_image.html filename=unique %}{% endcapture %}
+        {% capture unique %}{% include find_image.html spirit=spirit_tag filename=unique %}{% endcapture %}
         {{- unique -}}|
     {%- endfor -%}
 {%- endcapture -%}

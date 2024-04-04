@@ -1,12 +1,23 @@
+{%- assign spirit_tag = include.spirit -%}
 {%- assign filename = include.filename -%}
 
 {%- assign exts = '.jpg .png' | split: ' ' -%}
-{%- for ext in exts -%}
-    {%- assign fn = filename | strip | append: ext -%}
-    {%- assign filepath = '/assets/images/' | append: fn -%}
-    {%- assign file_exists = site.static_files | where: "path", filepath -%}
-    {%- if file_exists.size > 0 -%}
-        {{-fn-}}
-        {%- break -%}
+{%- assign subdirs = '. OtherGameElements ' | append: spirit_tag | split: ' ' -%}
+
+{%- for _subdir in subdirs -%}
+    {%- if _subdir == '.' -%}
+        {%- assign subdir = '' -%}
+    {%- else -%}
+        {%- assign subdir = _subdir | append: '/' -%}
     {%- endif -%}
+
+    {%- for ext in exts -%}
+        {%- assign fn = subdir | append: filename | strip | append: ext -%}
+        {%- assign filepath = '/assets/images/' | append: fn -%}
+        {%- assign file_exists = site.static_files | where: "path", filepath -%}
+        {%- if file_exists.size > 0 -%}
+            {{-fn-}}
+            {%- break -%}
+        {%- endif -%}
+    {%- endfor -%}
 {%- endfor -%}

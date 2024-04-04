@@ -12,7 +12,7 @@ layout: default
 {% assign spirit_effects = site.data.abbreviations[spirit_tag].effects %}
 
 {% assign spirit_board_img_filename_no_ext = spirit_tag | append: '_spirit_board' %}
-{% capture spirit_board_img_filename %}{% include find_image.html filename=spirit_board_img_filename_no_ext %}{% endcapture %}
+{% capture spirit_board_img_filename %}{% include find_image.html spirit=spirit_tag filename=spirit_board_img_filename_no_ext %}{% endcapture %}
 {% assign spirit_board_img = '<img class="board" src="/assets/images/' | append: spirit_board_img_filename | append: '"/>' %}
 
 <!-- Replace [[...]] in content  -->
@@ -31,7 +31,7 @@ layout: default
             {% assign fn = link %}
         {% endunless %}
         {% assign fn = fn | strip | replace: "’", "'" | capitalize %}
-        {% capture url %}{% include find_image.html filename=fn %}{% endcapture %}
+        {% capture url %}{% include find_image.html spirit=spirit_tag filename=fn %}{% endcapture %}
         {% if forloop.index == 2 %}
             {% assign urls = url %}
         {% else %}
@@ -42,7 +42,8 @@ layout: default
 {% assign urlarray = urls | split:'|' %}
 {% assign linkarray = links | split:'|' %}
 {% for item in linkarray %}
-    {% assign linktext = '<span class="spirit_effect_text">' | append: item | append: '<img class="spirit_effect_image" src="/assets/images/' | append: urlarray[forloop.index0] | append: '">' | append: '</span>' %}
+    {% assign linkimg = '<img class="spirit_effect_image" src="/assets/images/' | append: urlarray[forloop.index0] | append: '">' %}
+    {% assign linktext = '<span class="spirit_effect_text">' | append: item | append: linkimg  | append: '</span>' %}
     {% assign bracketlink = '[[' | append: item | append: ']]' %}
     {% assign replaced_content = replaced_content | replace: bracketlink,linktext %}
 {% endfor %}

@@ -2,14 +2,19 @@
 {% assign track = include.track %}
 {% assign start = include.num_uncovered | plus: 1 %}
 
-{% assign size = site.data.spirit_boards[spirit_tag].presence_size %}
-{% assign colour = site.data.spirit_boards[spirit_tag].presence_colour %}
-{% assign interval = site.data.spirit_boards[spirit_tag].interval %}
-{% assign left = site.data.spirit_boards[spirit_tag].left %}
-{% assign top = site.data.spirit_boards[spirit_tag][track].top %}
-{% assign track_length = site.data.spirit_boards[spirit_tag][track].length %}
+{% assign spirit_board_data = site.data.spirits[spirit_tag].board %}
+{% assign size = spirit_board_data.presence_size %}
+{% assign colour = spirit_board_data.presence_colour %}
+{% assign interval = spirit_board_data.interval %}
+{% assign left = spirit_board_data.left %}
+{% assign top = spirit_board_data[track].top %}
+{% assign track_length = spirit_board_data[track].length %}
 
 {%- for index in (start..track_length) -%}
     {% assign left_i = interval | times: index | plus: left %}
-    <img class="presence" style="margin: {{- top -}}% {{- left_i -}}%; width: {{- size -}}%" src="/assets/images/presence_{{- colour | strip -}}.png"/>
+    <img
+            class="presence"
+            style="margin: {{- top -}}% {{- left_i -}}%; width: {{- size -}}%"
+            src="/assets/images/OtherGameElements/presence_{{- colour | strip -}}.png"
+    />
 {%- endfor -%}

@@ -1,59 +1,249 @@
+# All of the values for board parameters except for track length are % with respect to the whole board
+
 Behemoth:
     uniques:
         - Grasping roots
         - Blazing intimidation
         - Surging lahar
         - Terrifying rampage
+    board:
+        presence_size: 9.5
+        presence_colour: orange
+        interval: 7.95
+        left: 38.5
+        1:
+            length: 6
+            top: 25.3
+        2:
+            length: 5
+            top: 34.8
 Bringer:
-    uniques:        
+    uniques:
+    board:
+        presence_size:
+        presence_colour:
+        interval:
+        left:
+        1:
+            length:
+            top:
+        2:
+            length:
+            top:
 Darkness: 
-    uniques:        
+    uniques:
+    board:
+        presence_size:
+        presence_colour:
+        interval:
+        left:
+        1:
+            length:
+            top:
+        2:
+            length:
+            top:
 Downpour:
     uniques:
         - Foundations sink
         - Dark skies
         - Unbearable deluge
         - Gift of abundance
+    board:
+        presence_size: 9.2
+        presence_colour: blue
+        interval: 7.58
+        left: 37.6
+        1:
+            length: 7
+            top: 21.7
+        2:
+            length: 5
+            top: 30.3
 DUE:
     uniques:
+    board:
+        presence_size:
+        presence_colour:
+        interval:
+        left:
+        1:
+            length:
+            top:
+        2:
+            length:
+            top:
 Earth:
     uniques:
+    board:
+        presence_size:
+        presence_colour:
+        interval:
+        left:
+        1:
+            length:
+            top:
+        2:
+            length:
+            top:
 Eyes:  
-    uniques: 
+    uniques:
+    board:
+        presence_size:
+        presence_colour:
+        interval:
+        left:
+        1:
+            length:
+            top:
+        2:
+            length:
+            top:
 Fangs:  
     uniques: 
         - Teeth gleam
         - Too near the jungle
         - Prey on the builders
         - Terrifying chase
+    board:
+        presence_size: 9.2
+        presence_colour: red
+        interval: 7.45
+        left: 39
+        1:
+            length: 6
+            top: 16.7
+        2:
+            length: 5
+            top: 27.3
 Finder:
-    uniques: 
+    uniques:
+    # board not yet supported
 Fractured:  
-    uniques: 
+    uniques:
+    board:
+        presence_size:
+        presence_colour:
+        interval:
+        left:
+        1:
+            length:
+            top:
+        2:
+            length:
+            top:
 Heat:  
-    uniques: 
+    uniques:
+    board:
+        presence_size:
+        presence_colour:
+        interval:
+        left:
+        1:
+            length:
+            top:
+        2:
+            length:
+            top:
 HV:  
-    uniques: 
+    uniques:
+    board:
+        presence_size:
+        presence_colour:
+        interval:
+        left:
+        1:
+            length:
+            top:
+        2:
+            length:
+            top:
 Green:  
-    uniques: 
+    uniques:
+    board:
+        presence_size:
+        presence_colour:
+        interval:
+        left:
+        1:
+            length:
+            top:
+        2:
+            length:
+            top:
 Keeper:  
-    uniques: 
+    uniques:
+    board:
+        presence_size:
+        presence_colour:
+        interval:
+        left:
+        1:
+            length:
+            top:
+        2:
+            length:
+            top:
 Lightning:  
-    uniques: 
+    uniques:
+    board:
+        presence_size:
+        presence_colour:
+        interval:
+        left:
+        1:
+            length:
+            top:
+        2:
+            length:
+            top:
 Lure:  
     uniques: 
         - Softly beckon
         - Perils
         - Swallowed by the wilderness
         - Gift of the untamed wild
+    board:
+        presence_size: 9.2
+        presence_colour: green
+        interval: 7.58
+        left: 39.6
+        1:
+            length: 5
+            top: 15.7
+        2:
+            length: 5
+            top: 26.3
 Memory:
-    uniques: 
+    uniques:
+    board:
+        presence_size:
+        presence_colour:
+        interval:
+        left:
+        1:
+            length:
+            top:
+        2:
+            length:
+            top:
 Mist:  
     uniques:
         - Unnerving pall
         - The fog closes in
         - Forms dart by
         - Dissolving vapors
+    board:
+        presence_size: 9.2
+        presence_colour: blue
+        interval: 7.58
+        left: 37.6
+        1:
+            length: 4
+            top: 15.7
+        2:
+            length: 7
+            top: 26.1
 MM:
     uniques:
         - Boon of bedevilment
@@ -61,56 +251,234 @@ MM:
         - Dreadful tide
         - Guide the way
         - Ever-multiplying swarm
+    board:
+        presence_size: 9.2
+        presence_colour: red
+        interval: 7.58
+        left: 39.45
+        1:
+            length: 6
+            top: 15.7
+        2:
+            length: 6
+            top: 26.3
 Mud:
-    uniques: 
+    uniques:
+    board:
+        presence_size:
+        presence_colour:
+        interval:
+        left:
+        1:
+            length:
+            top:
+        2:
+            length:
+            top:
 Ocean:  
-    uniques: 
+    uniques:
+    board:
+        presence_size:
+        presence_colour:
+        interval:
+        left:
+        1:
+            length:
+            top:
+        2:
+            length:
+            top:
 River:  
     uniques: 
         - River's bounty
         - Boon of vigor
         - Wash away
         - Flash floods
+    board:
+        presence_size: 9.2
+        presence_colour: blue
+        interval: 7.12
+        left: 38.4
+        1:
+            length: 6
+            top: 17.5
+        2:
+            length: 6
+            top: 27.8
 Roots:
-    uniques: 
+    uniques:
+    board:
+        presence_size:
+        presence_colour:
+        interval:
+        left:
+        1:
+            length:
+            top:
+        2:
+            length:
+            top:
 Serpent:  
-    uniques: 
+    uniques:
+    # board not yet supported
 Shadows:  
-    uniques: 
+    uniques:
+    board:
+        presence_size:
+        presence_colour:
+        interval:
+        left:
+        1:
+            length:
+            top:
+        2:
+            length:
+            top:
 Starlight:  
-    uniques: 
+    uniques:
+    # board not yet supported
 Stone:  
-    uniques: 
+    uniques:
+    board:
+        presence_size:
+        presence_colour:
+        interval:
+        left:
+        1:
+            length:
+            top:
+        2:
+            length:
+            top:
 Sun:  
-    uniques: 
+    uniques:
+    board:
+        presence_size:
+        presence_colour:
+        interval:
+        left:
+        1:
+            length:
+            top:
+        2:
+            length:
+            top:
 Teeth:  
-    uniques: 
+    uniques:
+    board:
+        presence_size:
+        presence_colour:
+        interval:
+        left:
+        1:
+            length:
+            top:
+        2:
+            length:
+            top:
 Trickster:  
     uniques: 
         - Impersonate authority
         - Incite the mob
         - Overenthusiastic arson
         - Unexpected tigers
+    board:
+        presence_size: 9.2
+        presence_colour: green
+        interval: 7.58
+        left: 39.6
+        1:
+            length: 5
+            top: 15
+        2:
+            length: 6
+            top: 24
 TS:
     uniques: 
         - Manifestation
         - Sudden ambush
         - Words of warning
         - Voice of thunder
+    board:
+        presence_size: 9.2
+        presence_colour: yellow
+        interval: 7.13
+        left: 39.6
+        1:
+            length: 5
+            top: 17.4
+        2:
+            length: 6
+            top: 26.7
 Vengeance:
-    uniques: 
+    uniques:
+    board:
+        presence_size:
+        presence_colour:
+        interval:
+        left:
+        1:
+            length:
+            top:
+        2:
+            length:
+            top:
 Voice:  
-    uniques: 
+    uniques:
+    board:
+        presence_size:
+        presence_colour:
+        interval:
+        left:
+        1:
+            length:
+            top:
+        2:
+            length:
+            top:
 Volcano:  
-    uniques: 
+    uniques:
+    board:
+        presence_size:
+        presence_colour:
+        interval:
+        left:
+        1:
+            length:
+            top:
+        2:
+            length:
+            top:
 Waters:  
-    uniques: 
+    uniques:
+    # board not yet supported
 Whirlwind:  
-    uniques: 
+    uniques:
+    board:
+        presence_size:
+        presence_colour:
+        interval:
+        left:
+        1:
+            length:
+            top:
+        2:
+            length:
+            top:
 Wildfire:  
     uniques: 
         - Flash-fires
         - Asphyxiating smoke
         - Flame's fury 
         - Threatening flames
-
+    board:
+        presence_size: 9.2
+        presence_colour: orange
+        interval: 7.45
+        left: 39.3
+        1:
+            length: 5
+            top: 16.7
+        2:
+            length: 5
+            top: 27.3
