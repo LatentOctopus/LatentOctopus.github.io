@@ -26,7 +26,7 @@ Presence should be converted as much as possible into Beasts, ideally every turn
 
 ## Beasts placement
 
-Beasts placement is the single most important aspect of playing Fangs, as you need Beasts to place presence outside of Jungles, to use your Innates, to move your presence, and to use two of your Uniques ([[Prey on the builders]] and [[Terrifying chase]]) effectively. Because of thus, the movement threshold of [[Ranging hunt]] is just as important as the damage part, as it sets up future actions.
+Beasts placement is the single most important aspect of playing Fangs, as you need Beasts to place presence outside of Jungles, to use your Innates, to move your presence, and to use two of your Uniques ([[Prey on the builders]] and [[Terrifying chase]]) effectively. Because of this, the movement threshold of [[Ranging hunt]] is just as important as the damage part, as it sets up future actions.
 
 Generally speaking, you want to spread your Beasts as much as possible, but also having them concentrated in lands that you want to hit hard with [[Ranging hunt]]. The balance varies depending on board state and Adversary. For example, against England small [[Ranging hunt]] are ineffective, so it's often preferrable to have fewer lands with more Beasts to use it on.  
 
