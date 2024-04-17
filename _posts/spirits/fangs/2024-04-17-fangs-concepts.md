@@ -36,7 +36,7 @@ Having a Beasts in a land also means that you can easily get 2 more Beasts to do
 
 ## Energy
 
-Energy management can be tricky with Fangs: your Reclaim growth has an Energy cost, plus it takes a few turns to unlock the 2 Energy/turn spot, which means that more often than not you won't unless going for Majors. You will have to use your G4, but be aware that you won't be able to consistently use until the late game, and you'll need to spread the 3 Energy over 2 or 3 turns.
+Energy management can be tricky with Fangs: your Reclaim growth has an Energy cost, plus it takes a few turns to unlock the 2 Energy/turn spot, which means that more often than not you won't unless going for Majors. You will have to use your G4, but be aware that you won't be able to consistently use it until the late game (unless you delay placing presence, which is usually bad), so you'll need to spread the 3 Energy over 2 or 3 turns.
 
 ## Minors selection
 
