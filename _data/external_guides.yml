@@ -163,3 +163,280 @@
   items:
     - spirit: Volcano
       link: https://drive.google.com/file/d/16yLgcutRANscQJdx5n33DKAvkt7yz-oX/view
+
+
+<!-- Guides added by Sinderlin aka TheNaysmith -->
+
+- author: 2aron
+  site: BGG
+  type: guides
+  items:
+    - spirit: Mud
+      link: https://boardgamegeek.com/thread/2955905/rising-heat-stone-and-sand-basic-strategy-and-full
+    - spirit: Heat
+      link: https://boardgamegeek.com/thread/2959811/fathomless-mud-swamp-basic-strategy-and-full-solo
+
+- author: ArtEntre
+  site: BGG
+  type: guides
+  items: guides
+    - spirit: River
+      link: https://boardgamegeek.com/thread/2144212/river-surges-in-sunlight-play-by-play-base-difficu
+      
+- author: BabySeaTurtles
+  site: Goggle Docs
+  type: guides
+  items:
+    - spirit: Sun
+      link: https://docs.google.com/document/d/1lrmbDfmIxktcT66jLMSdllOo0w8wSZJAjjlKqTngVe8/edit#heading=h.27n628uwju42
+
+- author: BenLikesGames
+  site: YouTube
+  type: guides
+  item:
+    - spirit: Darkness
+      link: https://youtu.be/0utu6Ts5cug?si=miLRlcm0qNHlZk4C
+    - spirit: Bringer
+      link: https://youtu.be/cN6twSBB-9E?si=0Qf3fYvPZ4k8ODLv
+    - spirit: DUE
+      link: https://youtu.be/Tl7jzYaSn0g?si=eE_BKzZoL2-zl0m2
+    - spirit: Teeth
+      link: https://youtu.be/GuzT-eEpbgw?si=75SfBEMZ7Ojcg4ap
+    - spirit: Downpour
+      link: https://youtu.be/BEIZek3jCAY?si=QdDWHTb2s9FsGiGI
+    - spirit: Behemoth
+      link: https://youtu.be/hGm_DIsR_mY?si=BljRKIQu31bYpbfO
+    - spirit: Eyes
+      link: https://youtu.be/tZVP_Hyw0jE?si=s85pFm3NLkiZRgfm
+    - spirit: Mud
+      link: https://youtu.be/sbPc3UJWkLY?si=vpGlEeE88uDtv7wE
+    - spirit: Finder
+      link: https://youtu.be/dMJ3QCP1AzA?si=oovbataO3F72oO6Y
+    - spirit: Fractured
+      link: https://youtu.be/2oz9-6HZfDY?si=fm5YoqYdLDEbc5ei
+    - spirit: Trickster
+      link: https://youtu.be/ncl5YNe2s-0?si=rJNDLYrkpSHCO4sc
+    - spirit: Wildfire
+      link: https://youtu.be/sqc0jOmv5Gs?si=LCz0hG8acluejaxO
+    - spirit: HV
+      link: https://youtu.be/xySgxntcL-I?si=chivN0mR7ge8oCOZ
+    - spirit: Keeper
+      link: https://youtu.be/0qV5FK2CJFA?si=GdZOxne1lRWNHXEz
+    - spirit: Lightning
+      link: https://youtu.be/iBLBQYJgO8Y?si=A-y0mrpBGwnbH1D_
+    - spirit: Lure
+      link: https://youtu.be/7UVr2Gln288?si=ltYN75q_Cit8_1q0
+    - spirit: MM
+      link: https://youtu.be/OPbynYR8vaU?si=tqvC6Z_sx3EQaqNV
+    - spirit: Ocean
+      link: https://youtu.be/1ajEm4jw2GM?si=4x9DMpZW_3CpPcSD
+    - spirit: Sun
+      link: https://youtu.be/44A8j6hWSa4?si=RFWG48ffGRjJEKAQ
+    - spirit: Heat
+      link: https://youtu.be/rI0z9C4J2K0?si=wHDY52Ni0eyglGNR
+    - spirit: River
+      link: https://youtu.be/hXYVqptVLP4?si=bXDmcg80T8s63yja
+    - spirit: Serpent
+      link: https://youtu.be/lYXZrlHIcnQ?si=DmrednCz3gOJZX1q
+    - spirit: Shadows
+      link: https://youtu.be/gGJ1wsZrcKM?si=9mtpwJpwIRcYWBR6
+    - spirit: Fangs
+      link: https://youtu.be/Y-vdMEujG3U?si=CFi6jpliIySI0E76
+    - spirit: Memory
+      link: https://youtu.be/mGm1xqBFV-s?si=0Pfs18tqRcvyA_dM
+    - spirit: Mist
+      link: https://youtu.be/z17mxvGWfsc?si=02tcxhYQGBbF2kEg
+    - spirit: Green
+      link: https://youtu.be/XU3pDONGuAc?si=tqj80-UJrIvVxDmA
+    - spirit: Starlight
+      link: https://youtu.be/yvQOzWmUquo?si=UnFkYyTPeciga1Wk
+    - spirit: Stone
+      link: https://youtu.be/rYPON_ASY9o?si=vxjFQC2hFPrTrcNW
+    - spirit: Whirlwind
+      link: https://youtu.be/POWd_k9sZ6w?si=7AFT-x0tkq1fGSwt
+    - spirit: TS
+      link: https://youtu.be/JMjF3lL5Ayw?si=SFCr-6NCT92B6HyC
+    - spirit: Roots
+      link: https://youtu.be/-Cxtk3RJjH0?si=ltSEi2oiPBniJKdb
+    - spirit: Vengeance
+      link: https://youtu.be/-4OL3CVQucs?si=tqClESnJvkqxcBc0
+    - spirit: Earth
+      link: https://youtu.be/tX0mUbS6sho?si=hEN7a6-fe9wMnieS
+    - spirit: Volcano
+      link: https://youtu.be/eqJeeD0CK5s?si=EdwsNaHmkm9ZtYmc
+    - spirit: Voice
+      link: https://youtu.be/GmrSOPiJG3s?si=T63GItuX6HGO2Wdk
+    - spirit: Waters
+      link: https://youtu.be/oh1PrLgempk?si=0di8dd2yuySzjlT3
+
+
+- author: Frazaa
+  site: Google Docs
+  type: guides
+  items: 
+    - spirit: Shadows <!-- Aspect: Foreboding -->
+      link: https://docs.google.com/document/d/1BkSG63rN3snDa9yIsYSCpwwn7oNmSiPRPLM0afaZxKQ/edit?usp=sharing
+
+- author: GodsLittleCow
+  site: BGG
+  type: guides
+  items:
+    - spirit: Memory
+      link: https://boardgamegeek.com/thread/2915319/strategy-guide-shifting-memory-ages
+
+- author: JasonITLG
+  site: YouTube
+  type: guides
+  items:
+    - spirit: DUE
+      link: https://www.youtube.com/watch?v=c4GiIGByXfc&ab_channel=Jason and https://docs.google.com/document/d/1t4bYLYNyyEAQdZX-rqMlP7xFWmoEVZ1dlklOWhpuXfw/edit
+    - spirit: Wildfire <!-- Aspect: Transforming -->
+      link: https://youtu.be/pPK2FL79o6M?si=5EsluOhZf1FNuasZ
+    - spirit: Lightning <!-- Aspect: Sparking -->
+      link: https://youtu.be/9Lh4ujSmUZw?si=olmUyizU6fbnax8H
+    - spirit: Starlight
+      link: https://www.youtube.com/watch?v=O13H1s6cqkI&list=PLuoUzLbuQdGMVCLlal1uLAClbjCZ79H6H&ab_channel=Jason
+    - spirit: Voice
+      link: https://www.youtube.com/watch?v=JY8IUOOQOjY&ab_channel=Jason
+
+- author: Kalen Noreth
+  site: YouTube
+  type: guides
+  items:
+    - spirit: Bringer
+      link: https://youtu.be/b3D6jDC-E_Q?si=HzQARvsfv_JOC30N
+    - spirit: Wildfire
+      link: https://www.youtube.com/watch?v=InwrhxS5iPc&ab_channel=KalenNoreth
+    - spirit: Keeper
+      link: https://www.youtube.com/watch?v=jSo59PhWjmk
+    - spirit: Lightning
+      link: https://www.youtube.com/watch?v=sp9cZD5qI-4&ab_channel=KalenNoreth
+    - spirit: Ocean
+      link: https://www.youtube.com/watch?v=_rRtBl0ZJ5E&ab_channel=KalenNoreth
+    - spirit: River
+      link: https://www.youtube.com/watch?v=IW3LV-fp16g&t=606s&ab_channel=KalenNoreth
+    - spirit: Serpent
+      link: https://youtu.be/4A3d7Kia5Iw
+    - spirit: Shadows
+      link: https://www.youtube.com/watch?v=rWtfRtUmSHY&ab_channel=KalenNoreth
+    - spirit: Fangs
+      link: https://www.youtube.com/watch?v=3mrBMYGmigw
+    - spirit: Green
+      link: https://www.youtube.com/watch?v=cdP_jg1rgcI&ab_channel=KalenNoreth
+    - spirit: TS
+      link: https://www.youtube.com/watch?v=2XlS6YBXHi8&ab_channel=KalenNoreth
+    - spirit: Earth
+      link: https://www.youtube.com/watch?v=IF_BLgVju6c&ab_channel=KalenNoreth
+
+- author: Lonk
+  site: YouTube
+  type: guides
+  items:
+    - spirit: Finder
+      link: https://www.youtube.com/watch?v=8d2HK_SGvbo
+
+- author: pktt
+  site: Google Docs
+  type: guides
+  items:
+    - spirit: Behemoth
+      link: https://docs.google.com/document/d/1NxaB6BAAraACgoHTbvailA4MbU8OOSpOJOB5vfd0Ic4/edit
+
+- author: RedRevenge
+  site: YoutTube
+  type: guides
+  items:
+    - spirit: Eyes
+      link: https://youtube.com/playlist?list=PL7VhWAfBC-gCmmA7mYb_yOE4AUd8o2Bho&si=zycPc69oSGya0yDh
+    - spirit: Fractured
+      link: https://www.youtube.com/playlist?list=PL7VhWAfBC-gCP-7JLWFQd09DAdvr5gm8j
+    - spirit: MM
+      link: https://www.youtube.com/playlist?list=PL7VhWAfBC-gBi4fqc7enTAxZvjsVr3PCE
+    - spirit: Heat
+      link: https://www.youtube.com/playlist?list=PL7VhWAfBC-gAX4wwXMsyamrOyPQJfdqsn
+    - spirit: River <!-- Aspect: Travel -->
+      link: https://youtube.com/playlist?list=PL7VhWAfBC-gA0HRjeGrZLrwd2fmH64JI7&si=f6SJO2hkQyD_Z_-I
+    - spirit: Memory <!-- Aspect: Intensify -->
+      link: https://youtube.com/playlist?list=PL7VhWAfBC-gCtyNLnRwypilILC6i1i_2w&si=3d3Cfa2mCNOe6-Z1
+    - spirit: Green
+      link: https://youtube.com/playlist?list=PL7VhWAfBC-gDtuumSGOrbVmng7eUNanXw&si=iJhVT6fTZWqevXE6
+    - spirit: Starlight
+      link: https://youtube.com/playlist?list=PL7VhWAfBC-gBj9gYG9w0UKO2jhhlRRVwS&si=APFvO9wgPAKgLhmh
+    - spirit: Stone
+      link: https://youtube.com/playlist?list=PL7VhWAfBC-gBlCz9W7fdDKZxpOQINxJRW&si=JVrOnPf6x01LYD8E
+    - spirit: Roots
+      link: https://youtube.com/playlist?list=PL7VhWAfBC-gBNp1Kpn1japphKg3pg6XR6&si=8-sjWXiD1jO8hRXL
+    - spirit: Volcano
+      link: https://www.youtube.com/playlist?list=PL7VhWAfBC-gDE0vC6SLcV009V5Rct79lG
+
+- author: Ryan Lackie
+  site: YouTube
+  type: guides
+  items:
+    - spirit: Downpour
+      link: https://youtu.be/utBa2QoShSk?si=SUlhhtnE8wlb_BjS
+    - spirit: Mud
+      link: https://youtu.be/jfdtPFfzCTA?si=t9z2SoYKwKh23xuC
+    - spirit: Finder
+      link: https://youtu.be/365ofB6iQ6U?si=uuaqsPV5pUTknKtU
+    - spirit: Wildfire
+      link: https://youtu.be/9BvgnjrGtCk?si=b7baC-vA_Fm9Vn0e
+    - spirit: Keeper
+      link: https://youtu.be/aYbAaaDk4uo?si=kQAoopbmS0ZdiXnV
+    - spirit: Mist
+      link: https://youtu.be/4fj3O6Yo0q8?si=-zos3jzgNal7GmVI
+    - spirit: Starlight
+      link: https://youtu.be/ac0sUTPZat0?si=qlXZcNHur8oPteYP
+    - spirit: Vengeance
+      link: https://youtu.be/LPQXZuohvd8?si=q2XrwMMqa82dOZ8J
+
+- author: WhiteBox
+  site: YouTube
+  type: guides
+  items:
+    - spirit: Trickster
+      link: https://www.youtube.com/watch?v=NEMg5c45q6w
+    - spirit: Green
+      link: https://www.youtube.com/watch?v=C581HkZ9IA0
+
+- author: ZenithPriest
+  site: YouTube
+  type: guides
+  items:
+    - spirit: Bringer
+      link: https://youtube.com/playlist?list=PLc010rTQT8Upj-b1GylXzXyG24Dv_XCJM&si=aVLK-8Fgq9Gsbwar
+    - spirit: Teeth
+      link: https://www.youtube.com/watch?v=0u81c3ofbNU&list=PLc010rTQT8UptRjT1IikriGKQ_tHf8GzV&pp=iAQB
+    - spirit: Eyes
+      link: https://youtu.be/FpntSdcXh14
+    - spirit: Mud
+      link: https://www.youtube.com/watch?v=IBa_UGHYV9A&list=PLc010rTQT8UrlNv1YcrAsobcoLDq8jvmU&pp=iAQB
+    - spirit: Wildfire
+      link: https://www.youtube.com/watch?v=0S4m44FrYe4&list=PLc010rTQT8UqOBUWWXufinUkT7mYNKPZ8&pp=iAQB
+    - spirit: Keeper
+      link: https://www.youtube.com/watch?v=6hLb_At1HPw&list=PLc010rTQT8UqxQokVnA3z2g6Ra13mTRS3&pp=iAQB
+    - spirit: Lightning
+      link: https://www.youtube.com/watch?v=y-2t3cxwZ68&list=PLc010rTQT8UrMnHD4wYElGN7NAqUVRjBk
+    - spirit: Ocean
+      link: https://www.youtube.com/watch?v=3moBI11x9I0&list=PLc010rTQT8UoEYZWfQFLBpFl_M8NJA-zL&pp=iAQB
+    - spirit: Heat
+      link: https://www.youtube.com/watch?v=xa2tP7_rwhA&list=PLc010rTQT8UovgseTWMvDHgK8hD_LkpTs&pp=iAQB
+    - spirit: River
+      link: https://www.youtube.com/watch?v=77uMI4ig_ug&list=PLc010rTQT8Uqva0ujUD0kFskNadrVZ7YQ&pp=iAQB
+    - spirit: Serpent
+      link: https://youtu.be/9HTrqo5ibbc?si=QsoHDqufJabWAuKm
+    - spirit: Shadows
+      link: https://www.youtube.com/watch?v=AsNign0RzIU&list=PLc010rTQT8UpuG47WX5XrVhDPYnSh6ihI&pp=iAQB
+    - spirit: Fangs
+      link: https://www.youtube.com/watch?v=2N2vk7jnKEA&list=PLc010rTQT8Upz5iW_XfiEKA1oGcVhw838&pp=iAQB
+    - spirit: Green
+      link: https://www.youtube.com/watch?v=U76bMEwql7A&list=PLc010rTQT8UoekL-FZrZraI5_V27YCTvS&pp=iAQB
+    - spirit: Stone
+      link: https://youtube.com/playlist?list=PLc010rTQT8UpG3oonSJf5PmRhMGE7uhaK&si=eiwQt_kpl5m-xHhZ
+    - spirit: Whirlwind
+      link: https://www.youtube.com/watch?v=5EPwpasSSn4&list=PLc010rTQT8UpqXpNvuXlzRRut2YpViXlW&pp=iAQB
+    - spirit: TS
+      link: https://www.youtube.com/watch?v=WzqVii1HRCE&list=PLc010rTQT8UqV5W5lebu39ByJGg9ZtkC1&pp=iAQB
+    - spirit: Earth
+      link: https://www.youtube.com/watch?v=relMWVRmY-c&list=PLc010rTQT8Uo0Cw1o3o4AzCK45MnK_ezI&pp=iAQB
+    
