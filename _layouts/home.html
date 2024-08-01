@@ -66,24 +66,42 @@ layout: default
     {% for entry in external_guides %}
       {% if entry.items %}
     
-        {%- capture raw_names_with_tags_and_links -%}
+        {%- capture raw_post_data -%}
           {%- for item in  entry.items -%}
             {%- assign tag = item.spirit -%}
-            {{-site.data.abbreviations[tag].name}}||{{tag}}||{{item.link}};
+            {%- if item.aspects -%}
+              {%- assign aspects = item.aspects -%}
+            {%- else -%}
+              {%- assign aspects = '' -%}
+            {%- endif -%}
+            {%- if item.credit -%}
+              {%- assign credit = item.credit -%}
+            {%- else -%}
+              {%- assign credit = '' -%}
+            {%- endif -%}
+            {{-site.data.abbreviations[tag].name}}||{{tag}}||{{aspects}}||{{item.link}}||{{credit}};
           {%- endfor -%}
         {%- endcapture -%}
-        {% assign names_with_tags_and_links = raw_names_with_tags_and_links | split:';' | sort %}
+        {% assign post_data = raw_post_data | split:';' | sort %}
 
         <li>{{ entry.author }}'s {{entry.type}} on {{entry.site}}:</li>
         <ul>
-          {% for name_with_tag_and_link in names_with_tags_and_links %}
-            {% assign name_with_tag_and_link = name_with_tag_and_link | strip %}
-            {% if name_with_tag_and_link %}
-              {% assign ntl = name_with_tag_and_link | split:'||' %}
-              {% assign spirit_name = ntl[0] %}
-              {% assign spirit_tag = ntl[1] %}
-              {% assign link = ntl[2] %}
-              <li><a href="{{ link }}">{{site.data.icons.spirits[spirit_tag].small}} {{ spirit_name }}</a></li>
+          {% for pdata in post_data %}
+            {% assign pdata = pdata | strip %}
+            {% if pdata %}
+              {% assign pdata_list = pdata | split:'||' %}
+              {% assign spirit_name = pdata_list[0] %}
+              {% assign spirit_tag = pdata_list[1] %}
+              {% assign aspects = pdata_list[2] %}
+              {% assign link = pdata_list[3] %}
+              {% assign credit = pdata_list[4] | strip %}
+              {%- unless aspects == '' -%}
+                {% assign spirit_name = spirit_name | append: ' [' | append: aspects | append: ']' %}
+              {%- endunless -%}
+              {%- unless credit == '' -%}
+                {%- assign credit = ' suggested by ' | append: credit | append: '' -%}
+              {%- endunless -%}
+              <li><a href="{{ link }}">{{site.data.icons.spirits[spirit_tag].small}} {{ spirit_name }}</a><small>{{credit}}</small></li>
             {% endif %}
           {% endfor %}
         </ul>
