@@ -53,7 +53,7 @@ layout: default
   <!-- External Guides -->
   <br/>
   <h1>Other guides</h1>
-  {%- assign external_guides = site.data.external_guides | sort: "author" -%}
+  {%- assign external_guides = site.data.external_guides | sort_natural: "author" -%}
   <ul>  <!-- Channels -->
     {%- for entry in external_guides -%}
       {%- unless entry.items -%}
