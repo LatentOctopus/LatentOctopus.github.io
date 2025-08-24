@@ -486,6 +486,13 @@
     link: https://www.youtube.com/watch?v=8d2HK_SGvbo
     site: YouTube
     spirit: Finder
+- author: Morgan D
+  items:
+  - spirit: Keeper
+    aspects: Spreading Hostility
+    link: https://docs.google.com/document/d/1HxvCpUqq1vvCtZDaaBuxhhUunohNwh3eJMlFQGHjieU/edit?usp=sharing
+    site: Google Docs
+    credit: Sinderlin
 - author: Penguyen
   items:
   - is_collection: true
@@ -499,6 +506,12 @@
     link: https://docs.google.com/document/d/1NxaB6BAAraACgoHTbvailA4MbU8OOSpOJOB5vfd0Ic4/edit
     site: Google Docs
     spirit: Behemoth
+- author: Qrave
+  items:
+  - spirit: Waters
+    link: https://youtu.be/qIge1xDoiDI
+    site: YouTube
+    credit: Sinderlin
 - author: RedReVenge
   items:
   - is_collection: true
