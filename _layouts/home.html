@@ -54,37 +54,55 @@ layout: default
   <br/>
   <h1>Other guides</h1>
   {%- assign external_guides = site.data.external_guides | sort_natural: "author" -%}
+
   <ul>  <!-- Channels -->
     {%- for entry in external_guides -%}
-      {%- unless entry.items -%}
-        <li><a href="{{entry.link}}">{{ entry.author }}'s {{entry.type}} on {{entry.site}}</a></li>
-      {%- endunless -%}
+      {%- for item in entry.items -%}
+        {%- if item.is_platform -%}
+          <li><a href="{{item.link}}">{{ entry.author }}'s {{item.type}} on {{item.site}}</a></li>
+        {%- endif -%}
+      {%- endfor -%}
     {%- endfor -%}
   </ul>
-  
+
   <ul> <!-- Posts -->
     {% for entry in external_guides %}
-      {% if entry.items %}
-    
-        {%- capture raw_post_data -%}
-          {%- for item in  entry.items -%}
-            {%- assign tag = item.spirit -%}
-            {%- if item.aspects -%}
-              {%- assign aspects = item.aspects -%}
+
+      {%- capture raw_post_data -%}
+        {%- for item in entry.items -%}
+          {%- unless item.is_platform -%}
+            {%- if item.is_collection -%}
+              {%- assign tag = '' -%}
+              {%- assign spirit_name = '' -%}
             {%- else -%}
-              {%- assign aspects = '' -%}
+              {%- assign tag = item.spirit -%}
+              {%- assign spirit_name = site.data.abbreviations[tag].name -%}
+              {%- if item.aspects -%}
+                {%- assign aspects = item.aspects -%}
+              {%- else -%}
+                {%- assign aspects = '' -%}
+              {%- endif -%}
             {%- endif -%}
+
             {%- if item.credit -%}
               {%- assign credit = item.credit -%}
             {%- else -%}
               {%- assign credit = '' -%}
             {%- endif -%}
-            {{-site.data.abbreviations[tag].name}}||{{tag}}||{{aspects}}||{{item.link}}||{{credit}};
-          {%- endfor -%}
-        {%- endcapture -%}
-        {% assign post_data = raw_post_data | split:';' | sort %}
+            {%- if item.type -%}
+              {%- assign itype = item.type -%}
+            {%- else -%}
+              {%- assign itype = '' -%}
+            {%- endif -%}
+            {{-spirit_name}}||{{tag}}||{{aspects}}||{{item.link}}||{{credit}}||{{itype}}||{{item.site}};
+          {%- endunless -%}
+        {%- endfor -%}
+      {%- endcapture -%}
 
-        <li>{{ entry.author }}'s {{entry.type}} on {{entry.site}}:</li>
+      {% assign post_data = raw_post_data | strip | split:';' | sort %}
+
+      {% if post_data.size > 0 %}
+        <li>By {{ entry.author }}:</li>
         <ul>
           {% for pdata in post_data %}
             {% assign pdata = pdata | strip %}
@@ -95,13 +113,22 @@ layout: default
               {% assign aspects = pdata_list[2] %}
               {% assign link = pdata_list[3] %}
               {% assign credit = pdata_list[4] | strip %}
-              {%- unless aspects == '' -%}
-                {% assign spirit_name = spirit_name | append: ' [' | append: aspects | append: ']' %}
-              {%- endunless -%}
+              {% assign itype = pdata_list[5] | strip %}
+              {% assign website = pdata_list[6] %}
               {%- unless credit == '' -%}
                 {%- assign credit = ' suggested by ' | append: credit | append: '' -%}
               {%- endunless -%}
-              <li><a href="{{ link }}">{{site.data.icons.spirits[spirit_tag].small}} {{ spirit_name }}</a><small>{{credit}}</small></li>
+              {% if spirit_name == '' %}
+                <li>[{{website}}] <a href="{{link}}">{{itype | capitalize}}</a></li>
+              {%- else -%}
+                {%- unless aspects == '' -%}
+                  {% assign spirit_name = spirit_name | append: ' [' | append: aspects | append: ']' %}
+                {%- endunless -%}
+                {%- unless itype == '' -%}
+                  {% assign itype = ' (' | append: itype | append: ') ' %}
+                {%- endunless -%}
+                <li>[{{website}}] <a href="{{ link }}">{{site.data.icons.spirits[spirit_tag].small}} {{ spirit_name }}</a>{{itype}}<small>{{credit}}</small></li>
+              {% endif %}
             {% endif %}
           {% endfor %}
         </ul>
@@ -109,11 +136,11 @@ layout: default
     {% endfor %}
   </ul>
 
-  
   <!-- External Resources -->
   <br/>
   <h1>External resources</h1>
-  {%- assign external_resources = site.data.external_resources | sort: "name" -%} 
+  {%- assign external_resources = site.data.external_resources | sort: "name" -%}
+
   <ul>  <!-- Official -->
     {%- for entry in external_resources -%}
       {%- if entry.official -%}
@@ -121,7 +148,7 @@ layout: default
       {%- endif -%}
     {%- endfor -%}
   </ul>
-  
+
   <ul>  <!-- Unofficial -->
     {% for entry in external_resources %}
       {% unless entry.official %}
@@ -129,7 +156,7 @@ layout: default
       {% endunless %}
     {% endfor %}
   </ul>
-  
+
   <!-- Latest posts -->
   
   {% if site.paginate %}
