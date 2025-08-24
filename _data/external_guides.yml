@@ -413,6 +413,13 @@
     link: https://boardgamegeek.com/thread/2313791/openings-heart-wildfire
     site: BGG
     spirit: Wildfire
+- author: josgo5
+  items:
+  - is_collection: false
+    link: https://docs.google.com/document/d/176loGQQ3hNc2a9WSrago5RDd32BZYk0oRPxQXEt5j_Q/edit?tab=t.h8yj2cvb209i#heading=h.c3fpz22uwrr0
+    site: Google Docs
+    spirit: Memory
+    aspects: Intensify
 - author: Kalen Noreth
   items:
   - is_collection: true
@@ -677,6 +684,12 @@
     link: https://drive.google.com/file/d/16yLgcutRANscQJdx5n33DKAvkt7yz-oX/view
     site: Google Drive
     spirit: Volcano
+- author: Versallius
+  items:
+  - is_collection: false
+    link: https://docs.google.com/document/d/1wsoVlnLHPvS_5SwLpcr2KlmnqVZaVom8jEfuhq5pVi0/edit?tab=t.0#heading=h.fz5ig82d3o7p
+    site: Google Docs
+    spirit: Downpour
 - author: WhiteBox
   items:
   - credit: Sinderlin
