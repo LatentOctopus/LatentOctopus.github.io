@@ -516,8 +516,14 @@
 - author: Qrave
   items:
   - spirit: Waters
+    is_collection: false
     link: https://youtu.be/qIge1xDoiDI
     site: YouTube
+    credit: Sinderlin
+  - spirit: Waters
+    is_collection: false
+    link: docs.google.com/document/d/1_ifbSe-pqoYdLcQcMWeKkYK6nx3eekJyduER5MEkGic/
+    site: Google Docs
     credit: Sinderlin
 - author: RedReVenge
   items:
@@ -658,6 +664,13 @@
     link: https://docs.google.com/document/u/0/d/1r2K_cjZ64vCszBI72bO0XYFnkyPLnPTuVYtrLPhidOc
     site: Google Docs
     spirit: Darkness
+- author: Serenade
+  items:
+  - spirit: Downpour
+    is_collection: false
+    link: https://docs.google.com/document/d/1wsoVlnLHPvS_5SwLpcr2KlmnqVZaVom8jEfuhq5pVi0/
+    site: Google Docs
+    credit: Sinderlin
 - author: Solo Playthroughs
   items:
   - is_collection: true
