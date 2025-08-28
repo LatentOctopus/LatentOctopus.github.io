@@ -516,8 +516,14 @@
 - author: Qrave
   items:
   - spirit: Waters
+    is_collection: false
     link: https://youtu.be/qIge1xDoiDI
     site: YouTube
+    credit: Sinderlin
+  - spirit: Waters
+    is_collection: false
+    link: docs.google.com/document/d/1_ifbSe-pqoYdLcQcMWeKkYK6nx3eekJyduER5MEkGic/
+    site: Google Docs
     credit: Sinderlin
 - author: RedReVenge
   items:
@@ -684,7 +690,7 @@
     link: https://drive.google.com/file/d/16yLgcutRANscQJdx5n33DKAvkt7yz-oX/view
     site: Google Drive
     spirit: Volcano
-- author: Versallius
+- author: Serenade / Versallius
   items:
   - is_collection: false
     link: https://docs.google.com/document/d/1wsoVlnLHPvS_5SwLpcr2KlmnqVZaVom8jEfuhq5pVi0/edit?tab=t.0#heading=h.fz5ig82d3o7p
