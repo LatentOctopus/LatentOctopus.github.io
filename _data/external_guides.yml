@@ -664,13 +664,6 @@
     link: https://docs.google.com/document/u/0/d/1r2K_cjZ64vCszBI72bO0XYFnkyPLnPTuVYtrLPhidOc
     site: Google Docs
     spirit: Darkness
-- author: Serenade
-  items:
-  - spirit: Downpour
-    is_collection: false
-    link: https://docs.google.com/document/d/1wsoVlnLHPvS_5SwLpcr2KlmnqVZaVom8jEfuhq5pVi0/
-    site: Google Docs
-    credit: Sinderlin
 - author: Solo Playthroughs
   items:
   - is_collection: true
@@ -697,7 +690,7 @@
     link: https://drive.google.com/file/d/16yLgcutRANscQJdx5n33DKAvkt7yz-oX/view
     site: Google Drive
     spirit: Volcano
-- author: Versallius
+- author: Serenade / Versallius
   items:
   - is_collection: false
     link: https://docs.google.com/document/d/1wsoVlnLHPvS_5SwLpcr2KlmnqVZaVom8jEfuhq5pVi0/edit?tab=t.0#heading=h.fz5ig82d3o7p
